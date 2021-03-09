@@ -25,6 +25,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system."
 
+## Goodhart's Law
+
+> "When a measure becomes a target, it ceases to be a good measure."
+
 ## Parkinson's Law
 
 > "work expands so as to fill the time available for its completion". Same Parkinson as "Parkinson's Law of Triviality"
