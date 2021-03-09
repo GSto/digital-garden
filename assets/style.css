@@ -149,3 +149,8 @@ small {font-size: 0.8em;}
 .backlink:hover .backlink__preview {
     display: block;
 }
+
+pre, code {
+  background-color: #262525;
+  color: #fafafa;
+}
