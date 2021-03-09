@@ -1,5 +1,9 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+# Over The Digital Garden Wall
+
+My personal digital garden. Collections of notes, quotes, and drafts.
+
+## Topics
+* [[digital gardens]]
