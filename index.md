@@ -10,6 +10,7 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 * [[design resources]]
 * [[digital gardens]]
 * [[eponymous laws]]
+* [[heroku snippets]]
 * [[other writing]]
 * [[personal finance]]
 * [[responsible options trading]]
