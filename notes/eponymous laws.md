@@ -11,6 +11,11 @@
 
 Source: [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
+## Cheerleader Effect
+
+> put a bunch of things in a group, and we don't analyze them individually, we analyze the group "OMG THEY ARE ALL SO PRETTY". separate them, and the story is different "Uhh.. I see nothing special here"
+
+Source: Ryan Maynard
 ## Cobra Effect
 
 The cobra effect occurs when incentives designed to solve a problem end up rewarding people for making it worse. The term is used to illustrate how incorrect stimulation in economics and politics can cause unintended consequences. It is also known as the perverse incentive.
