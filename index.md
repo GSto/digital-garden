@@ -11,6 +11,7 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 * [[developers to consultants]]
 * [[digital gardens]]
 * [[eponymous laws]]
+* [[freemium leisure]]
 * [[heroku snippets]]
 * [[other writing]]
 * [[personal finance]]
@@ -18,6 +19,7 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 * [[responsible options trading]]
 * [[Ruby interview study guide]]
 * [[Shopify theme development]]
+* [[squads]]
 * [[why write]]
 
 
