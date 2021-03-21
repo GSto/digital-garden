@@ -14,7 +14,8 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 * [[other writing]]
 * [[personal finance]]
 * [[responsible options trading]]
-* [[ruby interview study guide]]
+* [[Ruby interview study guide]]
+* [[Shopify theme development]]
 * [[why write]]
 
 
