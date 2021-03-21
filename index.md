@@ -8,6 +8,7 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 ## Pages
 * [[article ideas]]
 * [[design resources]]
+* [[developers to consultants]]
 * [[digital gardens]]
 * [[eponymous laws]]
 * [[heroku snippets]]
