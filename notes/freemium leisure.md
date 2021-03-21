@@ -14,7 +14,7 @@ This topic is hit upon in the book [How to Do Nothing: Resisting the Attention E
 
 > This is a cruel confluence of time and space: just as we lose noncommercial spaces, we also see all of our own time and our actions as potentially commercial.
 
-We don't have stability in jobs, so we are all entreprenuers wether we like it or not. When you are an entrepreneur, every hour is potentially profitable. All lesiure activity is a loss in a capitalistic sense. Since we have to find new jobs constantly, we have to think about our appeal in the market, we have to do work outside of work because we no longer have a definition of outside of work. This to **freemium leisure**, where we feel an obligation to monetize our hobbies. 
+We don't have stability in jobs, so we are all entreprenuers wether we like it or not. When you are an entrepreneur, every hour is potentially profitable. All lesiure activity is a loss in a capitalistic sense. Since we have to find new jobs constantly, we have to think about our appeal in the market, we have to do work outside of work because we no longer have a definition of outside of work. This to **freemium leisure**, where we feel an obligation to monetize our hobbies.  
 
 ## Related Tags
 - [[indie mindset]]
