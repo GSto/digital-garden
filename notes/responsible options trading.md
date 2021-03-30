@@ -78,3 +78,5 @@ AA goes to $32. No one would sell you stock at $25 now, so you keep the initial 
 AA goes to $24. Your options are exercised and you buy it at $25. 
 - Loss w/ option: -$100 in loss + $275 from option = +$175 profit
 - Loss w/o option: -$300 in loss = -$300 loss
+
+**Tags** [[personal finance]]
