@@ -20,6 +20,7 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 * [[post senior dev fork]]
 * [[responsible options trading]]
 * [[Ruby interview study guide]]
+* [[Shaping]]
 * [[Shopify theme development]]
 * [[squads]]
 * [[why write]]
