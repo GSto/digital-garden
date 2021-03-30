@@ -24,5 +24,6 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 * [[Shopify theme development]]
 * [[squads]]
 * [[why write]]
+* [[your first software project]]
 
 
