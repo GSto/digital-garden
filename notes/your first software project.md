@@ -26,7 +26,7 @@ It's counterintuitive, but an environment that allows for failure **increases** 
 
 Experimenting requires a hypothesis. Everyone has assumptions at the start of a project. Experimenting is a way to prove or disprove those assumptions. There is a different between experimenting and throwing things at the wall and seeing what sticks.
 
-Another bristling of uncertainty is that 
+Another bristling of the uncertainty is that it is less efficient. That's a cost of this process. If the process could be made more predictible and efficient, it would be made into resuable code or software, and you wouldn't have to build them. While you make end up re-doing work and throwing work away, the process in the long term gets you to a successful project faster.
 
 ## Third party solutions come with constraints
 If a problem has been solved and is not unique, then it is likely smart to leverage someone else's existing solutions. For example, running a server to send email is complex and expensive, and would probably cost you at least $100,000/year to run, if not more. Contrast with a product like [Sendgrid](https://sendgrid.com/pricing/), which starts at free and will let you send up to 100,000 emails for $15/month. 
