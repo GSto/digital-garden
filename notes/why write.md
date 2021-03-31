@@ -20,3 +20,5 @@
 ## Resources
 * [Twitter Thread of examples](https://twitter.com/vboykis/status/1313179237487124486)
 
+## Tags
+[[writing]]

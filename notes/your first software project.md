@@ -15,6 +15,8 @@ To be fair, some software developers like to focus exclusively on the building a
 ## There are no guarantees; only increasing and decreasing chances of success. 
 What 'success' means is project-dependent. But in most cases, there is no way to 100% guarantee the success of a project. Software engineering is a game of betting and taking calculated risks. You can only do things that increase and decrease a projects chance of success.
 
+Working on software requires an [[uncertainty mindset]].
+
 ## Software development requires experimentation
 Software is resuable. If a problem has a recurring, known solution, then there are off-the-shelf solutions that can be re-used. However, if you are working with people to create custom software, then the problem in some fashion, by definition, is novel. It could be the uniqueness of your idea or your unique competitive advantage. Either way, it means solving new problems. 
 
@@ -23,6 +25,8 @@ Coming up with creative solutions to problems is something that requires trial a
 It's counterintuitive, but an environment that allows for failure **increases** a project's chance of success.
 
 Experimenting requires a hypothesis. Everyone has assumptions at the start of a project. Experimenting is a way to prove or disprove those assumptions. There is a different between experimenting and throwing things at the wall and seeing what sticks.
+
+Another bristling of uncertainty is that 
 
 ## Third party solutions come with constraints
 If a problem has been solved and is not unique, then it is likely smart to leverage someone else's existing solutions. For example, running a server to send email is complex and expensive, and would probably cost you at least $100,000/year to run, if not more. Contrast with a product like [Sendgrid](https://sendgrid.com/pricing/), which starts at free and will let you send up to 100,000 emails for $15/month. 
