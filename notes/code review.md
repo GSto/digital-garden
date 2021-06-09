@@ -1,20 +1,20 @@
 # Code Review
 
 ## Resources
-    - [Characteristics of useful comments (study)](https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf)
-        - As the primary goal of code review is to ensure that a
+  - [Characteristics of useful comments (study)](https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf)
+    - As the primary goal of code review is to ensure that a
 change is free from defects, follows team conventions, solves
 a problem in a reasonable way, and is of high quality [6], we
 consider review feedback useful if it is judged useful by author
 of the change to enable him or her to meet these goals
-    - [Github Awesome Code Reviews](https://github.com/joho/awesome-code-review)
+  - [Github Awesome Code Reviews](https://github.com/joho/awesome-code-review)
 
 ## Tips & Tricks
   - Look at the spec/requirements/ticket for context. Does the code meet those requirements?
   - Review the test code as closely as you review the code. 
   - Types of comments that are the most useful: adding documentation, suggesting better organization. #[[documentation]] #[[clean code]]
   - Make your comments readable. Write complete sentences. Leverage markdown. 
-  - Avoid trivial and insignifigant feedback, especially if it is a larger PR or if the code review is already getting long. 
+  - Avoid trivial and insignificant feedback, especially if it is a larger PR or if the code review is already getting long. 
   - Leave syntax to the linters. If you can't put a rule in a linter, then don't bother bringing it up in a code review. 
   - Replace "why didn't you X ?" with "what do you think about X, because of (reason,citation,etc.)?"
   - When the talk gets long or complex, take it offline.
@@ -27,7 +27,7 @@ of the change to enable him or her to meet these goals
 …provide some context behind the recommendation:
 
 __"Since this component doesn’t have any lifecycle methods or state, it could be made a stateless functional component. This will improve performance and readability. *Here* is some documentation."__
-  - Comment avalanching. Instead of multiple "extra space" comments, leave one. 
+  - Comment avalanches. Instead of multiple "extra space" comments, leave one. 
   - Being judgemental: 
       - __Why didn’t you just do ___ here?__”
 
@@ -43,9 +43,9 @@ __You can do ___, which has the benefit of ____.__
   - Comments often regarded as not useful include praise, suggestions for alternate input or error messages, or out-of-scope discussions about new design or features.
   - Remember there is no perfect code, only better code.
   - Code reviews are negative by default. the implication is "tell me what's wrong before we send this to production." Praise and positive comments can be used to soften the review somewhat. 
-  - Provide positive alternatives, but be wary of being too judgy and perscriptive. 
+  - Provide positive alternatives, but be wary of being too judgy and prescriptive. 
   - Keep the [[latency]] on code reviews, or any [[feedback loop]]s short. It'll make things easier. #[[tempo]] #[[tempo in software development]]
   - Smaller [[pull requests]] lead to better code reviews. 
-  - Should code reviews always been mandated? Some believe they should be sometimes but not always: junior developers, developers new to the code base, or its a particurulary critical or complex case.
+  - Should code reviews always been mandated? Some believe they should be sometimes but not always: junior developers, developers new to the code base, or its a particularly critical or complex case.
 
 **Tags** #[[above the code]] #[[professional skills]]
