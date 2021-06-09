@@ -8,6 +8,7 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 ## Pages
 * [[article ideas]]
 * [[bullshit]]
+* [[code review]]
 * [[criticisms of hourly billing]]
 * [[design resources]]
 * [[developers to consultants]]
