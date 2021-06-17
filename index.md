@@ -6,6 +6,7 @@ layout: default
 My personal digital garden. Collections of notes, quotes, and drafts.
 
 ## Pages
+* [[The Amateur and the Professional]]
 * [[article ideas]]
 * [[bullshit]]
 * [[code review]]
