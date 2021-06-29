@@ -5,6 +5,7 @@ layout: default
 
 My personal digital garden. Collections of notes, quotes, and drafts.
 ### Software, as a People Problem
+* [[code review]]
 * [[criticisms of hourly billing]]
 * [[developers to consultants]]
 * [[post senior dev fork]]
@@ -12,9 +13,11 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 * [[your first software project]]
 ### Software, as a Computer Problem
 * [[heroku snippets]]
-* [[code review]]
+* [[JavaScript]]
+* [[ReactJS]]
 * [[Ruby interview study guide]]
 * [[Shopify theme development]]
+* [[TypeScript]]
 ### Writing
 * [[article ideas]]
 * [[digital gardens]]
