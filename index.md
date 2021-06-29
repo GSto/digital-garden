@@ -4,29 +4,32 @@ layout: default
 # Over The Digital Garden Wall
 
 My personal digital garden. Collections of notes, quotes, and drafts.
-
-## Pages
-* [[The Amateur and the Professional]]
-* [[article ideas]]
-* [[bullshit]]
-* [[code review]]
+### Software, as a People Problem
 * [[criticisms of hourly billing]]
-* [[design resources]]
 * [[developers to consultants]]
-* [[digital gardens]]
-* [[eponymous laws]]
-* [[freemium leisure]]
-* [[heroku snippets]]
-* [[other writing]]
-* [[personal finance]]
 * [[post senior dev fork]]
-* [[responsible options trading]]
-* [[Ruby interview study guide]]
 * [[Shaping]]
+* [[your first software project]]
+### Software, as a Computer Problem
+* [[heroku snippets]]
+* [[code review]]
+* [[Ruby interview study guide]]
 * [[Shopify theme development]]
-* [[squads]]
+### Writing
+* [[article ideas]]
+* [[digital gardens]]
+* [[other writing]]
 * [[why write]]
 * [[writing book recommendations]]
-* [[your first software project]]
 
+### Money
+* [[personal finance]]
+* [[responsible options trading]]
 
+## Miscellaneous
+* [[The Amateur and the Professional]]
+* [[bullshit]]
+* [[design resources]]
+* [[eponymous laws]]
+* [[freemium leisure]]
+* [[squads]]

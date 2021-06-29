@@ -10,7 +10,10 @@ An open database of unfinished blog posts. Think like the roam database or Wiki,
 
 ## Examples
 
-* mentalnodes.com - Inspiration for this digital garden.
+* [mentalnodes.com](https://mentalnodes.com) - Inspiration for this digital garden.
+* [Tom Critchlow Wikifolder](https://tomcritchlow.com/wiki/)
+* [XXIIVV wiki](https://wiki.xxiivv.com/) - Visually stunning
+* [Yak Collective Roam](https://roamresearch.com/#/app/ArtOfGig/page/s6nvla0u4) - community run, public Roam database.
 
 ## Tools
 
