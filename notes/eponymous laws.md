@@ -41,6 +41,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "When a measure becomes a target, it ceases to be a good measure."
 
+## Hawthorne Effect
+
+> "People's behavior changes when they are being observed."
+
 ## "I Am Normal" Paradox
 
 > "our hypothesis that the world should look to others as it looks to us. After all, who wouldn’t make that assumption?" 

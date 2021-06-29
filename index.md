@@ -32,6 +32,7 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 ## Miscellaneous
 * [[The Amateur and the Professional]]
 * [[bullshit]]
+* [[cognitive biases]]
 * [[design resources]]
 * [[eponymous laws]]
 * [[freemium leisure]]
