@@ -1,9 +1,16 @@
 # Eponymous Laws
 
+## 7-38-55 Rule
+
+> "7 percent of a message is based on the words while 38 percent comes from the [[tone of voice]] and 55 percent from the speaker’s body language and face."
+
 ## Betteridge's Law of Headlines
 
 > "If a headline ending with a question mark is answered by the word __no.__
 
+## Black Swan Rule
+
+> "Don’t treat others the way you want to be treated; treat them the way they need to be treated."
 
 ## Brook's Law
 
@@ -34,6 +41,20 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "When a measure becomes a target, it ceases to be a good measure."
 
+## "I Am Normal" Paradox
+
+> "our hypothesis that the world should look to others as it looks to us. After all, who wouldn’t make that assumption?" 
+> - Never Split The Difference
+
+## Lindy Effect
+
+> "The longer ideas, books, technologies, procedures, institutions, political systems has survived, the more anti-fragile they are. The only effective judge of these is time." 
+[[lindy]]
+
+## Miller's Law
+
+> "The number of objects an average human can hold in short-term memory is 7 ± 2"
+
 ## Parkinson's Law
 
 > "work expands so as to fill the time available for its completion". Same Parkinson as "Parkinson's Law of Triviality"
@@ -50,6 +71,18 @@ Parkinson provides the example of a fictional committee whose job was to approve
 
 > "In a hierarchy, every employee tends to rise to their level of incompetence. Thus, in time, every post tends to be occupied by an employee who is incompetent to carry out its duties."
 
+## Pinocchio Effect
+
+> "On average, liars use more words than truth tellers and use far more third-person pronouns. They start talking about him, her, it, one, they, and their rather than I, in order to put some distance between themselves and the lie."
+
+## Similarity Principle
+
+> "We trust people more when we view them as being similar or familiar."
+
 ## Sturgeon's Law
 
-"90% of everything is crap."
+> "90% of everything is crap."
+
+## Zone of Indifference Problem
+
+> "Decisions between options with a high variance in quality is easy. Decisions get harder as the options get closer, but if they are close enough then the decision doesn't matter."

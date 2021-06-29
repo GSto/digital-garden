@@ -35,4 +35,5 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 * [[design resources]]
 * [[eponymous laws]]
 * [[freemium leisure]]
+* [[Lindy]]
 * [[squads]]
