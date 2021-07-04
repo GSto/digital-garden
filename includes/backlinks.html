@@ -1,6 +1,7 @@
+
+{% if backlinks.length > 1%}
 <hr>
 <p class="backlinks-title larger">Backlinks</p>
-{% if backlinks.length > 0%}
 <ul class="backlinks-container">
     {% for link in backlinks %}
       {% if link.url != '/' %}
