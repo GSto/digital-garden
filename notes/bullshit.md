@@ -10,5 +10,5 @@ bullshit:   truthiness == null
 
 bullshit is something that can be "[Not Even Wrong](https://rationalwiki.org/wiki/Not_even_wrong)", because it fails to meet the criteria where correctness or incorrectness can be determined.
 
-**Brandolini's Law** - "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it." #[[eponymous laws]].
+**Brandolini's Law** - "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it."
 

@@ -12,6 +12,12 @@
 
 > "Don’t treat others the way you want to be treated; treat them the way they need to be treated."
 
+## Brandolini's Law
+
+> "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it
+
+[[bullshit]]
+
 ## Brook's Law
 
 > "Adding manpower to a late software project makes it later."

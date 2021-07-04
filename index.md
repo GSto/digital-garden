@@ -7,7 +7,7 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 ### Software, as a People Problem
 * [[code review]]
 * [[criticisms of hourly billing]]
-* [[developers to consultants]]
+* [[developer to consultant]]
 * [[post senior dev fork]]
 * [[Shaping]]
 * [[your first software project]]
