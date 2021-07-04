@@ -3,12 +3,13 @@
 {% if backlinks.length > 0%}
 <ul class="backlinks-container">
     {% for link in backlinks %}
+      {% if link.url != '/' %}
         <li class="backlink">
-            <a href="{{link.url}}" class="backlink__link">{{link.title}}</a>
-            <div class="backlink__preview" role="none">
-                {{link.preview | markdownify }}
-            </div>
+            <a href="{{link.url}}" class="backlink__link">
+              {{link.title}}
+            </a>
         </li>
+      {% endif %}
     {% endfor %}
 </ul>
 {% else %}
