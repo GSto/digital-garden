@@ -4,7 +4,7 @@ Not all hours are created equal. Some hours you are more productive than others.
 
 Some people use what I call **lawyer hours.** Once a lawyer told me that certain tasks have a set billing rate. For example, writing an NDA might be 3 billable hours. Regardless of the time it takes you to complete the work, you bill for three hours. 
 
-Because of these two factors, the hour ceases to be a measurement of anything related to  the passing of time. Instead, the hour is now a bullshit abstraction, representing some amount of effort or work on an abstract problem. 
+Because of these two factors, the hour ceases to be a measurement of anything related to  the passing of time. Instead, the hour is now a [[bullshit]] abstraction, representing some amount of effort or work on an abstract problem. 
 
   - This is hourly billings only use, in fact. It gives a measurement to talk about. Writers have 'the article' or word count; designers have the comp. Coaches and trainers have the class or the session. I'll concede that most clients won't accept "it costs what it costs and no I cannot explain why." Many clients want to have some insight into the cost of providing a service because that is how less abstract service providers have taught them to think. 
   - This is **effort time** when talking about projects. Contrast with **calendar time**, which is how long a project takes. You could work 10 hours of effort time in one day or three weeks of calendar time. 

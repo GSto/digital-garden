@@ -57,10 +57,10 @@ Have you heard the saying "Fast, Cheap & Good, pick two?" Bullshit. **speed and 
 
 What do I mean when I say "quality?" Quality software is software with a higher chance of success, however you define it.
 
-## Estimates are (mostly) bullshit
+## Estimates are (mostly) [[bullshit]]
 How much does it cost to build a website? 
 
-You can set up Squarespace for $150/year. You can have a custom theme for Wordpress developed for a few thousand dollars. You can spend [$3 million dollars on a website project and still fail](https://www.kxan.com/investigations/after-years-of-work-and-3m-spent-austin-pulls-plug-on-new-website-effort/)
+You can set up [Squarespace](https://www.squarespace.com/) for $150/year. You can have a custom theme for Wordpress developed for a few thousand dollars. You can spend [$3 million dollars on a website project and still fail](https://www.kxan.com/investigations/after-years-of-work-and-3m-spent-austin-pulls-plug-on-new-website-effort/)
 
 Above explains why software projects are required to be uncertain. If a developer gives you an estimate, it's fiction.  
 
