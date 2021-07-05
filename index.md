@@ -37,7 +37,6 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 * [[responsible options trading]]
 
 ## Miscellaneous
-* [[The Amateur and the Professional]]
 * [[bullshit]]
 * [[cognitive biases]]
 * [[design resources]]
@@ -48,4 +47,6 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 * [[prolific creation]]
   * [[cult of done manifesto]]
   * [[quality pots vs. quantity of pots]]
+* [[Resistance]]
+  * [[The Amateur and the Professional]]
 * [[squads]]
