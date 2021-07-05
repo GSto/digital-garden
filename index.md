@@ -30,6 +30,7 @@ Maybe if I get everything out of my head and onto the internet I'll have plenty 
 
 ### Money
 * [[personal finance]]
+  * [[401k valuation]]
 * [[responsible options trading]]
 
 ## Miscellaneous

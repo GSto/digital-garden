@@ -15,6 +15,8 @@
 7. money left after that? if kids && faith college will be a thing, but up to $14,000 in a 529 plan, depending on how spoiled you want them to be
 8. money left after that?, and I dunno… pick up some bitcoin maybe?
 
+More on [[40k1 valuation]] here, and why you should invest in them aggressively. 
+
 ## Guiding Principles
 
 - There is zero correlation between the cost of something and how much happiness it brings you. The idea that saving and investing is boring is something they tell the poors to keep them that way.
