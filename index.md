@@ -37,4 +37,5 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 * [[eponymous laws]]
 * [[freemium leisure]]
 * [[Lindy]]
+* [[quality pots vs. quantity of pots]]
 * [[squads]]
