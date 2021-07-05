@@ -16,7 +16,7 @@
 
 > "The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it
 
-[[bullshit]]
+**Tags:** [[bullshit]]
 
 ## Brook's Law
 
