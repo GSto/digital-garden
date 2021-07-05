@@ -14,10 +14,11 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 ### Software, as a Computer Problem
 * [[heroku snippets]]
 * [[JavaScript]]
-* [[ReactJS]]
+  * [[ReactJS]]
+  * [[TypeScript]]
 * [[Ruby interview study guide]]
 * [[Shopify theme development]]
-* [[TypeScript]]
+
 ### Writing
 * [[article ideas]]
 * [[digital gardens]]
@@ -33,11 +34,11 @@ My personal digital garden. Collections of notes, quotes, and drafts.
 * [[The Amateur and the Professional]]
 * [[bullshit]]
 * [[cognitive biases]]
-* [[cult of done manifesto]]
 * [[design resources]]
 * [[eponymous laws]]
 * [[freemium leisure]]
 * [[Lindy]]
 * [[prolific creation]]
-* [[quality pots vs. quantity of pots]]
+  * [[cult of done manifesto]]
+  * [[quality pots vs. quantity of pots]]
 * [[squads]]
