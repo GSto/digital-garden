@@ -6,6 +6,8 @@ layout: default
 This is a [[digital garden]] of content that isn't quite ready for prime time. It's a place to collect notes, quotes, links, and other resources. Part of practicing [[prolific creation]]. It's also a way of [[learn in public]].
 
 I hope that if I get everything out of my head and onto the internet I'll have more room for new stuff. 
+
+For updates, check out the [Update Thread](https://twitter.com/GSto/status/1410238607684780032) on Twitter.
 ### Software, as a People Problem
 * [[code review]]
 * [[criticisms of hourly billing]]
