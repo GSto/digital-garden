@@ -31,6 +31,7 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 * [[writing book recommendations]]
 
 ### Money
+* [[housing prices]]
 * [[personal finance]]
   * [[401k valuation]]
 * [[responsible options trading]]

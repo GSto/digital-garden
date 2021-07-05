@@ -40,6 +40,12 @@ Philip Morgan published every day. By writing and publishing, he was able to ite
 
 Shipping often is one of the fastest ways to gain expertise.
 
+
+## Prolific Creation Exercises
+
+* **do 100** - from Visakanv, do 100 of something to get good at it. 
+* **tiny product challenges** - examples include Gumroad's 14-day product challenge.
+
 ### Related episodes
 
 * [Shipping dozens of websites w/ Ryan Maynard](https://www.productionreadypod.com/episodes/shipping-dozens-of-websites-w-ryan-maynard)
@@ -54,3 +60,4 @@ Shipping often is one of the fastest ways to gain expertise.
 * [Letter to a Young Songwriter - Visakanv](http://visakanv.com/1000/0152-letter-to-a-young-songwriter/)
 * [Calculus of Grit - Ribbonfarm](https://www.ribbonfarm.com/2011/08/19/the-calculus-of-grit/)
 * [Don't End The Week With Nothing - Patrick Mackenzie](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
+* [do 100 thing - Visakanv](https://www.visakanv.com/blog/100-2/)
