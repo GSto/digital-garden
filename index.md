@@ -3,7 +3,7 @@ layout: default
 ---
 # Over The Digital Garden Wall
 
-This is a [[digital garden]] of content that isn't quite ready for prime time. It's a place to collect notes, quotes, links, and other resources. Part of practicing [[prolific creation]]. It's also a way of [[learning in public]].
+This is a [[digital garden]] of content that isn't quite ready for prime time. It's a place to collect notes, quotes, links, and other resources. Part of practicing [[prolific creation]]. It's also a way of [[learn in public]].
 
 I hope that if I get everything out of my head and onto the internet I'll have more room for new stuff. 
 ### Software, as a People Problem
