@@ -10,5 +10,11 @@ Excerpt from a local Facebook group:
 - In examining one of these homes, I found that if sold to a local, first time home-buyer with solid credit, the monthly payment would be around $900 (including PMI and homeowners insurance). Instead, this home is now being rented for $1,495, and managed by a company from... you guessed it, Philadelphia.
 - There are a number of ways to keep capital local and keep out these outside investment groups. I urge you to chat with your city council representative about how we can leverage financial incentives for locals and financial penalties for whomever the next LLC of the week might be. I'll throw a link to one potential path forward in the comments.
 
+## Open Questions
+
+- What's the bull case for the housing market? What signs point to the value of houses continuing to increase?
+- What's the bear case for the housing market? What signs point to some kind of correction? 
+- If there is a correction, how steep/flat or fast/slow will it be? 
+
 **Tags**
 - [[real estate]]

@@ -41,6 +41,7 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 * [[cognitive biases]]
 * [[design resources]]
 * [[eponymous laws]]
+* [[expertise]]
 * [[freemium leisure]]
 * [[learn in public]]
 * [[Lindy]]
