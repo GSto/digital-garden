@@ -19,6 +19,16 @@ Don't try to be the best, and don't try to be original.
 
 Emobdied in the [[cult of done manifesto]]
 
+## Creation Cultivates Expertise
+
+Shipping often is one of the fastest ways to gain [[expertise]].
+
+Your work is often smarter than you. Creating and sharing more is how you get improve.
+
+Creating more helps you see where've you been, so that you may better see where to go next.
+
+The function of most work is to better inform the creator how the make the few pieces of work that will matter. 
+
 ## The 3 R's of building on your work: 
 * Reworking
   * Improve your work by reworking previous ideas. Iteration helps you get better. 
@@ -29,9 +39,7 @@ Emobdied in the [[cult of done manifesto]]
 
 Prolific creation requires shipping your work, and can be a form of [[learning in public]].
 
-Prolific creation helps you get more reps in against the [[Resistance]], however I don't think it ever gets easier.
-
-Your work is often smarter than you. Creating and sharing more is how you get improve.
+Prolific creation helps you get more reps in against [[Resistance]], however I don't think it ever gets easier.
 
 ## On Production Ready
 Prolific creation was one of the themes that emerged organically from season one of Production Ready. [From the season summary](https://www.glennstovall.com/6-lessons-5-emergent-themes-from-recording-19-episodes/):
@@ -39,12 +47,6 @@ Prolific creation was one of the themes that emerged organically from season one
 When I joined Devanooga and saw someone who was consistently shipping [crazy side projects](https://thiccdavis.club/), I knew I had to talk to them. Then, I saw the theme come up again and again.
 
 Philip Morgan published every day. By writing and publishing, he was able to iterate on ideas and cultivate expertise quickly. Itamar talked about it in terms of productivity. Shawn Wang spoke about it in terms of learning in public. Tom spoke about writing as a way to explore ideas.
-
-Shipping often is one of the fastest ways to gain expertise.
-
-Creating more helps you see where've you been, so that you may better see where to go next. 
-
-The function of most work is to better inform the creator how the make the few pieces of work that will matter. 
 
 ### Related episodes
 
