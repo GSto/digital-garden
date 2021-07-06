@@ -34,6 +34,8 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 * [[housing prices]]
 * [[personal finance]]
   * [[401k valuation]]
+  * [[asset allocation]]
+* [[real estate investing]]
 * [[responsible options trading]]
 
 ## Miscellaneous
