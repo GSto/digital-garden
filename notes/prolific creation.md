@@ -1,3 +1,5 @@
+# Prolific Creation 
+
 Prolific creation is the idea that the way to increase the quality of your work is to be more prolific, and increase the quantity of it.
 
 
@@ -40,11 +42,9 @@ Philip Morgan published every day. By writing and publishing, he was able to ite
 
 Shipping often is one of the fastest ways to gain expertise.
 
+Creating more helps you see where've you been, so that you may better see where to go next. 
 
-## Prolific Creation Exercises
-
-* **do 100** - from Visakanv, do 100 of something to get good at it. 
-* **tiny product challenges** - examples include Gumroad's 14-day product challenge.
+The function of most work is to better inform the creator how the make the few pieces of work that will matter. 
 
 ### Related episodes
 
@@ -53,7 +53,10 @@ Shipping often is one of the fastest ways to gain expertise.
 * [The Secret Skills of Productive Programmers w/ Itamar Turner-Truaring](https://www.productionreadypod.com/episodes/the-secret-skills-of-productive-programmers-w-itamar-turner-truaring)
 * [Marketing yourself & your products by learning in public w/ Shawn Wang](https://www.productionreadypod.com/episodes/marketing-yourself-your-products-by-learning-in-public-w-shawn-wang)
 
+## Prolific Creation Exercises
 
+* **do 100** - from Visakanv, do 100 of something to get good at it. 
+* **tiny product challenges** - examples include Gumroad's 14-day product challenge.
 
 ## Further Reading
 * [Actions Produces Information - Common Cog](https://commoncog.com/blog/action-produces-information/)
