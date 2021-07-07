@@ -25,6 +25,7 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 * [[Shopify theme development]]
 
 ## Concepts
+* [[antifragile]]
 * [[bullshit]]
 * [[expertise]]
 * [[Lindy]]
@@ -55,4 +56,5 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 * [[eponymous laws]]
 * [[freemium leisure]]
 * [[learn in public]]
+* [[too much comfort produces weakness]]
 * [[squads]]
