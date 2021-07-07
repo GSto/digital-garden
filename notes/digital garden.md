@@ -16,6 +16,7 @@ An open database of unfinished blog posts. Think like the roam database or Wiki,
 * [Yak Collective Roam](https://roamresearch.com/#/app/ArtOfGig/page/s6nvla0u4) - community run, public Roam database.
 * [Directory of Digital Gardens](https://github.com/maggieappleton/digital-gardeners#digital-garden-directory)
 * [Visakanv's Open Roam Database](https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI)
+* [Andy's Matuschak's Working Notes](https://notes.andymatuschak.org/) - Great resources in here about taking notes and digital gardening.
 
 ## Tools
 
