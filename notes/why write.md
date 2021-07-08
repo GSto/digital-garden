@@ -19,6 +19,7 @@
 
 ## Resources
 * [Twitter Thread of examples](https://twitter.com/vboykis/status/1313179237487124486)
+* [Why I Write - James Clear](https://jamesclear.com/scale)
 
 ## Tags
 [[writing]]

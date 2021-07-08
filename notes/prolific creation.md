@@ -17,6 +17,8 @@ From __Letter to a Young Songwriter__:
 
 Don't try to be the best, and don't try to be original. 
 
+To be more prolific, you have to give yourself permission to write junk. Not everything is going to be good, and that's ok. Work that doesn't succeed teaches. 
+
 Emobdied in the [[cult of done manifesto]]
 
 ## Creation Cultivates Expertise
