@@ -59,4 +59,5 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 * [[knowledge base]]
 * [[learn in public]]
 * [[too much comfort produces weakness]]
+* [[the red tape paradox]]
 * [[squads]]
