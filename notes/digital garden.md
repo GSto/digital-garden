@@ -2,6 +2,8 @@
 
 An open database of unfinished blog posts. Think like the roam database or Wiki, but open to the public. 
 
+Sometimes links are broken, that's a feature not a bug. Part of writing in this style is to create connections that surprise you. One technique to facilitate this is to include links to pages that don't exist yet. When they come into being they will already be part of a larger graph of ideas. 
+
 ## Why A Digital Garden? 
 
 Digital Garden's combine a few different ideas. The first is evergreen note taking. Notes in a digital garden are meant to be edited, refined, added to, and updated over time. They accumulate across time and across projects. Second is synthesis. Since the structure of a digital garden grows organically, you hope to discover connections between ideas you otherwise wouldn't have. Combining and refining ideas are core to [[creativity]], since [everything is a remix](https://www.youtube.com/watch?v=nJPERZDfyWc&ab_channel=KirbyFerguson). 

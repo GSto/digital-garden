@@ -13,8 +13,10 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 * [[code review]]
 * [[criticisms of hourly billing]]
 * [[developer to consultant]]
+* [[launch anxiety ]]
 * [[post senior dev fork]]
 * [[Shaping]]
+* [[the red tape paradox]]
 * [[your first software project]]
 ### Software, as a Computer Problem
 * [[heroku snippets]]
@@ -59,5 +61,6 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 * [[knowledge base]]
 * [[learn in public]]
 * [[too much comfort produces weakness]]
-* [[the red tape paradox]]
 * [[squads]]
+
+Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with this garden. Current count: 43
