@@ -11,7 +11,7 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 
 Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with this garden. 
 
-Current count: **44**
+Current count: **45**
 
 ### Software, as a People Problem
 * [[code review]]
@@ -36,6 +36,7 @@ Current count: **44**
 * [[expertise]]
 * [[indie mindset]]
 * [[Lindy]]
+* [[luck]]
 * [[prolific creation]]
   * [[cult of done manifesto]]
   * [[quality pots vs. quantity of pots]]
