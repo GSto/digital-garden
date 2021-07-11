@@ -11,7 +11,7 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 
 Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with this garden. 
 
-Current count: **45**
+Current count: **46**
 
 ### Software, as a People Problem
 * [[code review]]
@@ -59,7 +59,7 @@ Current count: **45**
 * [[responsible options trading]]
 
 ## Miscellaneous
-
+* [[action produces information]]
 * [[cognitive biases]]
 * [[design resources]]
 * [[eponymous laws]]
