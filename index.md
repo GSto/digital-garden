@@ -17,7 +17,7 @@ Current count: **49**
 * [[code review]]
 * [[criticisms of hourly billing]]
 * [[developer to consultant]]
-* [[launch anxiety]]
+
 * [[post senior dev fork]]
 * [[Shaping]]
 * [[the red tape paradox]]
@@ -39,6 +39,7 @@ Current count: **49**
   * [[quality pots vs. quantity of pots]]
 * [[Resistance]]
   * [[The Amateur and the Professional]]
+  * [[launch anxiety]]
 ### Writing
 * [[article ideas]]
 * [[digital garden]]
