@@ -12,12 +12,10 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with this garden. 
 
 Current count: **49**
-
 ### Software, as a People Problem
 * [[code review]]
 * [[criticisms of hourly billing]]
 * [[developer to consultant]]
-
 * [[post senior dev fork]]
 * [[Shaping]]
 * [[the red tape paradox]]
@@ -37,6 +35,7 @@ Current count: **49**
 * [[prolific creation]]
   * [[cult of done manifesto]]
   * [[quality pots vs. quantity of pots]]
+  * [[action produces information]]
 * [[Resistance]]
   * [[The Amateur and the Professional]]
   * [[launch anxiety]]
@@ -61,7 +60,7 @@ Current count: **49**
 * [[responsible options trading]]
 
 ## Miscellaneous
-* [[action produces information]]
+
 * [[cognitive biases]]
 * [[decision making models]]
 * [[design resources]]

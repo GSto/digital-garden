@@ -3,7 +3,6 @@
 ## Resources
 * [[rpf prime directive]] - if you aren't sure where to start, start here.
 
-
 ## Prime Directive Summary
 
 1. don’t waste money on dumb shit
