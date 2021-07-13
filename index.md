@@ -11,13 +11,13 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 
 Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with this garden. 
 
-Current count: **48**
+Current count: **49**
 
 ### Software, as a People Problem
 * [[code review]]
 * [[criticisms of hourly billing]]
 * [[developer to consultant]]
-* [[launch anxiety ]]
+* [[launch anxiety]]
 * [[post senior dev fork]]
 * [[Shaping]]
 * [[the red tape paradox]]
@@ -29,26 +29,27 @@ Current count: **48**
   * [[TypeScript]]
 * [[Ruby interview study guide]]
 * [[Shopify theme development]]
-
 ## Concepts
-* [[antifragile]]
 * [[bullshit]]
 * [[expertise]]
 * [[indie mindset]]
 * [[Lindy]]
-* [[luck]]
 * [[prolific creation]]
   * [[cult of done manifesto]]
   * [[quality pots vs. quantity of pots]]
 * [[Resistance]]
   * [[The Amateur and the Professional]]
-* [[risk]]
 ### Writing
 * [[article ideas]]
 * [[digital garden]]
 * [[other writing]]
 * [[why write]]
 * [[writing book recommendations]]
+## Disorder
+* [[antifragile]]
+* [[luck]]
+* [[risk]]
+* [[variance]]
 
 ### Money
 * [[housing prices]]
