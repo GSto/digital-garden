@@ -71,6 +71,11 @@ You can also add `readonly` to a property to make it immutable. #[[immutability]
   }
   ```
 
+## Unions
+Unions are an alternative to Enums. Examples of unions: 
+
+type SportsType = 'Football' | 'Baseball' | 'Basketball' | 'Hockey'
+
 ## Annotations
   - function argument annotations
     - `function calculateWinnings(amount:number, price:number)`

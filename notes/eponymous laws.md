@@ -94,6 +94,11 @@ Parkinson provides the example of a fictional committee whose job was to approve
 
 > "90% of everything is crap."
 
+## Zeigarnik Effect
+
+> "People remember unfinished or interrupted tasks better than completed tasks."
+[[zeigarnik Effect]]
+
 ## Zone of Indifference Problem
 
 > "Decisions between options with a high variance in quality is easy. Decisions get harder as the options get closer, but if they are close enough then the decision doesn't matter."
