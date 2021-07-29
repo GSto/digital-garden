@@ -6,7 +6,7 @@ Sometimes links are broken, that's a feature not a bug. Part of writing in this 
 
 ## Why A Digital Garden? 
 
-Digital Garden's combine a few different ideas. The first is evergreen note taking. Notes in a digital garden are meant to be edited, refined, added to, and updated over time. They accumulate across time and across projects. Second is synthesis. Since the structure of a digital garden grows organically, you hope to discover connections between ideas you otherwise wouldn't have. Combining and refining ideas are core to [[creativity]], since [everything is a remix](https://www.youtube.com/watch?v=nJPERZDfyWc&ab_channel=KirbyFerguson). 
+Digital Garden's combine a few different ideas. The first is [[evergreen notes]]. Notes in a digital garden are meant to be edited, refined, added to, and updated over time. They accumulate across time and across projects. Second is synthesis. Since the structure of a digital garden grows organically, you hope to discover connections between ideas you otherwise wouldn't have. Combining and refining ideas are core to [[creativity]], since [everything is a remix](https://www.youtube.com/watch?v=nJPERZDfyWc&ab_channel=KirbyFerguson). 
 
 Thirdly, digital gardens tend to be online, and function as a way to [[learn in public]]. 
 

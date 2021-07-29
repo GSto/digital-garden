@@ -32,11 +32,14 @@ Creating more helps you see where've you been, so that you may better see where 
 The function of most work is to better inform the creator how the make the few pieces of work that will matter. 
 
 ## The 3 R's of building on your work: 
-* Reworking
+
+### Reworking
   * Improve your work by reworking previous ideas. Iteration helps you get better. 
-* Referencing
+  
+### Referencing
   * Stack bricks. Use your old work as much as you can in new work. 
-* Releasing (specifically, **early and frequent releasing**)
+
+### Releasing (specifically, **early and frequent releasing**)
   * Trying to predict how your work will land is like timing the stock market: impossible. The only way to increase your odds is to increase your number of consistent swings. 
 
 Prolific creation requires shipping your work, and can be a form of [[learning in public]].
@@ -46,9 +49,9 @@ Prolific creation helps you get more reps in against [[Resistance]], however I d
 ## On Production Ready
 Prolific creation was one of the themes that emerged organically from season one of Production Ready. [From the season summary](https://www.glennstovall.com/6-lessons-5-emergent-themes-from-recording-19-episodes/):
 
-When I joined Devanooga and saw someone who was consistently shipping [crazy side projects](https://thiccdavis.club/), I knew I had to talk to them. Then, I saw the theme come up again and again.
+When I joined [Devanooga](https://www.devanooga.com/) and saw someone who was consistently shipping [crazy side projects](https://thiccdavis.club/), I knew I had to talk to them. Then, I saw the theme come up again and again.
 
-Philip Morgan published every day. By writing and publishing, he was able to iterate on ideas and cultivate expertise quickly. Itamar talked about it in terms of productivity. Shawn Wang spoke about it in terms of learning in public. Tom spoke about writing as a way to explore ideas.
+[Philip Morgan](https://philipmorganconsulting.com/) published every day. By writing and publishing, he was able to iterate on ideas and cultivate expertise quickly. [Itamar](http://itamarst.org/) talked about it in terms of productivity. [Shawn Wang](https://www.swyx.io/) spoke about it in terms of [[learn in public]]. [Tom Critchlow](https://tomcritchlow.com/) spoke about writing as a way to explore ideas.
 
 ### Related episodes
 
@@ -59,7 +62,7 @@ Philip Morgan published every day. By writing and publishing, he was able to ite
 
 ## Prolific Creation Exercises
 
-* **do 100** - from Visakanv, do 100 of something to get good at it. 
+* **do 100** - from [Visakanv](https://visakanv.com/), do 100 of something to get good at it. 
 * **tiny product challenges** - examples include Gumroad's 14-day product challenge.
 
 ## Further Reading
