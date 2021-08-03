@@ -7,13 +7,14 @@ a, a:visited {
   color: #607aff;
 }
 
-body > footer, main {
-  margin-left: 18px;
+
+body > main, body > footer, body > header {
+  margin-left: auto; 
+  margin-right: auto;
 }
 
 body > header {
-  text-align: left;
-  margin-left: 18px;
+  text-align: center;
 }
 
 header nav a {
