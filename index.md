@@ -9,7 +9,7 @@ I hope that if I get everything out of my head and onto the internet I'll have m
 
 For updates, check out the [Update Thread](https://twitter.com/GSto/status/1410238607684780032) on Twitter, or view the source on [Github](https://github.com/GSto/digital-garden).
 
-Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with this garden. Current count: **56**
+Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with this garden. Current count: **57**
 ### Software, as a People Problem
 * [[code review]]
 * [[criticisms of hourly billing]]
@@ -19,6 +19,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 * [[the red tape paradox]]
 * [[your first software project]]
 ### Software, as a Computer Problem
+* [[accessibility]]
 * [[heroku snippets]]
 * [[JavaScript]]
   * [[ReactJS]]
