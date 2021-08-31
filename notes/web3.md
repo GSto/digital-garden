@@ -27,6 +27,13 @@ Core principle: adding protocols for payments and state to the internet.
 ## Using The Blockchain
 There are several wallets available to use multiple types of cryptocurrencies. 
 
+## Developing on The Blockchain
+- [Hardhat](https://hardhat.org/) - used for setting up a Solidity development environment.
+- [Truffle](https://www.trufflesuite.com/) - another development environment
+- [Remix IDE](https://remix.ethereum.org/) - Online IDE
+- [Web3.js](https://web3js.readthedocs.io/en/v1.4.0/) - [[Ethereum]] [[Javascript]] API
+- [Ethers.js](https://docs.ethers.io/v5/) - Another [[Ethereum]] [[JavaScript]] API. 
+
 ## Buying, Selling, and Trading Cryptocurrency
 
 I mostly use [Coinbase](https://coinbase.com) for ease of use. It supports "mainstream" coins. 
