@@ -26,3 +26,7 @@ header nav a {
 header nav a:visited {
   color: #000;
 }
+
+ul li { 
+  margin-bottom: 1em;
+}
