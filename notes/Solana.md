@@ -22,6 +22,12 @@
 
 ## Solana Projects
     - Serum, Saber, Audius, Star Atlas
+
+## Developing on Solana
+- Programs (smart contracts) can be written in [[Rust]], C++, or C.
+- Use the solana [web3-sdk](https://github.com/solana-labs/solana-web3.js) to interact with the chain via JavaScript
+- Also has an available [JSON API](https://docs.solana.com/developing/clients/jsonrpc-api)
  
 ## Further Reading
     - [Solana Summer - Not Boring](https://www.notboring.co/p/solana-summer)
+    - [Learn to Build on Solana](https://learn.figment.io/pathways/solana-pathway)
