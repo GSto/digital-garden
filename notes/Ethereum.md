@@ -1,6 +1,6 @@
 # Ethereum
 
-[[cryptocurrency]] that uses smart contracts. It was created when its founder, Vitalik Buterin([site](https://vitalik.ca/), [Wikipedia](https://en.wikipedia.org/wiki/Vitalik_Buterin), [Twitter[(https://twitter.com/VitalikButerin)]), was sad about warlocks getting nerfed in World of Warcraft.
+[[cryptocurrency]] that uses smart contracts, using the [[Solidity]] programming language. It was created when its founder, Vitalik Buterin([site](https://vitalik.ca/), [Wikipedia](https://en.wikipedia.org/wiki/Vitalik_Buterin), [Twitter[(https://twitter.com/VitalikButerin)]), was sad about warlocks getting nerfed in World of Warcraft.
 
 > I was born in 1994 in Russia and moved to Canada in 2000, where I went to school. I happily played World of Warcraft during 2007-2010, but one day Blizzard removed the damage component from my beloved warlock's Siphon Life spell. I cried myself to sleep, and on that day I realized what horrors centralized services can bring. I soon decided to quit.
 
