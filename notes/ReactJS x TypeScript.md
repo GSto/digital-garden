@@ -16,3 +16,5 @@
   - `React.ComponentType<React.HtmlHTMLAttributes<HTMLButtonElement>`
 - If you are passing in an event handler, you can use the generic `React.ChangeEvent`
   - Example `React.ChangeEvent<HTMLInputElement>`
+
+**Tags** [[ReactJS]], [[TypeScript]]
