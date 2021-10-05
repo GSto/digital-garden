@@ -5,6 +5,17 @@
   - https://fettblog.eu/typescript-react/
   - you can use the `?` on types to
 
+## Basic Prop Typing
+
+```
+type blogProps = { title: string, content?: string }
+const BlogPost = ({title, content }: blogProps) => <div />
+// or
+const BlogPost = (props:blogProps) => <div />
+// or
+const BlogPost: FunctionComponent<BlogProps> = ({ title, content }) => <div/>
+```
+
 ## Typing Components
 
 - Using the generic FunctionComponent allows you to include the optional children prop. However, using `React.FunctionComponent` is not recommended.
