@@ -18,3 +18,6 @@ Asking for a decision "what if we do nothing?" for a given option. Sometimes the
 
 ## Make Reversible Decisions Quickly
 "Some decisions are one-way doors, make those decisions slowly. But most are changeable and reversible. They should be made quickly by high judgement individuals in small groups" - Jeff Bezos
+
+## Effectual Reasoning
+Instead of asking yourself "where do I want to go, and how can I bridge the gap?", instead think of "based on where I am now, where can I go from here?" - [[effectual reasoning]]
