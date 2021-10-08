@@ -1,6 +1,6 @@
-# Missing Links
+<h1>Missing Links</h1>
 
-test 
+{% for link in brokenLinks %}
 
-{{ test }}, {{ postCount }}
-
+- {{ link }}
+  {% endfor %}
