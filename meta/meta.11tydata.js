@@ -20,12 +20,17 @@ module.exports = {
         for (link of outboundLinks) {
           // if the link does not exist in the key
           if (!noteKey.some(key => caselessCompare(key, link))) {
-            brokenLinks.push(link);
+            // if it exists, add the link to the array
+            if(brokenLinks[link]) {
+              brokenLinks[link].push(note)
+            } else {
+              brokenLinks[link] = [note]
+            }
           }
         }
       }
 
-      return [...new Set(brokenLinks)];
+      return brokenLinks;
     },
     postCount: (data) => data.collections.notes.length,
   },
