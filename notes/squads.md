@@ -30,7 +30,7 @@
   - **Take a gig, leave a gig** - share work we don't want. 
   - **Shared subcontracting** - hire one another to help on each other's projects.
   - **Weekly hangouts**  structured (mastermind style) or unstructured.
-  - **Shared knowledge base** some kind of blog / wiki / roam; could be either a public facing [[digital gardens]] or a private internal resource.
+  - **Shared knowledge base** some kind of blog / wiki / roam; could be either a public facing [[digital garden]]s or a private internal resource.
       - Examples:
           - [[Yak Collective Roam Database]]
   - **Avengers, Assemble Projects** Working together on larger, collaborative projects.

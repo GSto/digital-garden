@@ -81,7 +81,7 @@ __TODO: turn this into a table__
 
 - Old thread from Adam Wathan about [[productized services]] and [[value-based pricing]]. [Source](https://twitter.com/adamwathan/status/1193132593996292096): "Value based pricing is absolutely the best approach for work that can be productized, but custom software development is not that type of work."
 - Interesting thread on "software as solutions": McKinsey has started buying software and selling solutions to clients, instead of pure strategy. I suppose selling solutions is higher leverage than selling strategy?  Maybe the real play is this: solution > strategy > labor. [Thread Link](https://twitter.com/ShaanVP/status/1349431711491264518?s=20)
-- Found that the **Entrepreneurial coder podcast** looks like a great resource for learning about [[independent work]] and [[developers to consultants]] types. It appears the most common bridge is training products, and then training services. 
+- Found that the **Entrepreneurial coder podcast** looks like a great resource for learning about [[independent work]] and developers-to-consultants types. It appears the most common bridge is training products, and then training services. 
 
 
 ## Open Questions

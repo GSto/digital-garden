@@ -14,7 +14,7 @@
 7. money left after that? if kids && faith college will be a thing, but up to $14,000 in a 529 plan, depending on how spoiled you want them to be
 8. money left after that?, and I dunno… pick up some bitcoin maybe?
 
-More on [[40k1 valuation]] here, and why you should invest in them aggressively. 
+More on [[401k valuation]] here, and why you should invest in them aggressively. 
 
 ## Guiding Principles
 
@@ -28,7 +28,7 @@ More on [[40k1 valuation]] here, and why you should invest in them aggressively.
 - Creating a budget spreadsheet and plan:
     - 1. Calculate monthly house income. Use a 12-month average if you have variable income.
     - 2. List all mandatory expenses -  E Mortgage, car payment, groceries, utilities. For expenses that change we look at the last three or four months and set that average as our budget. 
-    - 3. List all mandatory annual expensives, divide by 12. 
+    - 3. List all mandatory annual expenses, divide by 12. 
     - 4. List all other recurring monthly charges. (ex. Netflix)
     - 5. List other annualized expenses (i.e. vacations, home improvement, clothing). 
     - 5. Calculate your minimum monthly nut (aka "rice and beans money"). 
@@ -42,7 +42,7 @@ More on [[40k1 valuation]] here, and why you should invest in them aggressively.
 - Use [Nerdwallet.com](https://www.nerdwallet.com/) and [/r/churning](https://www.reddit.com/r/churning) to find credit cards with good points returns and sign up bonuses. __(these aren't as good as they used to be pre-pandemic.)__
 - Pay credit cards to $0 every month.
 - You can use these points to pay for travel, or gift cards. Look at the terms and maximize point value where you can.  For example, when we aren't traveling we get gift cards to Target, Amazon, and Home Depot.
-- All spending goes on credit cards unless you have to pay for the priviledge. This provides protection from fraud that debit cards do not. 
+- All spending goes on credit cards unless you have to pay for the privilege. This provides protection from fraud that debit cards do not. 
 
 ## Automation
 - Automate monthly bills and at least minimum payments on credit cards. 
