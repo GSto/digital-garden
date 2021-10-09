@@ -1,7 +1,7 @@
 ---
 layout: note
 ---
-# Missing Links ({{brokenLinksCount}})
+# Missing Links ({{brokenLinks | size}})
 
 A list of broken internal links. can serve as inspiration for parts of the graph that may call for further information.
 

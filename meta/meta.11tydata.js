@@ -26,13 +26,20 @@ const getBrokenLinks = (notes) => {
     }
   }
 
-  return brokenLinks;
+  return Object.entries(brokenLinks).sort((a, b) => {
+    if(a[1].length > b[1].length) {
+      return -1
+    } else if(a[1].length < b[1].length) {
+      return 1
+    } else {
+      return a > b ? 1 : -1
+    }
+  });
 }
 
 module.exports = {
   eleventyComputed: {
     test: 1,
     brokenLinks: (data) => getBrokenLinks(data.collections.notes),
-    brokenLinksCount: (data) => Object.keys(getBrokenLinks(data.collections.notes)).length,
   },
 };
