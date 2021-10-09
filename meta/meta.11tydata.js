@@ -1,15 +1,11 @@
 const { caselessCompare } = require("../lib/string");
 const { getOutboundLinks } = require("../lib/notes");
-/*
- useful parts of note construct: 
-  note.url, 
-  note.data.title
-*/
+
 module.exports = {
   eleventyComputed: {
     test: 1,
     brokenLinks: (data) => {
-      //TODO: would be nice if this could tell us where the links were from
+
       let first = true;
 
       // array of all possible note URLs
@@ -22,7 +18,13 @@ module.exports = {
           if (!noteKey.some(key => caselessCompare(key, link))) {
             // if it exists, add the link to the array
             if(brokenLinks[link]) {
-              brokenLinks[link].push(note)
+
+              brokenLinks[link] = [...new Set(
+                [
+                  ...brokenLinks[link],
+                  note
+                ]
+              )]
             } else {
               brokenLinks[link] = [note]
             }
