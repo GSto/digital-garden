@@ -1,6 +1,8 @@
-<h1>Missing Links</h1>
+---
+layout: note
+---
+# Missing Links ({{ brokenLinks.length }})
 
 {% for link in brokenLinks %}
-
 - {{ link }}
-  {% endfor %}
+{% endfor %}
