@@ -7,7 +7,7 @@ Core principle: adding protocols for payments and state to the internet.
 - [[cryptocurrency]] - an exchange of tokens built on a block chain.  they provide a financial incentive ("tokens") to participate in the network. 
   - **Bitcoin** - The OG
   - **Ethereum** The main(?) cryptocurrency NFTs and other smart contracts are built on.
-  - [[Solena]] - lots of buzz currently (early sept 2021), unsure why. 
+  - [[Solana]] - lots of buzz currently (early sept 2021), unsure why. 
   - **stablecoins** - A class of cryptocurrency where the tokens are backed by a reserve asset. In theory they should have a stable price. 
 - [[NFT]]s - non-fungible tokens. unique tokens 
 - [[Smart Contracts]] a program that can execute on a blockchain.

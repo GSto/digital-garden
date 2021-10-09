@@ -32,7 +32,7 @@ const getBrokenLinks = (notes) => {
     } else if(a[1].length < b[1].length) {
       return 1
     } else {
-      return a > b ? 1 : -1
+      return a[0].toLowerCase() > b[0].toLowerCase() ? 1 : -1
     }
   });
 }

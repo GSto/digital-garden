@@ -8,7 +8,7 @@ I suspect that launch anxiety is finally paying the price of mistakes earlier in
   - [[one more feature-itis]] - deciding that what you're launching won't succeed because you need "one more feature." 
   - Over perfection, or the refusal to ship something perfect. 
   - Over preparation. Preparation is useful to a point, but at a certain point it's a manifestation of fear.
-  - Acting out [[Parkinson's Law]] of triviality: Giving a disproportionate amount of time and energy towards trivial matters. AKA [[bike-shedding]]. 
+  - Acting out [[Parkinsons Law]] of triviality: Giving a disproportionate amount of time and energy towards trivial matters. AKA [[bike-shedding]]. 
 
 ## Consequences
   - There is an opportunity cost paid when going through launch anxiety. The more time and energy you put into a launch, the higher the cost. What it does not do is increase your chances of success, so all you have done is increased the overall [[risk]] of the project. 
