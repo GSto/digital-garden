@@ -21,3 +21,8 @@ When writing notes from sources, take time to translate them into your own words
 Evergreen notes are a great way to fall into making [[deck chair moves]] if you aren't careful. The most important part of the practice is you help sharpen your thinking, and offload storage from your physical brain to a digital data store. Don't get too caught up in tools and processes. The most important thing is to do the work. 
 
 Offloading some of work into a data store we can trust helps you combat the [[Zeigarnik effect]]: the stress caused by holding unclosed loops in our short-term memory. 
+
+## Increasing the value of an evergreen note
+- **Include a further reading or appendix section** This gives the reader additional resources to research the work further
+- **deep linking.** Add links through out the note, both to other notes, other works, and external resources. 
+- **add media** - images, youtube videos, twitter threads, code samples, etc. all add to the richness of the note.

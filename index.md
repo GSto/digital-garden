@@ -57,6 +57,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[evergreen notes]]
 - [[other writing]]
 - [[why write]]
+- [[writing]]
 - [[writing book recommendations]]
 
 ## Disorder
