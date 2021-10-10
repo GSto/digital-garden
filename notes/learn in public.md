@@ -10,6 +10,14 @@ Working in public helps you build more capital, in the form of social capital. A
 
 This [[digital garden]] is an example of the practice. By putting my notes out into the world I'm forced to refine them into something that's useful not just for me, further helping me refine these thoughts.
 
+learning in public helps with [[experimentation]] and [[working identities]]. It allows you to try out ideas and see what resonates.
+
+## Examples of Learn in Public Content
+* making of, behind the scenes content
+* "how we solved X" > "how to solve X"
+
+
+
 ## Further Reading
 
 * [Learn in Public - Swyx](https://www.swyx.io/learn-in-public/)

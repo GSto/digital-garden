@@ -45,6 +45,7 @@ In Vanketesh Rao's book [Tempo](https://www.ribbonfarm.com/tempo/), this is expl
 
 Outlining is the part of the writing process where you develop not one thought, but the whole argument. It's useful to always have a structure to work with, even if it is constantly changing. 
 
+
 ## Writing Rules
 
 ### Amazon's Writing Rules
@@ -73,7 +74,7 @@ Outlining is the part of the writing process where you develop not one thought, 
 - Use bullet points instead of paragraphs. 
 - Use descriptive anchor text. 
 - Avoid saying "follow simple steps or "its easy" or "its obvious." These can make your reader feel stupid. 
-- Use AlexJS a tool to help identify insensitive language.
+- Use [AlexJS](https://alexjs.com/) a tool to help identify insensitive language.
 
 
 
