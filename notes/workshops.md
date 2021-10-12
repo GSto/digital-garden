@@ -1,0 +1,56 @@
+# Workshops
+
+- **References**
+  - [[Article: Workshops as Portals]]
+  - [[workshops]]
+  - [[Book: Shape Up]]
+  - [New Software product questions](https://spin.atomicobject.com/2020/01/24/new-software-project-questions/)
+- **Abstract**
+  - Service pitched to new clients who want to greenfield a new application. Goal is to better understand the project. deliverables are an actionable product plan.
+- **Example Pitches**
+  - Hey Blake,
+  - Great talking to you today. Here’s what I’m thinking for an outline for the project:
+  - **Discovery Workshop: $1,000**
+    - **- **Us getting together a few times via phone or zoom to properly scope the project, objectives, and tasks.
+    - **- **Discuss different options for what services to pay monthly vs. build in-house.
+    - **- **Another day or so of work on my end to write up a detailed system architecture and project roadmap.
+  - **Estimate Tool v1.0: Approx $14,000 - $24,000**
+    - Final price and details of what’s included will come as part of the workshop. It will include the design, development, and deployment of the tool, as well as ongoing consultative services. Also, we can likely break this up into a couple of smaller projects to give us more flexibility as we move forward.
+    - If that sounds good to you, let me know and I can send over details to set up our first call for the workshop as well as an invoice.
+  - Also happy to answer any questions you have in the mean time.
+- **Goals**
+  - Get comfortable with the client, and 'sparring' with them.
+  - Make the client feel heard, let them know you listen closely.
+  - Identify the client's blind spots
+- **Principles**
+  - keep a question/response flow. Be recursive not linear. drill deep into what the client is saying. Show your expertise by asking good questions.
+  - Ask stupid questions.
+  - Don't be afraid to give small solutions and solve small problems, but do be afraid to solve big problems in the room.
+  - Keep a running list of discrete problems.
+  - Engineer for outcomes, not optimism. You are here to get down to the real problems, not leaving the client feeling good.
+  - Focuses on **appetite over estimates**. Instead of thinking "how much does an idea cost?" focus on "how much is the idea worth?" Estimates start with a design and end with a number. Appetite starts with a number and ends with a design.
+- **Questions & Conversation Starters**
+  - Restate the situation and goals first thing. Tease out any discrepencies or inconsistencies.
+  - What similar products are out on the market? How will we differentiate from them?
+  - Have you talked to potential customers yet? What feedback have you recevied? Have you asked any of them for a comittment?
+  - What other products or tools can and should we integrate with?
+  - What is your availability for collaboration? How often would you want to get together and check-in?
+  - Who are the stakeholders, and how will we get in contact with them?
+  - What are the potential risks if a poor-intentioned user gets the product?
+  - Will we have access to users for early user testing?
+  - What types of content will be part of the site? How will those be managed?
+  - How will be tracking metrics of the project, and defining success before its launched?
+  - How will be tracking metrics and defining success of the project after its launched?
+  - What are some examples of sites you like design wise we could use for inspiration?
+- **Things to discover**
+  - list of discrete problems
+  - potential integrations
+  - no-gos
+  - potential rabbit holes, or tricky complex parts
+  - scaling concerns.
+- **Deliverables**
+  - Data structure
+  - Sitemap
+  - "fat marker" sketches
+  - proposal for way to move forward
+  - 2-page "pitch" outling the big picture project

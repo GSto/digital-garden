@@ -15,8 +15,10 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 ### Software, as a People Problem
 
 - [[code review]]
+- [[consulting]]
+  - [[developer to consultant]]
+  - [[workshops]]
 - [[criticisms of hourly billing]]
-- [[developer to consultant]]
 - [[post senior dev fork]]
 - [[Shaping]]
 - [[the red tape paradox]]
@@ -90,6 +92,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 ## Miscellaneous
 
 - [[capture vs retrieval]]
+- [[coaching questions]]
 - [[cognitive biases]]
 - [[decision making models]]
 - [[design resources]]
