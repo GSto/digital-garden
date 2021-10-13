@@ -14,6 +14,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 
 ### Software, as a People Problem
 
+- [[build your own dropbox fallacy]]
 - [[code review]]
 - [[consulting]]
   - [[developer to consultant]]
