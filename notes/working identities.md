@@ -8,11 +8,15 @@ At first, you will have several small possibilities. As some of them grow, they 
 
 Why take this approach? Because it **removes the paralyzing fear of having "one true career path" for the one true self**. It's easier and safer to make these decisions in an iterative fashion, where you can pick up tacit knowledge.
 
+Ultimately, its an act of both questioning and commitment, and balancing the two. Questioning without commitment leads to movement. Commitment without questioning produces an "[[organization man]]" who has no identity beyond title and function.
+
 ## Discovering possible identities
 
 We discover the true possibilities by doing—trying out new activities, reaching out to new groups, finding new role models, and reworking our story as we tell it to those around us. What we want clarifies with experience and validation from others along the way. #[[action produces information]]
 
-Learning about your self is a social activity. You see how you react to others. You look at others and ask "Do I want to be like hime/her?" Asking yourself this question is another form of test.
+Learning about your self is a social activity. You see how you react to others. You look at others and ask "Do I want to be like him/her?" Asking yourself this question is another form of test.
+
+Find ways to step back. It's hard to see past the blinders of habit and daily routine when you are immersed in them. 
 
 ## How to test possible identities
 
@@ -21,6 +25,18 @@ Learning about your self is a social activity. You see how you react to others. 
 - Design tests with a limited scope. 
 - Observe your successes based on your gut reaction, and the reactions of others. 
 - Occasionally step back to reflect on what you find, refine your hypothesis, and decide where to go next. 
+
+## Experiment Examples
+- Join a new social club or online community. Observe how their viewpoint, language, demeanor, and outlook.
+- Take a course or get additional training
+
+## possible identities and socialization
+
+Socializing with people outside your immediate professional world, you are able to gain knowledge and insight about other professional worlds you could not find anywhere else. Different people = different information. 
+
+Most job opportunities come from personal connections. To get a job in a new field, you'll need new connections.
+
+If possible find someone who can act as a **guiding figure**, a boss, a mentor, someone who can help guide you down a new path. 
 
 ## Adopting new identities
 
