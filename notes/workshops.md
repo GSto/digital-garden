@@ -1,9 +1,9 @@
 # Workshops
 
 - **References**
-  - [[Article: Workshops as Portals]]
+  - [Article: Workshops as Portals](https://tomcritchlow.com/2019/09/23/workshops/)
   - [[workshops]]
-  - [[Book: Shape Up]]
+  - [Book: Shape Up](https://basecamp.com/shapeup)
   - [New Software product questions](https://spin.atomicobject.com/2020/01/24/new-software-project-questions/)
 - **Abstract**
   - Service pitched to new clients who want to greenfield a new application. Goal is to better understand the project. deliverables are an actionable product plan.

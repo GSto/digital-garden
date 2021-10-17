@@ -42,7 +42,7 @@ The function of most work is to better inform the creator how the make the few p
 ### Releasing (specifically, **early and frequent releasing**)
   * Trying to predict how your work will land is like timing the stock market: impossible. The only way to increase your odds is to increase your number of consistent swings. 
 
-Prolific creation requires shipping your work, and can be a form of [[learning in public]].
+Prolific creation requires shipping your work, and can be a form of [[learn in public]].
 
 Prolific creation helps you get more reps in against [[Resistance]], however I don't think it ever gets easier.
 

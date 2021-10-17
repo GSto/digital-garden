@@ -113,5 +113,6 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[playing for stakes]]
 - [[product design]]
 - [[squads]]
+- [[tempo]]
 - [[too much comfort produces weakness]]
 - [[working identities]]

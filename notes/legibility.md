@@ -17,7 +17,7 @@ Illegibility can be a strength in some contexts. [[status]] in groups is one exa
 
 ## Legibility Bias
 
-legibility is alluring. we tend to dislike [[chaos]] and prefer simple, easier to understand systems.
+legibility is alluring. we tend to dislike [[complexity]] and prefer simple, easier to understand systems.
 
 But Just because something is not illegible does not mean it is not intelligent or known. You can know something without being able to put it into words
 
