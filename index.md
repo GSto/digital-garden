@@ -17,6 +17,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[build your own dropbox fallacy]]
 - [[code review]]
 - [[consulting]]
+  - [[coaching questions]]
   - [[developer to consultant]]
   - [[workshops]]
 - [[criticisms of hourly billing]]
@@ -37,12 +38,19 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[security]]
 - [[Shopify theme development]]
 
+## Career
+
+- [[career strategy]]
+- [[indie mindset]]
+- [[organizational literacy]]
+  - [[organizational research]]
+  - [[McLeod Hierarchy]]
+- [[working identities]]
 ## Concepts
 
 - [[bullshit]]
 - [[expertise]]
 - [[humor]]
-- [[indie mindset]]
 - [[Lindy]]
 - [[prolific creation]]
   - [[cult of done manifesto]]
@@ -93,7 +101,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 ## Miscellaneous
 
 - [[capture vs retrieval]]
-- [[coaching questions]]
+
 - [[cognitive biases]]
 - [[decision making models]]
 - [[design resources]]
@@ -101,18 +109,16 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[eponymous laws]]
   - [[galls law]]
   - [[zeigarnik effect]]
+- [[how to say no]]
 - [[freemium leisure]]
 - [[inputs vs outputs vs outcomes]]
 - [[knowledge base]]
 - [[learn in public]]
 - [[legibility]]
 - [[leverage]]
-- [[organizational literacy]]
-  - [[organizational research]]
-  - [[McLeod Hierarchy]]
 - [[playing for stakes]]
 - [[product design]]
 - [[squads]]
 - [[tempo]]
 - [[too much comfort produces weakness]]
-- [[working identities]]
+

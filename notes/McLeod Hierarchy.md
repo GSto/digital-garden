@@ -57,10 +57,10 @@ Eventually organizations are killed by [[organizational dark matter]].
 
 ## Further Reading
 
-    - [games people play](https://www.amazon.com/dp/B005C6E76U/ref=dp-kindle-redirect)
-    - [what do you say after you say hello](https://www.amazon.com/dp/B003JCP5CY/ref=dp-kindle-redirect?)
-    - [i’m ok you’re ok](https://www.amazon.com/Im-OK-Youre-OK-Thomas-Harris-ebook/dp/B0054KY9QW/)
+- [games people play](https://www.amazon.com/dp/B005C6E76U/ref=dp-kindle-redirect)
+- [what do you say after you say hello](https://www.amazon.com/dp/B003JCP5CY/ref=dp-kindle-redirect?)
+- [i’m ok you’re ok](https://www.amazon.com/Im-OK-Youre-OK-Thomas-Harris-ebook/dp/B0054KY9QW/)
 
-    - [the organization man](https://www.amazon.com/Organization-Man-William-H-Whyte-ebook/dp/B00D4BOBBQ)
-    - [images of organization](https://www.amazon.com/Images-Organization-Gareth-Morgan-ebook/dp/B07C6K67HK)
-    - [the redemptive self](https://www.amazon.com/Redemptive-Self-Stories-Americans-Expanded-ebook/dp/B00HNSNVB2/)
+- [the organization man](https://www.amazon.com/Organization-Man-William-H-Whyte-ebook/dp/B00D4BOBBQ)
+- [images of organization](https://www.amazon.com/Images-Organization-Gareth-Morgan-ebook/dp/B07C6K67HK)
+- [the redemptive self](https://www.amazon.com/Redemptive-Self-Stories-Americans-Expanded-ebook/dp/B00HNSNVB2/)
