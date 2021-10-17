@@ -25,7 +25,7 @@ body > header,
 body > main,
 body > footer,
 body > nav {
-  color: #738a94;
+  color: #4C5B61;
   font-weight: 300;
 }
 
@@ -39,14 +39,18 @@ h6 {
   color: #151719;
 }
 
+strong {
+  color: #151719;
+}
+
 header nav a {
   margin-right: 18px;
-  color: #738a94;
+  color: #4C5B61;
   text-decoration: underline;
 }
 
 header nav a:visited {
-  color: #738a94;
+  color: #4C5B61;
 }
 
 p {

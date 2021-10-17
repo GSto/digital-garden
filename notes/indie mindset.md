@@ -16,7 +16,9 @@ Thinking of yourself as a business helps you maintain your professionalism and t
 
 You can also use this as part of your personal marketing. Instead of pitching yourself as a freelancer, for example, pitching yourself as a consultancy.
 
-It doesn't have to be [[all or nothing]]; you can [[leverage]] indie work higher paying and more prestigious paid work. If you want to work with cool and interesting people, show that you can do cool and interesting work yourself
+It doesn't have to be [[all or nothing]]; you can [[leverage]] indie work higher paying and more prestigious paid work. If you want to work with cool and interesting people, show that you can do cool and interesting work yourself.
+
+Be loyal to people, not organizations.
 
 ## Links
 

@@ -105,6 +105,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[inputs vs outputs vs outcomes]]
 - [[knowledge base]]
 - [[learn in public]]
+- [[legibility]]
 - [[leverage]]
 - [[organizational literacy]]
   - [[organizational research]]

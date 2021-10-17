@@ -8,9 +8,11 @@ Losers are in a losing position economically. think of the clearest example, whe
 
 They optimize for anything outside of work that matters to them.
 
+Being a programmer is ipso facto being a loser, because its a labor position, and all laborers are losers. Its incompatible with being an executive or owner.
+
 ## Clueless
 
-Clueless are called that because they are loyal to a company that will never be loyal to them. They optimize for **corporate identity**
+Clueless are called that because they are loyal to a company that will never be loyal to them. They optimize for **corporate identity**. They are overly invested in "corporate culture."
 
 ## Sociopaths
 
@@ -21,6 +23,9 @@ how do people become sociopaths? they are dissatisfied with the current state of
 sociopaths begin to create the realities of the losers and the clueless. once they see that realities can be created, things start to lose meaning. as things lose meaning, the sociopaths gain power.
 
 sociopaths see that there is one reality, and there are no social realities. this leads to the notion of the “absent god.”
+
+## A Softer Version 
+In [Developer Hegemony], Erik Dietrich has a softer framing of losers, clueless and sociopaths: pragmatists, idealists, and opportunists, respectively.
 
 ## Communication between Types
 
@@ -52,15 +57,10 @@ Eventually organizations are killed by [[organizational dark matter]].
 
 ## Further Reading
 
-- [[games people play]]
-    - [Amazon Link](https://www.amazon.com/dp/B005C6E76U/ref=dp-kindle-redirect)
-- [[what do you say after you say hello]]
-    - [Amazon Link](https://www.amazon.com/dp/B003JCP5CY/ref=dp-kindle-redirect?)
-- [[i’m ok you’re ok]]
-    - [Amazon Link](https://www.amazon.com/Im-OK-Youre-OK-Thomas-Harris-ebook/dp/B0054KY9QW/)
-- [[the organization man]]
-    - [Amazon Link](https://www.amazon.com/Organization-Man-William-H-Whyte-ebook/dp/B00D4BOBBQ)
-- [[images of organization]]
-    - [Amazon Link](https://www.amazon.com/Images-Organization-Gareth-Morgan-ebook/dp/B07C6K67HK)
-- [[the redemptive self]]
-    - [Amazon Link](https://www.amazon.com/Redemptive-Self-Stories-Americans-Expanded-ebook/dp/B00HNSNVB2/)
+    - [games people play](https://www.amazon.com/dp/B005C6E76U/ref=dp-kindle-redirect)
+    - [what do you say after you say hello](https://www.amazon.com/dp/B003JCP5CY/ref=dp-kindle-redirect?)
+    - [i’m ok you’re ok](https://www.amazon.com/Im-OK-Youre-OK-Thomas-Harris-ebook/dp/B0054KY9QW/)
+
+    - [the organization man](https://www.amazon.com/Organization-Man-William-H-Whyte-ebook/dp/B00D4BOBBQ)
+    - [images of organization](https://www.amazon.com/Images-Organization-Gareth-Morgan-ebook/dp/B07C6K67HK)
+    - [the redemptive self](https://www.amazon.com/Redemptive-Self-Stories-Americans-Expanded-ebook/dp/B00HNSNVB2/)
