@@ -15,4 +15,6 @@
 
 ![](/assets/images/blockchain.png)
 
-### there are 13 competing standards (xkcd)
+### competing standards (xkcd)
+
+![](/assets/images/standards.png)
