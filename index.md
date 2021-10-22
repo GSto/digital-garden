@@ -30,6 +30,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 ### Software, as a Computer Problem
 
 - [[accessibility]]
+- [[complexity]]
 - [[heroku snippets]]
 - [[JavaScript]]
   - [[ReactJS]]
@@ -100,6 +101,11 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
   - [[Ethereum]]
   - [[Solidity]]
   - [[Solana]]
+
+## References 
+- [[common references]]
+- [[often cited links]]
+- [Broken Links](/meta/missing)
 
 ## Miscellaneous
 
