@@ -69,7 +69,7 @@ __TODO: turn this into a table__
   - 
 
   ## Notes
-  - Idea from the [[Tom Critchlow]] discord: use an existing book / framework to try and bootstrap a consulting practice. For example, scrum / agile practices. Quote from the channel: 
+  - Idea from the [Tom Critchlow](https://tomcritchlow.com/) discord: use an existing book / framework to try and bootstrap a consulting practice. For example, scrum / agile practices. Quote from the channel: 
     - One opportunity that's been mildly helpful for me to do more strategic work is to leverage existing strategy books+frameworks in your domain that you can then apply for your 'client' (be it an actual client or an internal one).
     - By reading & considering a decent business book* somewhat deeply you: 
         - Will be 95% ahead of the game where most people have heard the meme but have no idea what the substance is.

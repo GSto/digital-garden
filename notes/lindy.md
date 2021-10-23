@@ -1,7 +1,7 @@
 ## Links
   - [The Lindy Newsletter](https://paulskallas.substack.com/) by Paul Skallas
   - Specifically this letter: [Basic Concepts - Lindy](https://paulskallas.substack.com/p/basic-concepts-pt2)
-  - Which references this article: [An Expert Called Lindy](https://medium.com/incerto/an-expert-called-lindy-fdb30f146eaf) by [[Nassim Taleb]]
+  - Which references this article: [An Expert Called Lindy](https://medium.com/incerto/an-expert-called-lindy-fdb30f146eaf) by [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
 ## Definition & Origin
   - The Lindy Effect was named after a deli New York City where broadway actors would hang out. They believed if a show had lasted 100 days it could last 100 more. If it lasted 200, another 200. 

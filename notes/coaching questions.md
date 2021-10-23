@@ -10,6 +10,6 @@ From [The Coaching Habit](https://www.amazon.com/Coaching-Habit-Less-Change-Fore
 6. Strategic Question — “If you say yes to this, what are you saying no to?”
 7. Learning Question — “What was most useful or valuable here for you?”
 
-Can be used as a [[thought exercise]]
+Can be used as a [[thought exercises]]
 
 **Tags:** #[[consulting]]

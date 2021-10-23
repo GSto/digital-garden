@@ -32,7 +32,7 @@
   - **Weekly hangouts**  structured (mastermind style) or unstructured.
   - **Shared knowledge base** some kind of blog / wiki / roam; could be either a public facing [[digital garden]]s or a private internal resource.
       - Examples:
-          - [[Yak Collective Roam Database]]
+          - [Yak Collective Roam Database](https://roamresearch.com/#/app/ArtOfGig/page/s6nvla0u4)
   - **Avengers, Assemble Projects** Working together on larger, collaborative projects.
       - Examples: 
           - https://kaidavis.com/products/independent-consulting-manual/
