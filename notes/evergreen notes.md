@@ -2,6 +2,8 @@
 
 Write notes that last forever. These notes are different from transient notes, i.e. notes you make take about a project or for a short scheduling period. Andy Matuschak has some great [public notes about note taking](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
 
+Treat them like a code base. Notes need occasional refactoring and maintenance.
+
 Notes evolve over time. Just because a note is evergreen does not it mean it needs to ever be complete. One method of doing this is [[progressive summarization]]: As you read and re-read notes, edit and improve them as you go along. Examples include bolding or re-organizing text, adding links to other notes and external resource, and budding a note into more, smaller notes. 
 
 On links, **Notes should be linked densely and in context**. Favor adding links instead of not. Favor including links in the context of notes instead of loosely tying notes together with 'tags'. 
