@@ -71,6 +71,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[digital writing]]
 - [[documentation]]
 - [[evergreen notes]]
+  - [[progressive summarization]]
 - [[other writing]]
 - [[why write]]
 - [[writing]]
