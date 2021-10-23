@@ -13,6 +13,7 @@ Writing seems intrinsic to all of it. [[writing]] helps with growth, helps you p
 The most valuable skill is [[communication]], and most importantly, being able to communicate how you can deliver value.  Focus on being able to communicate that value to people succinctly to people who are not in your field.
 
 ## Removing Programming From Your Personal Branding
+#[[personal brand]]
 
 Take a "No software" approach to how you brand yourself. Talk about how you increased profits and decreased costs. This is another point of strategic work, and how you talk about it: Talk about higher contexts, talk about results. Don't define yourself by your tech stack. You can learn in stack in 6 - 12 weeks. People will hire talented engineers regardless of the tools they use. 
 

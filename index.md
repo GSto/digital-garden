@@ -45,6 +45,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[above the code]]
 - [[career strategy]]
 - [[indie mindset]]
+- [[personal branding]]
 - [[organizational literacy]]
   - [[organizational research]]
   - [[McLeod Hierarchy]]
