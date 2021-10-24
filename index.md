@@ -110,13 +110,15 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[often cited links]]
 - [Broken Links](/meta/missing)
 
+## Tools for Thought
+- [[cognitive biases]]
+- [[decision making models]]
+- [[thought exercises]]
+  - [[effectual reasoning]]
 ## Miscellaneous
 
 - [[capture vs retrieval]]
-- [[cognitive biases]]
-- [[decision making models]]
 - [[design resources]]
-- [[effectual reasoning]]
 - [[eponymous laws]]
   - [[galls law]]
   - [[zeigarnik effect]]

@@ -13,3 +13,4 @@
 1. [CSS Utility Classes and Separation of Concerns](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 1. [Fuck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
 1. [LinkedIn's Alternate Universe](https://every.to/cybernaut/linkedins-alternate-universe-21780381-7883)
+1. [Ladders of Wealth Creation](https://nathanbarry.com/wealth-creation/)
