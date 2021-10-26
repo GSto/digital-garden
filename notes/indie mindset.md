@@ -20,6 +20,10 @@ It doesn't have to be [[all or nothing]]; you can [[leverage]] indie work higher
 
 Be loyal to people, not organizations.
 
+Figure out how to get what you want, no one is going to give it to you. Ask.
+
+[You are not your Job Title](https://briancasel.com/you-are-not-your-job-title/). Don't be afraid to tackle challenges that are outside of your [[specialization]] or [[positioning]]. Don't be afraid of change (see [[working identities]]). Cultivate who you are when you aren't working. Don't be like those people who achieve [[financial independence]] and then go back to a job because they are "bored."
+
 ## Links
 
 - Thread from Visakanv on [working for yourself](https://twitter.com/visakanv/status/1448290320035172358)
