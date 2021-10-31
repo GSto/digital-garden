@@ -54,6 +54,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 
 - [[bullshit]]
 - [[expertise]]
+- [[game design]]
 - [[humor]]
 - [[Lindy]]
 - [[prolific creation]]
@@ -123,6 +124,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[eponymous laws]]
   - [[galls law]]
   - [[zeigarnik effect]]
+- [[the great internet game]]
 - [[how to say no]]
 - [[freemium leisure]]
 - [[inputs vs outputs vs outcomes]]
