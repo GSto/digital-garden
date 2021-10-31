@@ -101,9 +101,10 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[web3]]
   - [[DeFi]]
     - [[Impermanent Loss]]
-  - [[Ethereum]]
-  - [[Solidity]]
-  - [[Solana]]
+  - [[cryptocurrency]]
+    - [[Ethereum]]
+    - [[Solidity]]
+    - [[Solana]]
 
 ## References 
 - [[common references]]
