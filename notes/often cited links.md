@@ -14,3 +14,4 @@
 1. [Fuck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
 1. [LinkedIn's Alternate Universe](https://every.to/cybernaut/linkedins-alternate-universe-21780381-7883)
 1. [Ladders of Wealth Creation](https://nathanbarry.com/wealth-creation/)
+1. [Making the Clackity Noise](https://www.kungfugrippe.com/post/169873399/clackity-noise)
