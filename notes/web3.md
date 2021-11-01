@@ -85,3 +85,4 @@ Web3 is a fast moving space, some of my prefered resources for keeping up are
 - [Newsletter - Almanack's DeFi Friday](https://every.to/almanack) - specifically about [[DeFi]], but a good place to get some 'alpha' on new models and investments.
 - [Podcast - Not Investment Advice](https://podcasts.apple.com/us/podcast/not-investment-advice/id1563288568) "Jack Butcher, Bilal Zaidi & Trung Phan discuss what they're finding on the edges of the internet + the latest in business, technology and memes."
 - [Podcast - Bankless](http://podcast.banklesshq.com/) - "The Ultimate Guide to Crypto Finance"
+- [Twitter List - Web3 Twitter](https://twitter.com/i/lists/1433191478365409283) - a curated list of interesting Twitter follows
