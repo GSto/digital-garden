@@ -82,6 +82,6 @@ Most stuff is probably happening in a Discord server you're not a part of. Conve
 Web3 is a fast moving space, some of my prefered resources for keeping up are
 
 - [Newsletter - Packy McCormick's Not Boring](https://www.notboring.co/) a newsletter about the frontier of technology, but is more and more web3 focused these days.
-- [Newsletter - Almanack's DeFi Friday](https://every.to/almanack) - specifically about [[DeFi]], but a good place to
+- [Newsletter - Almanack's DeFi Friday](https://every.to/almanack) - specifically about [[DeFi]], but a good place to get some 'alpha' on new models and investments.
 - [Podcast - Not Investment Advice](https://podcasts.apple.com/us/podcast/not-investment-advice/id1563288568) "Jack Butcher, Bilal Zaidi & Trung Phan discuss what they're finding on the edges of the internet + the latest in business, technology and memes."
 - [Podcast - Bankless](http://podcast.banklesshq.com/) - "The Ultimate Guide to Crypto Finance"
