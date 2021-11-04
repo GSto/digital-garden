@@ -31,6 +31,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 
 - [[accessibility]]
 - [[complexity]]
+- [[CSS]]
 - [[heroku snippets]]
 - [[JavaScript]]
   - [[ReactJS]]
