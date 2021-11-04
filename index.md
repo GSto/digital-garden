@@ -50,11 +50,14 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
   - [[organizational research]]
   - [[McLeod Hierarchy]]
 - [[working identities]]
+
 ## Concepts
 
 - [[bullshit]]
 - [[expertise]]
 - [[game design]]
+- [[friendliness]]
+  - [[friendliness reading list]]
 - [[humor]]
 - [[Lindy]]
 - [[prolific creation]]
@@ -107,16 +110,19 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
     - [[Solidity]]
     - [[Solana]]
 
-## References 
+## References
+
 - [[common references]]
 - [[often cited links]]
 - [Broken Links](/meta/missing)
 
 ## Tools for Thought
+
 - [[cognitive biases]]
 - [[decision making models]]
 - [[thought exercises]]
   - [[effectual reasoning]]
+
 ## Miscellaneous
 
 - [[capture vs retrieval]]
@@ -137,4 +143,3 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[squads]]
 - [[tempo]]
 - [[too much comfort produces weakness]]
-
