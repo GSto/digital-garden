@@ -36,3 +36,7 @@ https://www.youtube.com/watch?v=Gu8YiTeU9XU
 ![](/assets/images/computer_problems.png))
 
 [source](https://xkcd.com/722/)
+
+### Study Time / Game Time
+
+![](/assets/images/study_time_game_time.png)
