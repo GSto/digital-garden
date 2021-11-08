@@ -2,6 +2,12 @@
 
 Core principle: adding protocols for payments and state to the internet. Think of the blockchain as one "world computer": all code is open, runs on one virtual computer (computer = machine that can execute instructions and store state). all code is accessible, and composable with one another. No need for APIs. Everything is permissionless.
 
+## Key Elements of Web3
+- **Wallets** Wallets allow you to keep money, sign things, and log into websites
+- **Web3 Sites** Websites where you can log in with your wallet and sign things. 
+- **Blockchain** The global database / computer
+
+
 ## Technologies
 
 - [[blockchain]] - basis for other technologies listed below. A decentralized ledger.
@@ -74,6 +80,7 @@ I mostly use [Coinbase](https://coinbase.com) for ease of use. It supports "main
 - [Article: How to Get Into Ethereum \| Crypto \| Web3 As a developer \- Nadir Dabit](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - [Book: Token Economy: How Blockchains and Smart Contract Revolutionize the Economy](https://www.amazon.com/Token-Economy-Blockchains-Contracts-Revolutionize/dp/3982103827)
 - [The Bitcoin Whitepaper](http://satoshinakamoto.me/whitepaper/)
+- [VGRs Journey to Web3](https://twitter.com/vgr/status/1457464715043491843)
 
 ## Keeping Up
 
