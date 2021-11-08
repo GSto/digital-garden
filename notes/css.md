@@ -23,3 +23,15 @@ Other ways to create stacking contexts:
 - explicity with isolation: isolate
 
 More on this: [What the heck, z-index? - Josh Comeau](https://www.joshwcomeau.com/css/stacking-contexts/)
+
+## Flexbox
+
+### Flexbox help in Chrome Dev Tools
+
+click the gray box next to a flex property to inspect the different properties:
+
+![](/assets/images/chrome_dev_flexbox.png)
+
+### Recommended Flexbox Reading
+
+[A complete guide to Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
