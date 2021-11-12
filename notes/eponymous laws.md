@@ -66,6 +66,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "The number of objects an average human can hold in short-term memory is 7 ± 2"
 
+## Newton's Flaming Laser Sword Rule
+
+> "If something cannot be settled by experiment or observation, it is not worth debating."
+
 ## Parkinson's Law
 
 > "work expands so as to fill the time available for its completion". Same Parkinson as "Parkinson's Law of Triviality"
@@ -86,6 +90,12 @@ Parkinson provides the example of a fictional committee whose job was to approve
 ## Pinocchio Effect
 
 > "On average, liars use more words than truth tellers and use far more third-person pronouns. They start talking about him, her, it, one, they, and their rather than I, in order to put some distance between themselves and the lie."
+
+## Pygmalion Effect
+
+> High expectations lead to high performance (and vice versa).
+> If you consistently see people as their potential, they will achieve more.
+> When you're occasionally let down, consider it a tax you pay for all the benefit from those you believed in.
 
 ## Similarity Principle
 
