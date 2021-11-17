@@ -10,6 +10,10 @@ a:visited {
   color: #607aff;
 }
 
+body {
+  margin: 0
+}
+
 body > main,
 body > footer,
 body > header {
@@ -18,7 +22,22 @@ body > header {
 }
 
 body > header {
-  text-align: center;
+  text-align: left;
+  background-color: #4174DC;
+}
+
+body > header > a {
+  color: white; 
+  text-decoration: none;
+}
+
+nav {
+  max-width: 93ch;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 2em;
+  font-size: 18px;
+  color: white;
 }
 
 body > header,
@@ -45,12 +64,17 @@ strong {
 
 header nav a {
   margin-right: 18px;
-  color: #4C5B61;
-  text-decoration: underline;
+  color: white;
+  text-decoration: none;
+  opacity: 0.8;
 }
 
 header nav a:visited {
-  color: #4C5B61;
+  color: white;
+}
+
+header nav a:hover {
+  opacity: 1;
 }
 
 p {

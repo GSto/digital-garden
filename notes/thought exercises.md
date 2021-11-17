@@ -8,6 +8,9 @@ see [[effectual reasoning]] for full explanation.
 
 1. Determine Vague Goal
 2. Identify Means via the effectual reasoning inventory
+  - **Who are you** — What are my natural strengths, traits, and abilities?
+  - **Who do you know** — Who are in my social and professional networks? 
+  - **What do you know** — What is my training, expertise, interests and experience 
 3. Imagine Clearly Defined Ends
 4. Prioritize
 5. Manage [[risk]]
@@ -59,5 +62,15 @@ Evangelized by Tim Ferriss in this article [Fearsetting](https://tim.blog/2017/0
 ## Developing a Product Idea? - Write Your Marketing Material
 - Write the ideal amazon review for your idea
 - Write a landing page for your idea. think about pains, dreams, fixes, objections.
+
+## Getting to Know Yourself - From Running on Empty No More
+- What do you want? 
+- What are you passionate about? 
+- What do you like and what do you dislike, and why? 
+- Who do you like and who do you dislike, and why? 
+- What are your strengths and weaknesses? 
+- What adjectives would you use to describe yourself? 
+- How do others perceive you? 
+- What activities do you enjoy the most?
 
 
