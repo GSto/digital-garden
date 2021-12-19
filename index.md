@@ -124,6 +124,7 @@ Current goal is to "[do 100 things](https://www.visakanv.com/blog/100-2/)" with 
 - [[decision making models]]
 - [[thought exercises]]
   - [[effectual reasoning]]
+  - [[retreat reflection]]
 
 ## Miscellaneous
 
