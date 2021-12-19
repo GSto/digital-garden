@@ -9,11 +9,20 @@ By definition, whatever you have is exactly what you need to produce your **best
 
 ## Taking an Effectual Reasoning Inventory
 
-- **Who are you** — What are my natural strengths, traits, and abilities? (e.g. – You are a very analytically minded person). 
+### Who Are You
+  - Natural strengths? 
+  - Traits? 
+  - Abilities? 
 
-- **Who do you know** — Who are in my social and professional networks? (e.g. – You have one friend that runs a food company similar to the snack bar company you’d like to start).
+### Who do you know 
+  - In your social networks? 
+  - In your professional networks? 
 
-- **What do you know** — What is my training, expertise, interests and experience (e.g. – You have read a few articles on Google Adwords Pay Per Click (PPC) Marketing and find it interesting).
+### What do you know
+  - Training? 
+  - Expertise? 
+  - Interests? 
+  - Experience? 
 
 ## Effectual Reasoning Exercise
 1. Determine Vague Goal
