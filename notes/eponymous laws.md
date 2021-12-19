@@ -39,6 +39,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure."
 
+## Cunningham's Law
+
+> "The best way to get an answer to a question on the internet is to say something wrong"
+
 ## Gall's Law
 
 > "A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system."

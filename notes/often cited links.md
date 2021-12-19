@@ -39,3 +39,4 @@ Many parts of [[the great internet game]] are playing 'hitmaker' games. Take a l
 1. [Ladders of Wealth Creation](https://nathanbarry.com/wealth-creation/) - Nathan Barry
 1. [Making the Clackity Noise](https://www.kungfugrippe.com/post/169873399/clackity-noise) - Merlin Mann
 1. [Half-Assing it with Everything You Got](https://mindingourway.com/half-assing-it-with-everything-youve-got/) - Nate Soares
+1. [Lessons from school I'm unlearning](https://twitter.com/made_in_cosmos/status/1441107026822586372?s=20)
