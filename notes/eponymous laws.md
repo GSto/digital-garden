@@ -8,6 +8,10 @@
 
 > "If a headline ending with a question mark is answered by the word __no.__
 
+## Bikeshedder's Blind Spot
+
+> If you want to quickly ship a 10 line code change, hide it in a 1500 line pull request.
+
 ## Black Swan Rule
 
 > "Don’t treat others the way you want to be treated; treat them the way they need to be treated."
@@ -43,6 +47,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "The best way to get an answer to a question on the internet is to say something wrong"
 
+## Eagleson's Law
+
+> "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else."
+
 ## Gall's Law
 
 > "A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system."
@@ -60,6 +68,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "our hypothesis that the world should look to others as it looks to us. After all, who wouldn’t make that assumption?" 
 > - Never Split The Difference
+
+## Iceberg Fallacy
+
+> The cost of development of a new software product is the only ~25% of the total cost of ownership management sees and budgets for.
 
 ## Lindy Effect
 
@@ -108,6 +120,10 @@ Parkinson provides the example of a fictional committee whose job was to approve
 ## Sturgeon's Law
 
 > "90% of everything is crap."
+
+## Zawinski's Law
+
+> "Every program attempts to expand until it includes a web server. Those programs which cannot so expand are replaced by ones which can."
 
 ## Zeigarnik Effect
 
