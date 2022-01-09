@@ -148,5 +148,6 @@ Current count: **{{collections.notes.length}}**
 - [[product design]]
 - [[squads]]
 - [[tempo]]
+- [[token economy]]
 - [[too much comfort produces weakness]]
 - [[twitter hacks]]
