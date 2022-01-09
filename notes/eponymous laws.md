@@ -4,6 +4,10 @@
 
 > "7 percent of a message is based on the words while 38 percent comes from the [[tone of voice]] and 55 percent from the speaker’s body language and face."
 
+## Atwood's Law
+
+> "Any application that can be written in JavaScript, will eventually be written in JavaScript."
+
 ## Betteridge's Law of Headlines
 
 > "If a headline ending with a question mark is answered by the word __no.__
@@ -64,6 +68,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "People's behavior changes when they are being observed."
 
+## Hofstadter's Law
+
+> It always takes longer than you expect, even when you take into account Hofstadter's Law.
+
 ## "I Am Normal" Paradox
 
 > "our hypothesis that the world should look to others as it looks to us. After all, who wouldn’t make that assumption?" 
@@ -72,6 +80,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 ## Iceberg Fallacy
 
 > The cost of development of a new software product is the only ~25% of the total cost of ownership management sees and budgets for.
+
+## LeBlanc's Law
+
+> Later = never
 
 ## Lindy Effect
 
@@ -120,6 +132,12 @@ Parkinson provides the example of a fictional committee whose job was to approve
 ## Sturgeon's Law
 
 > "90% of everything is crap."
+
+## Tesler's Law
+
+> "every application has an inherent amount of complexity that cannot be removed or hidden. It must be dealt with in either product development or user interaction."
+
+The more user friendly your application, the more complicated the code base.
 
 ## Zawinski's Law
 
