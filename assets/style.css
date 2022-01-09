@@ -85,3 +85,11 @@ ul li,
 ol li {
   margin-bottom: 1rem;
 }
+/* responsive styles */
+@media only screen and (max-width: 1040px) {
+  body>footer, main {
+    max-width: 90%;
+  }
+}
+
+
