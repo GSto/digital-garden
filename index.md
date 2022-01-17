@@ -14,6 +14,23 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 
 Current count: **{{collections.notes.length}}**
 
+New Index
+<div class="indexGrid">
+{% for topic in noteIndex.rawIndex %}
+<div class="indexCell">
+<h3>{{ topic.title}}</h3>
+<p>{{ topic.description}}</p>
+<ul>
+  {% for note in topic.notes %}
+  - [[{{note.note}}]]
+  {% endfor %}
+</ul>
+</div>
+{% endfor %}
+</div>
+
+
+# Old Deprecated Index Below
 ### Software, as a People Problem
 
 - [[build your own dropbox fallacy]]
