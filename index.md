@@ -14,123 +14,22 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 
 Current count: **{{collections.notes.length}}**
 
-New Index - test update
 <div class="indexGrid">
+<div class="indexColumn">
 {% for topic in noteIndex.leftColumn %}
 {% include topic.html %}
 {% endfor %}
+</div>
 
+<div class="indexColumn">
 {% for topic in noteIndex.centerColumn %}
 {% include topic.html %}
 {% endfor %}
 </div>
 
-
-# Old Deprecated Index Below
-## Career
-
-- [[above the code]]
-- [[career strategy]]
-- [[indie mindset]]
-- [[personal branding]]
-- [[organizational literacy]]
-  - [[organizational research]]
-  - [[McLeod Hierarchy]]
-- [[working identities]]
-
-## Concepts
-
-- [[bullshit]]
-- [[expertise]]
-- [[game design]]
-- [[friendliness]]
-  - [[friendliness reading list]]
-- [[humor]]
-- [[Lindy]]
-- [[prolific creation]]
-  - [[cult of done manifesto]]
-  - [[quality pots vs. quantity of pots]]
-  - [[action produces information]]
-- [[Resistance]]
-  - [[The Amateur and the Professional]]
-  - [[launch anxiety]]
-
-### Writing
-
-- [[article ideas]]
-- [[digital garden]]
-- [[digital writing]]
-- [[documentation]]
-- [[evergreen notes]]
-  - [[progressive summarization]]
-- [[other writing]]
-- [[species of interesting ideas]]
-- [[why write]]
-- [[writing]]
-- [[writing book recommendations]]
-- [[writing rules]]
-
-## Disorder
-
-- [[antifragile]]
-- [[luck]]
-- [[risk]]
-- [[risk of ruin]]
-- [[uncertainty mindset]]
-- [[variance]]
-
-### Money
-
-- [[housing prices]]
-- [[personal finance]]
-  - [[401k valuation]]
-  - [[asset allocation]]
-- [[real estate investing]]
-- [[responsible options trading]]
-
-## Crypto
-
-- [[web3]]
-  - [[DeFi]]
-    - [[Impermanent Loss]]
-  - [[cryptocurrency]]
-    - [[Ethereum]]
-    - [[Solidity]]
-    - [[Solana]]
-
-## References
-
-- [[common references]]
-- [[often cited links]]
-- [Broken Links](/meta/missing)
-
-## Tools for Thought
-
-- [[cognitive biases]]
-- [[decision making models]]
-- [[thought exercises]]
-  - [[effectual reasoning]]
-  - [[retreat reflection]]
-
-## Miscellaneous
-
-- [[capture vs retrieval]]
-- [[design resources]]
-- [[eponymous laws]]
-  - [[galls law]]
-  - [[zeigarnik effect]]
-- [[the great internet game]]
-- [[how to say no]]
-- [[freemium leisure]]
-- [[inputs vs outputs vs outcomes]]
-- [[knowledge base]]
-- [[learn in public]]
-- [[legibility]]
-- [[leverage]]
-- [[playing for stakes]]
-- [[product design]]
-- [[squads]]
-- [[tempo]]
-- [[token economy]]
-- [[too much comfort produces weakness]]
-- [[twitter hacks]]
+<div class="indexColumn">
+{% for topic in noteIndex.rightColumn %}
+{% include topic.html %}
+{% endfor %}
+</div>
+</div>

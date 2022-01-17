@@ -106,11 +106,25 @@ ol li {
   padding: 0;
 }
 
+.indexGrid .indexColumn {
+  display: flex; 
+  flex-direction: column;
+}
+
 .indexGrid ul li {
   list-style-type: none;
   margin-bottom: 12px;
 }
 
+.indexGrid ul li a:hover {
+  text-decoration: underline;
+}
+
 .indexGrid ul li p {
   margin: 0;
+}
+
+.indexGrid ul li ul {
+  margin-left: 12px;
+  font-size: 18px;
 }
