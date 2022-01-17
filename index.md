@@ -23,6 +23,9 @@ New Index
 <ul>
   {% for note in topic.notes %}
   - [[{{note.note}}]]
+  {% for subnote in note.children %}
+    - [[{{subnote.note}}]] 
+  {% endfor %}
   {% endfor %}
 </ul>
 </div>
@@ -31,36 +34,6 @@ New Index
 
 
 # Old Deprecated Index Below
-### Software, as a People Problem
-
-- [[build your own dropbox fallacy]]
-- [[build vs buy]]
-- [[code review]]
-- [[consulting]]
-  - [[coaching questions]]
-  - [[developer to consultant]]
-  - [[workshops]]
-- [[criticisms of hourly billing]]
-- [[post senior dev fork]]
-- [[Shaping]]
-- [[the red tape paradox]]
-- [[your first software project]]
-
-### Software, as a Computer Problem
-
-- [[accessibility]]
-- [[complexity]]
-- [[CSS]]
-- [[heroku snippets]]
-- [[JavaScript]]
-  - [[ReactJS]]
-  - [[TypeScript]]
-  - [[ReactJS x TypeScript]]
-- [[Ruby interview study guide]]
-- [[security]]
-- [[Shopify theme development]]
-- [[software principles]]
-
 ## Career
 
 - [[above the code]]
