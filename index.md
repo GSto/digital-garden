@@ -14,21 +14,14 @@ For updates, check out the [Update Thread](https://twitter.com/GSto/status/14102
 
 Current count: **{{collections.notes.length}}**
 
-New Index
+New Index - test update
 <div class="indexGrid">
-{% for topic in noteIndex.rawIndex %}
-<div class="indexCell">
-<h3>{{ topic.title}}</h3>
-<p>{{ topic.description}}</p>
-<ul>
-  {% for note in topic.notes %}
-  - [[{{note.note}}]]
-  {% for subnote in note.children %}
-    - [[{{subnote.note}}]] 
-  {% endfor %}
-  {% endfor %}
-</ul>
-</div>
+{% for topic in noteIndex.leftColumn %}
+{% include topic.html %}
+{% endfor %}
+
+{% for topic in noteIndex.centerColumn %}
+{% include topic.html %}
 {% endfor %}
 </div>
 

@@ -93,3 +93,24 @@ ol li {
 }
 
 
+/* frontpage grid */
+
+.indexGrid {
+  display: grid; 
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 36px;
+}
+
+.indexGrid ul {
+  margin: 0;
+  padding: 0;
+}
+
+.indexGrid ul li {
+  list-style-type: none;
+  margin-bottom: 12px;
+}
+
+.indexGrid ul li p {
+  margin: 0;
+}

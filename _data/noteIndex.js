@@ -1,6 +1,6 @@
 module.exports = {
   test: "foo",
-  rawIndex: [{
+  leftColumn: [{
     title: "Software Engineering",
     description: "Code. writing it. testing it. deploying it. maintaining it.",
     notes: [
@@ -19,14 +19,15 @@ module.exports = {
       { note: "software principles"},
     ]
   },
-  {
+],
+  centerColumn: [  {
     title: "Software metagame",
     description: "the work before, after, above, and below the code editor.",
     notes: [
       { note: "build your own dropbox fallacy"},
       { note: "build vs buy"},
       { note: "code review"},
-      { note: "consulting", childre: [
+      { note: "consulting", children: [
         { note: "coaching questions"},
         { note: "developer to consultant"},
         { note: "workshops"},
@@ -37,5 +38,6 @@ module.exports = {
       { note: "the red tape paradox"},
       { note: "your first software project"},
     ]
-  }]
+  }],
+  rightColumn: [],
 }
