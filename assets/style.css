@@ -1,7 +1,7 @@
 html {
   font-size: 22px;
   background-color: #fff;
-  color: #4C5B61;
+  color: #4c5b61;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
@@ -12,7 +12,7 @@ a:visited {
 }
 
 body {
-  margin: 0
+  margin: 0;
 }
 
 body > main,
@@ -24,12 +24,13 @@ body > header {
 
 body > header {
   text-align: left;
-  background-color: #4174DC;
+  background-color: #4174dc;
   min-height: 12px;
 }
 
-body > header > a {
-  color: white; 
+body > header > a,
+body > footer > a {
+  color: white;
   text-decoration: none;
 }
 
@@ -42,23 +43,25 @@ nav {
   color: white;
 }
 
-
 body > header,
 body > main,
 body > footer,
 body > nav {
-  color: #4C5B61;
+  color: #4c5b61;
   font-weight: 300;
 }
 
 h1,
-h2,
+h2 {
+  font-weight: 400;
+  color: #151719;
+}
+
 h3,
 h4,
 h5,
 h6 {
-  font-weight: 400;
-  color: #151719;
+  font-weight: 300;
 }
 
 strong {
@@ -84,22 +87,33 @@ p {
   margin-top: 2rem;
 }
 
+ol,
+ul {
+  padding-left: 0;
+}
+
+li ul,
+li ol {
+  margin-top: 0.5rem;
+  padding-left: 12px;
+}
+
 ul li,
 ol li {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 /* responsive styles */
 @media only screen and (max-width: 1040px) {
-  body>footer, main {
+  body > footer,
+  main {
     max-width: 90%;
   }
 }
 
-
 /* frontpage grid */
 
 .indexGrid {
-  display: grid; 
+  display: grid;
   grid-template-columns: repeat(3, 1fr);
   column-gap: 36px;
 }
@@ -109,7 +123,6 @@ ol li {
     grid-template-columns: repeat(2, 1fr);
   }
 }
-
 
 @media screen and (max-width: 600px) {
   .indexGrid {
@@ -128,7 +141,7 @@ ol li {
 }
 
 .indexGrid .indexColumn {
-  display: flex; 
+  display: flex;
   flex-direction: column;
 }
 
@@ -156,7 +169,7 @@ ol li {
 }
 
 .indexGrid ul li ul li {
-  color: #E4EAED;
-  list-style-type: '▸';
+  color: #e4eaed;
+  list-style-type: "▸";
   padding-left: 6px;
 }
