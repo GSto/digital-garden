@@ -1,0 +1,17 @@
+  <div class="indexCell">
+  <h2>{{ topic.title}}</h2>
+  <ul>
+  {% for note in topic.notes %}
+  {%if note.note %}
+  - [[{{note.note}}]]
+  {%endif%}
+  {%if note.text %}
+  - [{{note.text}}]({{note.url}})
+  {%endif%}
+
+  {% for subnote in note.children %}
+    - [[{{subnote.note}}]] 
+  {% endfor %}
+  {% endfor %}
+  </ul>
+  </div>

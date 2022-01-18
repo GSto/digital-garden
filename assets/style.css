@@ -1,6 +1,7 @@
 html {
   font-size: 22px;
   background-color: #fff;
+  color: #4C5B61;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
@@ -24,6 +25,7 @@ body > header {
 body > header {
   text-align: left;
   background-color: #4174DC;
+  min-height: 12px;
 }
 
 body > header > a {
@@ -40,6 +42,7 @@ nav {
   color: white;
 }
 
+
 body > header,
 body > main,
 body > footer,
@@ -54,7 +57,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 600;
+  font-weight: 400;
   color: #151719;
 }
 
@@ -62,18 +65,18 @@ strong {
   color: #151719;
 }
 
-header nav a {
+nav a {
   margin-right: 18px;
-  color: white;
+  color: white !important; /* FIXME: unclear why this is needed */
   text-decoration: none;
   opacity: 0.8;
 }
 
-header nav a:visited {
+nav a:visited {
   color: white;
 }
 
-header nav a:hover {
+nav a:hover {
   opacity: 1;
 }
 
@@ -93,3 +96,67 @@ ol li {
 }
 
 
+/* frontpage grid */
+
+.indexGrid {
+  display: grid; 
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 36px;
+}
+
+@media screen and (max-width: 964px) {
+  .indexGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+  .indexGrid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+.indexGrid ul {
+  margin: 0;
+  padding: 0;
+}
+
+.indexGrid h2 {
+  line-height: 2.25rem;
+  margin-bottom: 24px;
+  text-transform: capitalize;
+}
+
+.indexGrid .indexColumn {
+  display: flex; 
+  flex-direction: column;
+}
+
+.indexGrid .indexCell {
+  box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+  padding-bottom: 36px;
+}
+
+.indexGrid ul li {
+  list-style-type: none;
+  margin-bottom: 12px;
+}
+
+.indexGrid ul li a:hover {
+  text-decoration: underline;
+}
+
+.indexGrid ul li p {
+  margin: 0;
+}
+
+.indexGrid ul li ul {
+  padding-left: 24px;
+  margin-top: 12px;
+}
+
+.indexGrid ul li ul li {
+  color: #E4EAED;
+  list-style-type: '▸';
+  padding-left: 6px;
+}
