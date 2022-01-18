@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Public Notebook
+# Digital Garden
 
 
 
