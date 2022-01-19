@@ -34,7 +34,7 @@ click the gray box next to a flex property to inspect the different properties:
 
 ### Recommended Flexbox Reading
 
-[A complete guide to Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [A complete guide to Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Animation
 
