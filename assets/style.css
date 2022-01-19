@@ -9,6 +9,28 @@ html {
 a,
 a:visited {
   color: #607aff;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+}
+
+/* animated a link, inspo: https://www.30secondsofcode.org/css/s/hover-underline-animation */
+a:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #607aff;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+a:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
 }
 
 body {
@@ -102,6 +124,11 @@ ul li,
 ol li {
   margin-bottom: 0.5rem;
 }
+
+
+
+
+
 /* responsive styles */
 @media only screen and (max-width: 1040px) {
   body > footer,
@@ -153,10 +180,6 @@ ol li {
 .indexGrid ul li {
   list-style-type: none;
   margin-bottom: 12px;
-}
-
-.indexGrid ul li a:hover {
-  text-decoration: underline;
 }
 
 .indexGrid ul li p {
