@@ -24,6 +24,10 @@ Other ways to create stacking contexts:
 
 More on this: [What the heck, z-index? - Josh Comeau](https://www.joshwcomeau.com/css/stacking-contexts/)
 
+## Animation
+
+see [[CSS Animation]]
+
 ## Flexbox
 
 ### Flexbox help in Chrome Dev Tools
@@ -35,18 +39,3 @@ click the gray box next to a flex property to inspect the different properties:
 ### Recommended Flexbox Reading
 
 - [A complete guide to Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
-## Animation
-
-### Transitions
-
-* Transitions follow the short hand of `property duration delay timing function`. Property and duration are required, the others are optional. 
-* the "transition all" property is considered harmful. It requires the browser to listen for all changes, and it isn't very performant.
-* If you want to write a custom timing function, use the cubic-bezier function. 
-* As a general rule, animations should be between 250-300ms. shorter than 100ms is not perceivable to most people and is effectively the same as no animation. over 1 second is too long, people will get bored or feel the motion is disconnected.
-
-### Animation Resources
-
-- [List of Animatable CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
-- [Tool for drawing cubic-bezier curves in browser](https://cubic-bezier.com/)
-- [Gallery of Easing curves](https://easings.net/)
