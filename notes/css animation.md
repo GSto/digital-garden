@@ -7,7 +7,7 @@
 - If you want to write a custom timing function, use the cubic-bezier function.
 - As a general rule, animations should be between 250-300ms. shorter than 100ms is not perceivable to most people and is effectively the same as no animation. over 1 second is too long, people will get bored or feel the motion is disconnected.
 
-## Animation Property
+## Animation property
 
 You can use the animation property, along with keyframes, to create custom animations. Animation properties use timing functions, durations, and delays just like transitions. Animations have some additional properties you can set:
 
@@ -23,7 +23,7 @@ You can use the animation property, along with keyframes, to create custom anima
   - **alternate-reverse**: 100 -> 0 -> 100 (bouncy)
 - **animation-play-state** - can be set to playing or paused.
 
-## Sprite Animation
+## Sprite animation
 
 You can use the animation property, the steps timing function, and animating on background position to create animated sprites. Example code:
 
@@ -47,6 +47,14 @@ In this example, frames are 366x366 pixels, and there are 18 frames in the cycle
   }
 }
 ```
+
+## Animation properties vs. transition properties
+
+- transitions run once, animations can repeat
+- animations can loop, transisitons cannot
+- transitions have to be triggered, animations do not.
+- animations can alternate between start and end state, transitions cannot.
+- animations can affect multiple properties, transitions cannot
 
 ## Animation Resources
 
