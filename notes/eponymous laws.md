@@ -48,6 +48,7 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 > "Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure."
 
 ## Crabs in a Bucket
+(Also known as Tall Poppy Syndrome)
 > "if I can't have it, neither can you". The metaphor is derived from a pattern of behavior noted in crabs when they are trapped in a bucket. While any one crab could easily escape, its efforts will be undermined by others, ensuring the group's collective demise.
 
 ## Cunningham's Law
