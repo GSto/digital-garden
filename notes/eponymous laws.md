@@ -47,6 +47,9 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure."
 
+## Crabs in a Bucket
+> "if I can't have it, neither can you". The metaphor is derived from a pattern of behavior noted in crabs when they are trapped in a bucket. While any one crab could easily escape, its efforts will be undermined by others, ensuring the group's collective demise.
+
 ## Cunningham's Law
 
 > "The best way to get an answer to a question on the internet is to say something wrong"
@@ -84,6 +87,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 ## LeBlanc's Law
 
 > Later = never
+
+## Lebowski Theorem
+
+> No super intelligent AI is going to bother with a task that is harder than hacking its reward function - [source tweet](https://twitter.com/Plinz/status/985249543582355458?s=20&t=P7hTax3fDQa1sn5M8Ei3-g)
 
 ## Lindy Effect
 
