@@ -6,4 +6,4 @@ Some other ideas I want to implement (I can tackle these after I finish the do 1
 - [] Syntax highlighting for code blocks
 - [x] A way to programmatically calculate number of notes / words in the garden.
 - [x] Add Google Analytics ( can probably tie it in with the glennstovall.com account, I see no reason to separate them).
-- [] Add a way to pick a random "note of the day" to review ideas.
+- [x] Add a way to pick a random "note of the day" to review ideas.
