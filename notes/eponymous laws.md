@@ -10,7 +10,7 @@
 
 ## Betteridge's Law of Headlines
 
-> "If a headline ending with a question mark is answered by the word __no.__
+> "If a headline ending with a question mark is answered by the word **no.**
 
 ## Bikeshedder's Blind Spot
 
@@ -37,6 +37,7 @@ Source: [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-
 > put a bunch of things in a group, and we don't analyze them individually, we analyze the group "OMG THEY ARE ALL SO PRETTY". separate them, and the story is different "Uhh.. I see nothing special here"
 
 Source: Ryan Maynard
+
 ## Cobra Effect
 
 The cobra effect occurs when incentives designed to solve a problem end up rewarding people for making it worse. The term is used to illustrate how incorrect stimulation in economics and politics can cause unintended consequences. It is also known as the perverse incentive.
@@ -47,8 +48,14 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure."
 
+## Costanza's Law
+
+> "It's not a lie if you believe it."
+
 ## Crabs in a Bucket
+
 (Also known as Tall Poppy Syndrome)
+
 > "if I can't have it, neither can you". The metaphor is derived from a pattern of behavior noted in crabs when they are trapped in a bucket. While any one crab could easily escape, its efforts will be undermined by others, ensuring the group's collective demise.
 
 ## Cunningham's Law
@@ -62,6 +69,7 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 ## Gall's Law
 
 > "A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system."
+
 - [[galls law]]
 
 ## Goodhart's Law
@@ -78,7 +86,8 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 ## "I Am Normal" Paradox
 
-> "our hypothesis that the world should look to others as it looks to us. After all, who wouldn’t make that assumption?" 
+> "our hypothesis that the world should look to others as it looks to us. After all, who wouldn’t make that assumption?"
+>
 > - Never Split The Difference
 
 ## Iceberg Fallacy
@@ -95,8 +104,8 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 ## Lindy Effect
 
-> "The longer ideas, books, technologies, procedures, institutions, political systems has survived, the more anti-fragile they are. The only effective judge of these is time." 
-[[lindy]]
+> "The longer ideas, books, technologies, procedures, institutions, political systems has survived, the more anti-fragile they are. The only effective judge of these is time."
+> [[lindy]]
 
 ## Miller's Law
 
@@ -109,7 +118,7 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 ## Parkinson's Law
 
 > "work expands so as to fill the time available for its completion". Same Parkinson as "Parkinson's Law of Triviality"
-[[parkinsons law]]
+> [[parkinsons law]]
 
 ## Parkinson' Law of Triviality
 
@@ -147,6 +156,10 @@ Parkinson provides the example of a fictional committee whose job was to approve
 
 The more user friendly your application, the more complicated the code base.
 
+## Twyman's Law
+
+> "The more unusual or interesting the data, the more likely they are to have been the result of an error of one kind or another."
+
 ## Zawinski's Law
 
 > "Every program attempts to expand until it includes a web server. Those programs which cannot so expand are replaced by ones which can."
@@ -154,7 +167,7 @@ The more user friendly your application, the more complicated the code base.
 ## Zeigarnik Effect
 
 > "People remember unfinished or interrupted tasks better than completed tasks."
-[[zeigarnik Effect]]
+> [[zeigarnik Effect]]
 
 ## Zone of Indifference Problem
 
