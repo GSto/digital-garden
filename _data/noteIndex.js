@@ -62,6 +62,7 @@ module.exports = {
         },
         { note: "how to say no" },
         { note: "humor" },
+        { note: "storytelling" },
       ],
     },
     {
