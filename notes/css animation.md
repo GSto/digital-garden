@@ -56,6 +56,10 @@ In this example, frames are 366x366 pixels, and there are 18 frames in the cycle
 - animations can alternate between start and end state, transitions cannot.
 - animations can affect multiple properties, transitions cannot
 
+## Animation with JavaScript
+
+You can also create more stateful animations by updating CSS attributes or classes of elements with JavaScript. An example for parallax is [Skrollr](https://prinzhorn.github.io/skrollr/).
+
 ## Animation Resources
 
 - [List of Animatable CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
