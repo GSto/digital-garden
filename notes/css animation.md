@@ -60,6 +60,13 @@ In this example, frames are 366x366 pixels, and there are 18 frames in the cycle
 
 You can also create more stateful animations by updating CSS attributes or classes of elements with JavaScript. An example for parallax is [Skrollr](https://prinzhorn.github.io/skrollr/).
 
+### Event listeners for animation
+
+- `animationstart` - runs when an animation on the element starts
+- `animationend` - when an animation ends (will not fire ever if the animation is infinite)
+- `animationiteration` - fires every keyframe
+- `transitionend` - when a transition finishes. (`transitionstart` does not have good browser support as of this writing)
+
 ## Animation Resources
 
 - [List of Animatable CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
