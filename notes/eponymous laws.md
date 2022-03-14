@@ -107,6 +107,16 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 > "The longer ideas, books, technologies, procedures, institutions, political systems has survived, the more anti-fragile they are. The only effective judge of these is time."
 > [[lindy]]
 
+## Mathew's Law
+
+> The rich get richer and the poor get poorer.
+
+> For to him who has will more be given; and from him who has not, even what he has will be taken away.
+— Mark 4:25, RSV.
+
+> For to every one who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away.
+— Matthew 25:29, RSV.
+
 ## Miller's Law
 
 > "The number of objects an average human can hold in short-term memory is 7 ± 2"
