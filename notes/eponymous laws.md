@@ -76,6 +76,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > "When a measure becomes a target, it ceases to be a good measure."
 
+## Harvard Law of Animal Behavior
+
+> "Under precisely controlled experimental conditions, a test animal will behave as it damn well pleases.
+
 ## Hawthorne Effect
 
 > "People's behavior changes when they are being observed."
@@ -97,6 +101,10 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 ## LeBlanc's Law
 
 > Later = never
+
+## Le Chatelier’s Principle
+
+> Any natural process, whether physical or chemical, tends to set up conditions opposing the further operation of the process.
 
 ## Lebowski Theorem
 
