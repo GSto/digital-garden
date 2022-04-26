@@ -2,11 +2,11 @@
 
 _pre-S: I intend to write a brief summary of each of these. Not going to let something being 'incomplete' stop me from putting it out there._
 
-#### [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - Sandy Metz
+#### [The wrong abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - Sandy Metz
 
 I see this mistake in programming often: removing duplicate code just because it's a duplicate. People forget that the goal of code is not to remove duplication, but to remove complexity.
 
-#### [why blacksmiths are better at startups than you](https://stackingthebricks.com/why-blacksmiths-are-better-at-startups-than-you/) - Amy Hoy
+#### [Why blacksmiths are better at startups than you](https://stackingthebricks.com/why-blacksmiths-are-better-at-startups-than-you/) - Amy Hoy
 
 Get the basics right. Show up every day. Deliver results. It's a masterclass in working [[empathy]] into your creative process, summed up with this quote:
 
@@ -14,13 +14,13 @@ Get the basics right. Show up every day. Deliver results. It's a masterclass in 
 
 > You’ll make things with your hands and your brain that will help people, people you get to meet, to talk to, to learn from. And you will feel rewarded.
 
-#### [tech brain](https://pycnocline.substack.com/p/tech-brain) - "Stephanie"
+#### [Tech brain](https://pycnocline.substack.com/p/tech-brain) - "Stephanie"
 
 Most of software development is fighting against complexity. However, when engineers over-simply real-world models due to their allergy to complexity, that's "Tech Brain." It can lead to [[false binaries]], overconfidence, and inaccessible or possibly dangerous software.
 
 > an addiction to easy answers combined with a wholesale cultural resistance to any kind of complexity.
 
-#### [Is This You? No Really, Is This You?](https://artsy.github.io/blog/2020/01/06/is-this-you/) - Mykola Bilokonsky
+#### [Is this you? No really, is this you?](https://artsy.github.io/blog/2020/01/06/is-this-you/) - Mykola Bilokonsky
 
 If you think there is any possibility have autism but were never diagnosed, give this article a read.
 
@@ -40,8 +40,9 @@ Mike gives a presentation with his lawyer. Every aspiring freelancer should watc
 
 #### [CSS Utility Classes and Separation of Concerns](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) - Adam Wathan
 
-A well-written treatsie on solving a complex software engineering and code organization problem. TailwindCSS is a devisive tool. Even if you don't like using it, it's worth reading Adam's reasoning as to why it's built the way that it is. 
+A well-written treatise on solving a complex software engineering and code organization problem. TailwindCSS is a devisive tool. Even if you don't like using it, it's worth reading Adam's reasoning as to why it's built the way that it is. 
 
+### Links that need a description
 1. [don't end the week with nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing) - Patrick MacKenzie
 
 1. [the Gervais principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/) - Vankatesh Rao
