@@ -16,11 +16,11 @@ a:visited {
 
 /* animated a link, inspo: https://www.30secondsofcode.org/css/s/hover-underline-animation */
 a:after {
-  content: '';
+  content: "";
   position: absolute;
   width: 100%;
   transform: scaleX(0);
-  height: 2px;
+  height: 1px;
   bottom: 0;
   left: 0;
   background-color: #607aff;
@@ -35,6 +35,7 @@ a:hover:after {
 
 body {
   margin: 0;
+  font-weight: 200;
 }
 
 body > main,
@@ -70,20 +71,22 @@ body > main,
 body > footer,
 body > nav {
   color: #4c5b61;
-  font-weight: 300;
+  font-weight: 200;
 }
 
 h1,
 h2 {
-  font-weight: 400;
+  font-weight: 500;
   color: #151719;
+  line-height: 1.1;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  font-weight: 300;
+  font-weight: 400;
+  line-height: 1.1;
 }
 
 strong {
@@ -120,14 +123,15 @@ li ol {
   padding-left: 12px;
 }
 
+li ul > li,
+li ol > li {
+  margin-left: 1rem;
+}
+
 ul li,
 ol li {
   margin-bottom: 0.5rem;
 }
-
-
-
-
 
 /* responsive styles */
 @media only screen and (max-width: 1040px) {
@@ -135,6 +139,29 @@ ol li {
   main {
     max-width: 90%;
   }
+}
+
+/* note pages */
+
+article.note h1 {
+  line-height: 1.1;
+  margin-bottom: 1rem;
+}
+
+article.note p {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  width: 60ch;
+  letter-spacing: 0.3px;
+}
+
+article.note li > p {
+  margin-bottom: 0;
+}
+
+article.note ul,
+article.note li {
+  width: 60ch;
 }
 
 /* frontpage grid */
