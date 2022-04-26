@@ -28,13 +28,25 @@ If you think there is any possibility have autism but were never diagnosed, give
 
 Many parts of [[the great internet game]] are playing 'hitmaker' games. Take a lot of at bats, and hope you hit some home runs.
 
+#### [r/personalfinance prime directive](https://www.reddit.com/r/personalfinance/wiki/commontopics) 
+
+[flowchart link](https://i.imgur.com/lSoUQr2.png)
+
+Up until a certain point, where to put your excess cash is a solved problem. 
+
+#### [Fuck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U) - Mike Monterio
+
+Mike gives a presentation with his lawyer. Every aspiring freelancer should watch this, so they can learn how to protect themselves, and respect themselves.
+
+#### [CSS Utility Classes and Separation of Concerns](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) - Adam Wathan
+
+A well-written treatsie on solving a complex software engineering and code organization problem. TailwindCSS is a devisive tool. Even if you don't like using it, it's worth reading Adam's reasoning as to why it's built the way that it is. 
+
 1. [don't end the week with nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing) - Patrick MacKenzie
-1. [r/personalfinance prime directive](https://www.reddit.com/r/personalfinance/wiki/commontopics) [flowchart link](https://i.imgur.com/lSoUQr2.png)
+
 1. [the Gervais principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/) - Vankatesh Rao
 1. [4 kinds of documentation aka The Documentation System](https://documentation.divio.com/)
 1. [You blow my mind Hey Mickey!](https://www.nytimes.com/2011/06/12/magazine/a-rough-guide-to-disney-world.html) - John Jeremiah Sullivan
-1. [CSS Utility Classes and Separation of Concerns](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) - Adam Wathan
-1. [Fuck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U) - Mike Monterio
 1. [LinkedIn's Alternate Universe](https://every.to/cybernaut/linkedins-alternate-universe-21780381-7883) - Fadeke Adegbuyi
 1. [Ladders of Wealth Creation](https://nathanbarry.com/wealth-creation/) - Nathan Barry
 1. [Making the Clackity Noise](https://www.kungfugrippe.com/post/169873399/clackity-noise) - Merlin Mann
