@@ -151,7 +151,7 @@ article.note h1 {
 article.note p {
   margin-top: 0;
   margin-bottom: 2rem;
-  width: 60ch;
+  max-width: 60ch;
   letter-spacing: 0.3px;
 }
 
@@ -161,7 +161,7 @@ article.note li > p {
 
 article.note ul,
 article.note li {
-  width: 60ch;
+  -ms-scroll-snap-points-x: 60ch;
 }
 
 /* frontpage grid */
