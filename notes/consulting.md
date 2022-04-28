@@ -6,7 +6,7 @@ The art of selling expertise, instead of selling labor (coding is labor).
 
 It isn't just about the strategy, the real work and skill is being able to collect the right numbers and details you need to provide with your advice.
 
-Upward mobility in consulting is rare, and only possible through a "big stunt", such as writing a book. It's more of a leap of watershed moments than it is slow gradual growth (contrast with salaried work.) - [The Art of Gig](https://studio.ribbonfarm.com/p/the-art-of-gig)
+> Upward mobility in consulting is rare, and only possible through a "big stunt", such as writing a book. It's more of a leap of watershed moments than it is slow gradual growth (contrast with salaried work.) - [The Art of Gig](https://studio.ribbonfarm.com/p/the-art-of-gig)
 
 Consultants are valued for their outside perspective, when they can use it to provide ways to improve a business. You don't have to have [[expertise]]
 

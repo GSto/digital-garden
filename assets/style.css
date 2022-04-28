@@ -2,6 +2,7 @@ html {
   font-size: 22px;
   background-color: #fff;
   color: #4c5b61;
+  -webkit-text-size-adjust: 100%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
@@ -153,6 +154,7 @@ article.note p {
   margin-bottom: 2rem;
   max-width: 60ch;
   letter-spacing: 0.3px;
+  line-height: 1.6rem;
 }
 
 article.note li > p {
@@ -162,6 +164,30 @@ article.note li > p {
 article.note ul,
 article.note li {
   -ms-scroll-snap-points-x: 60ch;
+}
+
+article.note li,
+.backlinks-container li {
+  padding-left: 8px;
+}
+
+article.note li::marker, 
+.backlinks-container li::marker {
+  content: "▸";
+}
+
+article.note blockquote {
+  margin-left: 0;
+  background-color: #F2F4FF;
+  border-color: #BBC5FD;
+  max-width: 60ch;
+  padding-top: 4px;
+  padding-bottom: 12px;
+  margin-bottom: 2rem;
+}
+
+article.note blockquote p {
+  margin-bottom: 0;
 }
 
 /* frontpage grid */

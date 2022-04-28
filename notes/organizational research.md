@@ -8,12 +8,12 @@ When working with organizations in a consulting capacity, you could do [[researc
 - **Executives** — Leaders, they help you understand overall company mission and vision, and how your project fits into it.
 - **Managers** — concerned with resource allocation and how the project affects their incentives.
 - **Subject Matter Experts** — specialized knowledge about the industry or business.
-- **Staff **— overlap with subject matter experts. People who do the day-to-day work.
+- **Staff**— overlap with subject matter experts. People who do the day-to-day work.
 - **Investors and board members** — influential and/or highly knowledgeable.
 
-## Other Notes
+## Other notes
 
-If you pretend politics don’t exist, you are setting yourself up for failure
+If you pretend politics don’t exist, you are setting yourself up for failure.
  
 Business requirements are often forgotten about. How do you know if your works succeeded, and is fully functional?
 
