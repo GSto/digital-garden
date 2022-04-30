@@ -3,8 +3,7 @@
 - Typescript is used in `.ts` files.
 - `npm install -g typescript`
 - Compile files with `tsc myfile.ts`
-- `ts-node` is a library which you can use to compile and watch files live: https://www.npmjs.com/package/ts-node
-- to read: utility types: https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeystype
+- `ts-node` is a library which you can use to compile and watch files live: [TSNode](https://www.npmjs.com/package/ts-node)
 
 ## General Principles
 
@@ -129,6 +128,11 @@ const mergeMaps =
       m2: Map<KeyType, ValType>
       ): Map<KeyType, ValType => ...
 ```
+
+### Keywords
+
+- **declare**: declare is used to tell the compiler "this thing (usually a variable) exists already, and therefore can be referenced by other code, also there is no need to compile this statement into any JavaScript". [Purpose of declare keyword in TypeScript](https://stackoverflow.com/questions/43335962/purpose-of-declare-keyword-in-typescript)
+- **readonly**: makes properties read only. Can be applied to properties or function arguments
 
 ## Utility Types
 
