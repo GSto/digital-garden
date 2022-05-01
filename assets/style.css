@@ -187,6 +187,10 @@ article.note blockquote {
 }
 
 article.note blockquote p {
+  margin-bottom: 1rem;
+}
+
+article.note blockquote p:last-child {
   margin-bottom: 0;
 }
 
