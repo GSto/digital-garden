@@ -159,7 +159,7 @@ module.exports = {
       title: "References",
       notes: [
         { note: "common references" },
-        { note: "often cited links" },
+        { note: "evergreen links" },
         { text: "Broken Links", url: "/meta/missing" },
         { note: "other writing" },
         {
