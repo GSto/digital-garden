@@ -103,7 +103,7 @@ _Fadeke Adegbuyi_
 
 The story of how taking our rolodex online turned into a sea of recruiter spam and workfluencer content. Also includes several pieces of inspiration
 
-### ["Adulting isn't hard" / Lessons from school I'm unlearning](https://twitter.com/made_in_cosmos/status/1441107026822586372?s=20)
+### ["Adulting isn't hard"](https://twitter.com/made_in_cosmos/status/1441107026822586372?s=20)
 _@made_in_cosmos_
 
 We shouldn't treat real life like public school. No punishment for experiments. No reward for getting things exactly right. No grades. There is no success criteria. No teachers. No one is going to fix your problem. No one is going to tell you exactly what to do. Learn whatever you want.
