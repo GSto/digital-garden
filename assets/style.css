@@ -77,17 +77,19 @@ body > nav {
 
 h1,
 h2 {
-  font-weight: 500;
+  font-weight: 600;
   color: #151719;
   line-height: 1.1;
+  font-family: 'Bitter', serif;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.1;
+  font-family: 'Bitter', serif;
 }
 
 strong {
