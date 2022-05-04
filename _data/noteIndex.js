@@ -104,6 +104,7 @@ module.exports = {
         },
         { note: "criticisms of hourly billing" },
         { note: "post senior dev fork" },
+        { note: "positioning" },
         { note: "Shaping" },
         { note: "the red tape paradox" },
         { note: "your first software project" },
