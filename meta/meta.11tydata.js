@@ -1,5 +1,5 @@
 const { caselessCompare } = require("../lib/string");
-const { getOutboundLinks } = require("../lib/notes");
+const { getExternalLinks, getOutboundLinks } = require("../lib/notes");
 
 const getBrokenLinks = (notes) => {
   // array of all possible note URLs
@@ -31,9 +31,22 @@ const getBrokenLinks = (notes) => {
   });
 };
 
+const getLinks = (notes) => {
+  const allLinks = notes.reduce((acc, note) => {
+    const noteLinks = getExternalLinks(note).map(
+      (link) => `${link} - _${note.data.title}_`
+    );
+    return [...acc, ...noteLinks];
+  }, []);
+
+  return allLinks.sort((a, b) => {
+    return a.toLowerCase() > b.toLowerCase() ? 1 : -1;
+  });
+};
+
 module.exports = {
   eleventyComputed: {
-    test: 1,
     brokenLinks: (data) => getBrokenLinks(data.collections.notes),
+    externalLinks: (data) => getLinks(data.collections.notes),
   },
 };
