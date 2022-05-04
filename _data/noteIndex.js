@@ -162,6 +162,7 @@ module.exports = {
         { note: "common references" },
         { note: "evergreen links" },
         { text: "Broken Links", url: "/meta/missing" },
+        { text: "Colophon", url: "/meta/colophon" },
         { note: "other writing" },
         {
           note: "eponymous laws",
