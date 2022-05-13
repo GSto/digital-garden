@@ -67,6 +67,14 @@ You can also create more stateful animations by updating CSS attributes or class
 - `animationiteration` - fires every keyframe
 - `transitionend` - when a transition finishes. (`transitionstart` does not have good browser support as of this writing)
 
+## Performance
+
+The fastest properties are **opacity** and **transform**
+
+- Instead of animating on width or height, animate on `transform: scale()`
+- Instead of animating position, use `transform: translate()`
+- Instead of animation z-index or visibility, use `opacity`
+
 ## Animation Resources
 
 - [List of Animatable CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
