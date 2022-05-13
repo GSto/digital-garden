@@ -159,8 +159,8 @@ module.exports = {
     {
       title: "References",
       notes: [
-        { note: "common references" },
         { note: "evergreen links" },
+        { note: "evergreen memes" },
         { text: "Broken Links", url: "/meta/missing" },
         { text: "Colophon", url: "/meta/colophon" },
         { note: "other writing" },

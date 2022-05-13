@@ -45,3 +45,7 @@ https://www.youtube.com/watch?v=Gu8YiTeU9XU
 
 [link](https://twitter.com/tlakomy/status/1100730091863191552)
 "Any software engineering problem can be solved with a sufficient number of slack channels"
+
+### Dependencies
+
+![](/assets/images/dependency.png)
