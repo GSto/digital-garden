@@ -75,6 +75,11 @@ The fastest properties are **opacity** and **transform**
 - Instead of animating position, use `transform: translate()`
 - Instead of animation z-index or visibility, use `opacity`
 
+`will-change`: a property that lets the browser know a property will animate, which can help. (It may kick it over to the GPU). Mostly for Chrome, Edge ignores this.
+`.animated-thing { will-change: transform; }`
+
+Don't animate elements that aren't visible.
+
 ## Animation Resources
 
 - [List of Animatable CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
