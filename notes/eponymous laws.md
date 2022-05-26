@@ -32,6 +32,10 @@
 
 Source: [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
+## Campbell's Law
+
+> The more important a metric is in social decision making, the more likely it is to be manipulated.
+
 ## Cheerleader Effect
 
 > put a bunch of things in a group, and we don't analyze them individually, we analyze the group "OMG THEY ARE ALL SO PRETTY". separate them, and the story is different "Uhh.. I see nothing special here"
@@ -115,15 +119,21 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 > "The longer ideas, books, technologies, procedures, institutions, political systems has survived, the more anti-fragile they are. The only effective judge of these is time."
 > [[lindy]]
 
+## McNamara's Fallacy
+
+> Making a decision based solely on quantitative observations (or metrics) and ignoring all others. The reason given is often that these other observations cannot be proven.
+
+During the Vietnam war, McNarama set the metric of victory as enemy body count. This ignored second-order effects. McNamara ignored other factors such as the feelings of the Vietnamese people because they could be measured.
+
 ## Mathew's Law
 
 > The rich get richer and the poor get poorer.
 
 > For to him who has will more be given; and from him who has not, even what he has will be taken away.
-— Mark 4:25, RSV.
+> — Mark 4:25, RSV.
 
 > For to every one who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away.
-— Matthew 25:29, RSV.
+> — Matthew 25:29, RSV.
 
 ## Miller's Law
 
