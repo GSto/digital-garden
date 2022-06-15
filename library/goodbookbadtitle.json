@@ -1,0 +1,35 @@
+{
+  "name": "Good book bad title book club",
+  "url": "https://www.glennstovall.com/good-book-bad-title-book-club/",
+  "books": [
+    {
+      "title": "The 4-Hour Workweek",
+      "author": "Tim Ferriss",
+      "notes": "The original lifestyle blogger shows you how to focus on optimization and automation first, and the principal business lesson of decoupling your time from your money. The title is famously born from split testing to come up with the most clickbaity title possible."
+    },{
+      "title": "I will teach you to be rich",
+      "author": "Ramit Sethi",
+      "notes": "A practical guide on personal finance for twentysomethings. It speaks to a seminal moment: when you are fresh out of college, getting their first salaries and taste of real money. They’re thinking about marriage, mortgages, or multiplying fruitfully one day down the road. How should you set yourself up for success financially?"
+    },
+    {
+      "title": "The millionaire fastlane",
+      "author": "MJ DeMarco",
+      "notes": "A practical guide on personal finance for twentysomethings. It speaks to a seminal moment: when you are fresh out of college, getting their first salaries and taste of real money. They’re thinking about marriage, mortgages, or multiplying fruitfully one day down the road. How should you set yourself up for success financially?"
+    },
+    {
+      "title": "Winning through intimidation",
+      "author": "Robert Ringer",
+      "notes": "The decent human’s guide to negotiating with assholes. This one wins for the most misleading title; it is the exact opposite of the contents. Robert, who characterizes himself as a meek turtle throughout the book, discusses how he made sure people didn’t take advantage of him in business deals through rigorous preparation."
+    },
+    {
+      "title": "Talk like TED",
+      "author": "Carmine Gallo",
+      "notes": "Ok, it is precisely that. Still, it’s one of the better books on public speaking that I’ve read. If you have better suggestions, I’m all ears."
+    },
+    {
+      "title": "The magic of thinking big",
+      "author": "David J. Schwartz",
+      "notes": "A corny but insightful book from the 1950s about how self-image affects our performance is almost everything. Behind the antiquated prose is a ton of specific, tactical advice to help you improve your mindset. No mysticism here. As an example, imagine two freelancers who start the year with two different goals: the first aims to make $50,000 in revenue that year. The second aims to make $150,000. What would they do differently? Which one would you rather be?"
+    }
+  ]
+}
