@@ -1,0 +1,11 @@
+{
+  "name": "Glenn's Reading Lists",
+  "url": "https://garden.glennstovall.com",
+  "bio": "test implementation of Tom Critchlow's library.json",
+  "lists": [
+    {
+      "name": "Friendliness reading list",
+
+    }
+  ]
+}

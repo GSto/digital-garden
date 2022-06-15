@@ -1,0 +1,77 @@
+{
+  "name": "Friendliness reading list",
+  "url": "https://https://garden.glennstovall.com/notes/friendliness%20reading%20list/",
+  "books": [{
+    "title": "How to win friends and influence people",
+    "author": "Dale Carnegie",
+    "link": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034",
+    "image": null,
+    "date_finished": "2004-07-01",
+    "notes": "obviously"
+  },
+  {
+    "title": "Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)",
+    "author": ["Marshall B. Rosenberg PhD", "Marshall B. Rosenberg PhD "],
+    "link": "https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X",
+    "image": null,
+    "date_finished": "2016-07-01",
+    "notes": "how to communicate without bias, finger pointing, anger, or defensiveness."
+  },
+  {
+    "title": "Impro: Improvisation and the Theatre",
+    "author": "Keith Johnstone",
+    "link": "https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178/",
+    "image": null,
+    "date_finished": null,
+    "notes": "because all conversations are improvisations"
+  },
+  {
+    "title": "Radical Candor",
+    "author": "Kim Scott",
+    "link": "https://twitter.com/GSto/status/1537210828163883008",
+    "image": null,
+    "date_finished": "2016-07-01",
+    "notes": "how to be nice and not kind"
+  },
+  {
+    "title": "Games People Play",
+    "author": "Eric Berne",
+    "link": "https://www.amazon.com/dp/B005C6E76U/",
+    "image": null,
+    "date_finished": "2022-02-02",
+    "notes": "Understanding what goes in social interactions"
+  },
+  {
+   "title": "What do we say after we say Hello?",
+    "author": "Eric Berne",
+    "link": "https://www.amazon.com/dp/B003JCP5CY/",
+    "image": null,
+    "date_finished": null,
+    "notes": "follow up to Games People Play"
+  },
+  {
+    "title": "Running on empty",
+    "author": "Jonice Webb",
+    "link": "https://www.amazon.com/Running-Empty-Overcome-Childhood-Emotional-ebook/dp/B009VJ4B4C/",
+    "image": null,
+    "date_finished": "2021-07-01",
+    "notes": "book on overcoming childhood emotional neglect, which may lead to habits and patterns of thoughts that can interfere in relationships."
+  },
+  {
+    "title": "Running on empty no more",
+    "author": "Jonice Webb",
+    "link": "https://www.amazon.com/gp/product/B076W2MGTR",
+    "image": null,
+    "date_finished": "2021-09-01",
+    "notes": null
+  },
+  {
+  "title": "I'm OK You're Ok",
+  "author": "Thomas A Harris",
+  "link": "https://www.amazon.com/Im-OK-Youre-OK-Thomas-Harris-ebook/dp/B0054KY9QW/",
+  "image": null,
+  "date_finished": "2021-09-01",
+  "notes": null
+  }
+]
+}
