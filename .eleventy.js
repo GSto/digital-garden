@@ -31,7 +31,10 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob(["notes/**/*.md"]);
   });
 
+
+
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("library");
 
   // backwards compatibility. Eleventy 1.0.0 changed the default from false -> true
   eleventyConfig.setLiquidOptions({
