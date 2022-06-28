@@ -1,5 +1,7 @@
 # Evergreen Links
 
+## Work
+
 ### [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 
 _Vankatesh Rao_
@@ -15,6 +17,26 @@ Get the basics right. Show up every day. Deliver results. It's a masterclass in 
 > Your driving questions will evolve from Does this make me sound smart? to Does this motivate a customer to buy? — from Gee, what do I feel like doing today? to How will I make my customers’ lives better today?
 
 > You’ll make things with your hands and your brain that will help people, people you get to meet, to talk to, to learn from. And you will feel rewarded.
+
+### [Fuck you, pay me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
+
+_Mike Monterio_
+
+Mike gives a presentation with his lawyer. Every aspiring freelancer should watch this, so they can learn how to protect themselves, and respect themselves.
+
+### [Joining hypergrowth startups](https://klinger.io/posts/joining-hypergrowth-startups-%F0%9F%98%AC)
+
+_Andreas Klinger_
+
+In 2022 I joined a company as hire #110 and in less than a year we hired employee #300. This guide explains what working at a startup at this stage is like: Instead of thinking in roles and teams, you think in problems and solutions. Working is putting out hundreds of tiny fires. Roles are transient. There isn't a lot of order, but there is opportunity to build it.
+
+### [Don't end the week with nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
+
+_Patrick MacKenzie_
+
+Prefer to work on things you can show. Prefer to work where people can see you. Prefer to work on things you can own. Spend some time building either human, social, or reputation capital.
+
+## Creativity
 
 ### [Making the clackity noise](https://www.kungfugrippe.com/post/169873399/clackity-noise)
 
@@ -32,6 +54,8 @@ _Darius Kazemi_
 
 Many parts of [[the great internet game]] are playing 'hitmaker' games. Take a lot of at bats, and hope you hit some home runs.
 
+## Productivity
+
 ### [Half-Assing it with Everything You Got](https://mindingourway.com/half-assing-it-with-everything-youve-got/)
 
 _Nate Soares_
@@ -44,21 +68,7 @@ It's irrational to give 100% effort to 100% of the things you do. Figure out how
 >
 > If you're trying to ace the class, then ace it with minimum effort. Anything else is wasted motion.
 
-### [Don't end the week with nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
-
-_Patrick MacKenzie_
-
-Prefer to work on things you can show. Prefer to work where people can see you. Prefer to work on things you can own. Spend some time building either human, social, or reputation capital.
-
-### [Fuck you, pay me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
-
-_Mike Monterio_
-
-Mike gives a presentation with his lawyer. Every aspiring freelancer should watch this, so they can learn how to protect themselves, and respect themselves.
-
-### [4 kinds of documentation AKA The Documentation System](https://documentation.divio.com/)
-
-Tutorials, how-to guides, explanations, reference. Get started, solve a problem, know more about a system, grasp a concept. This will change the way you think about creating internal and external documentation.
+## Tech
 
 ### [The wrong abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 
@@ -73,6 +83,12 @@ I see this mistake in programming often: removing duplicate code just because it
 _Adam Wathan_
 
 A well-written treatise on solving a complex software engineering and code organization problem. TailwindCSS is a devisive tool. Even if you don't like using it, it's worth reading Adam's reasoning as to why it's built the way that it is.
+
+### [4 kinds of documentation AKA The Documentation System](https://documentation.divio.com/)
+
+Tutorials, how-to guides, explanations, reference. Get started, solve a problem, know more about a system, grasp a concept. This will change the way you think about creating internal and external documentation.
+
+## Psychology
 
 ### [Tech brain](https://pycnocline.substack.com/p/tech-brain)
 
@@ -94,11 +110,7 @@ _Jason Lengstorf_
 
 Our caveman brains are hard-wired to focus on the negative. Happiness is a choice, a learnable skill, and takes work. Here Jason spells out tactics we can use to appreciate the good things in life.
 
-### [Joining hypergrowth startups](https://klinger.io/posts/joining-hypergrowth-startups-%F0%9F%98%AC)
-
-_Andreas Klinger_
-
-In 2022 I joined a company as hire #110 and in less than a year we hired employee #300. This guide explains what working at a startup at this stage is like: Instead of thinking in roles and teams, you think in problems and solutions. Working is putting out hundreds of tiny fires. Roles are transient. There isn't a lot of order, but there is opportunity to build it.
+## Money
 
 ### [r/personalfinance prime directive](https://www.reddit.com/r/personalfinance/wiki/commontopics)
 
@@ -111,6 +123,8 @@ Up until a certain point, where to put your excess cash is a solved problem.
 _Nathan Barry_
 
 The directive above attempts to answer the question "what should I do with my money?", this piece answers "what should I do with my work?" Examines entrepreneurship as a spectrum, not a binary.
+
+## Other
 
 ### [You blow my mind hey Mickey!](https://www.nytimes.com/2011/06/12/magazine/a-rough-guide-to-disney-world.html)
 
