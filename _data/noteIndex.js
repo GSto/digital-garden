@@ -161,6 +161,7 @@ module.exports = {
       notes: [
         { note: "evergreen links" },
         { note: "evergreen memes" },
+        { note: "talking points"},
         { text: "Broken Links", url: "/meta/missing" },
         { text: "Colophon", url: "/meta/colophon" },
         { note: "other writing" },
