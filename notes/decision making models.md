@@ -26,3 +26,6 @@ Instead of asking yourself "where do I want to go, and how can I bridge the gap?
 
 ## Least wrong options - AKA the shadow exercise
 List out all possible options for a decision. Remove the option that is the most obviously incorrect. Repeat until you are left with a single option.
+
+## Heart of the coin
+Flip a coin. While the coin is in the air, do you find yourself wishing deep down that it lands one way or the other? Don't look at the result; you already have your answer.

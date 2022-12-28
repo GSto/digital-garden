@@ -190,6 +190,7 @@ module.exports = {
       title: "Concepts",
       notes: [
         { note: "bullshit" },
+        { note: "discipline"},
         { note: "expertise" },
         { note: "freemium leisure" },
         { note: "Lindy" },
