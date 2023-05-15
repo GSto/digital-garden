@@ -115,6 +115,7 @@ module.exports = {
       title: "AI",
       notes: [
         { note: "prompt engineering"},
+        { note: "midjourney prompts"}
       ],
     },
     {
