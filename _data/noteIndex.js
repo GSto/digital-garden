@@ -112,6 +112,12 @@ module.exports = {
       ],
     },
     {
+      title: "AI",
+      notes: [
+        { note: "prompt engineering"},
+      ],
+    },
+    {
       title: "Money",
       notes: [
         { note: "housing prices" },
