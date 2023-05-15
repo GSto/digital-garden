@@ -22,6 +22,7 @@ module.exports = {
         { note: "security" },
         { note: "Shopify theme development" },
         { note: "software principles" },
+        { note: "tech specs"}
       ],
     },
     {
