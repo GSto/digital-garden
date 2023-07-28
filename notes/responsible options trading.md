@@ -1,4 +1,4 @@
-# Responsible Options Trading
+# Low risk options trading
 
 ## About This Guide
 Options trading is as risky as you want it to be. This guide is all about how to use options trading in a responsible fashion, to take a slightly more active role in trading to increase gains, without taking obscene amounts of risk.

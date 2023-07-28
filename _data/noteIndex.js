@@ -127,7 +127,7 @@ module.exports = {
           children: [{ note: "401k valuation" }, { note: "asset allocation" }],
         },
         { note: "real estate investing" },
-        { note: "responsible options trading" },
+        { note: "low-risk options trading" },
       ],
     },
     {
@@ -180,7 +180,7 @@ module.exports = {
       ],
     },
     {
-      title: "Tools for Thought",
+      title: "Metacognition",
       notes: [
         { note: "cognitive biases" },
         { note: "decision making models" },
