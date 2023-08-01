@@ -118,7 +118,7 @@ module.exports = {
       ],
     },
     {
-      title: "Money",
+      title: "Finance",
       notes: [
         { note: "Housing prices" },
         {
