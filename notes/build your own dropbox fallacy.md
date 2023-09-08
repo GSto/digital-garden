@@ -4,7 +4,7 @@ When Dropbox launched on Hackernews, one of the top comments was something to th
 
 > "why would anyone use dropbox when you can spin up rsync on an ftp?"
 
-This fallacy, prevealent among engineers, shows an undervaluing of ease of use. It also does put value on the time needed to make and maintain a service. In fact, the opposite is true: its quite possible to build a company off of making a simple version of a complex process. examples include:
+This fallacy, prevalent among engineers, shows an undervaluing of ease of use. It also does put value on the time needed to make and maintain a service. In fact, the opposite is true: its quite possible to build a company off of making a simple version of a complex process. examples include:
 
 - [Shopify](https://shopify.com) - simple e-commerce
 - [Robinhood](https://robinhood.com) - simple options trading

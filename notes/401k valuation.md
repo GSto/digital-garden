@@ -1,4 +1,4 @@
-# 410K valuation
+# 401K valuation
 
 should you max out your 401k valuation as part of your [[personal finance]] strategy?
 
