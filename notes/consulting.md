@@ -10,9 +10,9 @@ It isn't just about the strategy, the real work and skill is being able to colle
 
 Consultants are valued for their outside perspective, when they can use it to provide ways to improve a business. You don't have to have [[expertise]]
 
-If you don't know something, "let me do research and find out." is valuable. If a problem is too big to solve, "here's the part I can solve, can't solve it all though!" is valuable. Recalibrating expections is valuable. If you are over your head, "This is over my head you should talk/read/listen to this other expert." is valuable.
+If you don't know something, "let me do research and find out." is valuable. If a problem is too big to solve, "here's the part I can solve, can't solve it all though!" is valuable. Recalibrating expectations is valuable. If you are over your head, "This is over my head you should talk/read/listen to this other expert." is valuable.
 
-Consulting is always an option when you have an [[indie mindset]]: its a way for your to gain expertise outside of fulltime employement.
+Consulting is always an option when you have an [[indie mindset]]: its a way for your to gain expertise outside of full-time employment.
 
 ## Types of Consulting Engagements
 

@@ -24,7 +24,7 @@ Pick an expertise and be laser focused on it. See where you show up the most, an
 Look through your writing, twitter, reddit, slacks, discords. What do you engage the most with? Where you get the most engagement?
 
 ## Content Creation and Personal Branding
-The idea that content can be laser focused at a small audience and get big wins. Most devs don't have a blog, most don't have a github. 
+The idea that content can be laser focused at a small audience and get big wins. Most devs don't have a blog, most don't have a GitHub. 
 
 ## Personal Branding and Career
 This can all work at a micro level. What do your coworkers think about you? How does it affect the opportunities you get within your company?

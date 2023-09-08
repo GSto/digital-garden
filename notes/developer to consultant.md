@@ -46,7 +46,7 @@ __TODO: turn this into a table__
 ## Flavors of Technical Consulting
 - Source: [this comment on Reddit](https://old.reddit.com/r/ExperiencedDevs/comments/i20eqw/getting_a_new_job_in_a_new_path/g0302cs/?context=3), based on Amazon positions
   - **Account Manager **- coordinate everyone else involved with the account
-  - **Solutions Architect** - Similar ro sales people, they are showing customers "[[the art of the possible]]" and working with customers to show what can be done. May or may not be hands on. 
+  - **Solutions Architect** - Similar to sales people, they are showing customers "[[the art of the possible]]" and working with customers to show what can be done. May or may not be hands on. 
   - **Engagement Managers** - similar to scrum masters or project masters
   - **Technical Consultants** - actually working with customers and developing solutions
   - **Technical Account Managers** - provides ongoing support. Constantly on call.  
@@ -64,7 +64,7 @@ __TODO: turn this into a table__
 - problem areas
   - accessibility
   - security
-  - hipaa
+  - HIPAA
   - scalability
   - 
 

@@ -13,7 +13,7 @@ One type of DeFi application is a Decentralized Exchange, or **DEX**. A Dex allo
 
 ## Examples of DeFi Models
 
-**Private Lending and Borrowing** - You can lend and borrow assets. Often times you can borrow back the assets you lend with a 50% Collateralization. For example, lending 10 ETH and borrowing 5 ETH.
+**Private Lending and Borrowing** - You can lend and borrow assets. Often times you can borrow back the assets you lend with a 50% collateralization. For example, lending 10 ETH and borrowing 5 ETH.
 
 **Liquidity Pooling** - You lend pairs of coins to a DEX in exchange for collecting a fee. The fee is listed in terms of APY, although these rates have an incredibly high [[variance]]. Typically you lend pairs that are 1:1 in value.
 

@@ -15,12 +15,12 @@ When you give an element a z-index, that value is only compared against other el
 
 Other ways to create stacking contexts:
 
-- set opacticy to less that 1
+- set opacity to less that 1
 - set position to fixed or sticky
 - apply a mix-blend-mode other than normal
 - add a z-index to a child inside a display:flex or display:grid container
 - using transform, filter, clip-path, or perspective
-- explicity with isolation: isolate
+- explicitly with isolation: isolate
 
 More on this: [What the heck, z-index? - Josh Comeau](https://www.joshwcomeau.com/css/stacking-contexts/)
 

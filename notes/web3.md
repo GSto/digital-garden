@@ -30,7 +30,7 @@ Core principle: adding protocols for payments and state to the internet. Think o
 - **51% Attack** \- if someone controlled 51% of the nodes managing a distributed ledger\, they could write their own transactions\. \(though they could not edit or delete existing ones\)\.
 - **airdrop** \- sending tokens to a wallet without letting them know\.
 - **cryptoeconomics** \- the study of economics based on these technologies\. A form of \[\[game theory\]\]\.
-- **defi** \- distributed finance\. contrast with traditional finance\(tradfi\)\.
+- **DeFi** \- distributed finance\. contrast with traditional finance\(tradfi\)\.
 - **governance** \- the method in which blockchains are run\. More on [governance](https://docs.ethhub.io/ethereum-basics/governance/)
 - **grants programs** \- Programs decentralized networks run where they offer compensation in exchange for dev work\. Here's a [list of some grants programs](https://twitter.com/dabit3/status/1418307358946701319)
 - **ledger** \- A cryptographically secured list of transactions\, aka blocks on the blockchain\. transactions happen between different **addresses**

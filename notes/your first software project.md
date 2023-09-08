@@ -18,7 +18,7 @@ What 'success' means is project-dependent. But in most cases, there is no way to
 Working on software requires an [[uncertainty mindset]].
 
 ## Software development requires experimentation
-Software is resuable. If a problem has a recurring, known solution, then there are off-the-shelf solutions that can be re-used. However, if you are working with people to create custom software, then the problem in some fashion, by definition, is novel. It could be the uniqueness of your idea or your unique competitive advantage. Either way, it means solving new problems. 
+Software is reusable. If a problem has a recurring, known solution, then there are off-the-shelf solutions that can be re-used. However, if you are working with people to create custom software, then the problem in some fashion, by definition, is novel. It could be the uniqueness of your idea or your unique competitive advantage. Either way, it means solving new problems. 
 
 Coming up with creative solutions to problems is something that requires trial and error. Experimentation and failure are part of the process. 
 
@@ -40,7 +40,7 @@ Since building a software project The biggest mistake I see first time software 
 Upfront planning is important and often discounted(again, see [[shaping]]), however there are always going to be problems that cannot be discovered until you are in the work. Every project has unknowns, some of which can be found ahead of time, others which can only be unsurfaced by work. 
 
 ## Software development is incremental, not fixed. 
-All of the reasons above are why software firms evangilize "Agile" development. That words means different things to different people, but at the core, its about having a process that focuses on multiple iterations over a single fixed project plan. Since software is a creative practice of experimenting, building, and research-through-building, it makes the most sense to have a practice of working in smaller discrete chunks, getting feedback, and iterating. 
+All of the reasons above are why software firms evangelize "Agile" development. That words means different things to different people, but at the core, its about having a process that focuses on multiple iterations over a single fixed project plan. Since software is a creative practice of experimenting, building, and research-through-building, it makes the most sense to have a practice of working in smaller discrete chunks, getting feedback, and iterating. 
 
 This process allows software to move faster, and adjust to new conditions and insights quickly. This speed helps increase your chances of success.
 

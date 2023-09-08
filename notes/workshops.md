@@ -30,9 +30,9 @@
   - Engineer for outcomes, not optimism. You are here to get down to the real problems, not leaving the client feeling good.
   - Focuses on **appetite over estimates**. Instead of thinking "how much does an idea cost?" focus on "how much is the idea worth?" Estimates start with a design and end with a number. Appetite starts with a number and ends with a design.
 - **Questions & Conversation Starters**
-  - Restate the situation and goals first thing. Tease out any discrepencies or inconsistencies.
+  - Restate the situation and goals first thing. Tease out any discrepancies or inconsistencies.
   - What similar products are out on the market? How will we differentiate from them?
-  - Have you talked to potential customers yet? What feedback have you recevied? Have you asked any of them for a comittment?
+  - Have you talked to potential customers yet? What feedback have you received? Have you asked any of them for a commitment?
   - What other products or tools can and should we integrate with?
   - What is your availability for collaboration? How often would you want to get together and check-in?
   - Who are the stakeholders, and how will we get in contact with them?

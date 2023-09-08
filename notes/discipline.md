@@ -24,7 +24,7 @@ When you don't do what you say to yourself you are going to do, you lose trust i
 
 
 ## Is discipline a muscle or a resource? 
-Psychologist Roy Baumeister believed that using discipline, willpower, and making choices led to the depletion of energy and mental fatigue. Philosophers such as Sceneca believed that discipline is a muscle, and gets stronger the more you use it. Which model is more correct? Could their be truth in both of them? 
+Psychologist Roy Baumeister believed that using discipline, willpower, and making choices led to the depletion of energy and mental fatigue. Philosophers such as Seneca believed that discipline is a muscle, and gets stronger the more you use it. Which model is more correct? Could their be truth in both of them? 
 
 ## Discipline is required for persuasion
 

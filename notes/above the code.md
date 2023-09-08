@@ -6,7 +6,7 @@ Work that is above the editor has more [[leverage]] than work below the editor. 
 
 Staying as a programmer, only programming, sticks you at the bottom of the [[McLeod Hierarchy]]. Software is labor. Being a laborer is incompatible with moving to manager to executive to owner.
 
-most work in the [[post-senior dev fork]]: management, architecture (sort of), entrepreneurship, consulting, training. 
+most work in the [[post senior dev fork]]: management, architecture (sort of), entrepreneurship, consulting, training. 
 
 Writing seems intrinsic to all of it. [[writing]] helps with growth, helps you persuade, and helps you put research together. 
 

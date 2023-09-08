@@ -23,7 +23,7 @@ Working with uncertainty requires tolerating what appears to be inefficiency. Yo
 
 ## Non-Predictable Events
 
-Uncertainty does not deal with the future and prediction. It's a way fo dealing with events that _never could have been predicted._
+Uncertainty does not deal with the future and prediction. It's a way of dealing with events that _never could have been predicted._
 
 **Favor preparation over prediction.** Think of emergency funds as an example. You don't know __what__ could go wrong, but you do know that over long enough [[time horizons]] something __will definitely__ go wrong.
 

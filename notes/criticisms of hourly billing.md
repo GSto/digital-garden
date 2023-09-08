@@ -12,11 +12,11 @@ Because of these two factors, the hour ceases to be a measurement of anything re
 Hours focus discussion on inputs at the expense of outcomes. More talk is had about how many hours things take and instead of weather or not they are good for the project. Clients do not, should not care about the amount of time or energy you spend working on a solution, they only care about the quality of the solution. 
   - If they care about time, they only care about calendar time. Clients do not care about effort time when you aren't charging them for it.
 
-Billing by the hour encourages [[estimation]], which is a [[bullshit]] practice. Because of this, the act of estimation becomes an act on unconsicous [[product design]]. When defining estimates, what you've done is define appetite. 
+Billing by the hour encourages [[estimation]], which is a [[bullshit]] practice. Because of this, the act of estimation becomes an act on unconscious [[product design]]. When defining estimates, what you've done is define appetite. 
 
-Hourly billing adds to additional project management time that accomplishes nothing but adding to the illusion of [[legibility]]. Time is spent talking about how much time was spent on tasks, and if it matches up with the estimate. hourly billing = beauracracy. 
+Hourly billing adds to additional project management time that accomplishes nothing but adding to the illusion of [[legibility]]. Time is spent talking about how much time was spent on tasks, and if it matches up with the estimate. hourly billing = bureaucracy. 
   - Depending on the precision of your estimates, this also leads to making every conversation a business decision. Should we build this is immediately followed by "how many hours will it take?" 
-  - These conversations put the client and service provider in an advesarial position to one another, instead of a collaborative one.
+  - These conversations put the client and service provider in an adversarial position to one another, instead of a collaborative one.
 
 Hourly billing **punishes productivity**. You aren't encouraged to make decisions that could save the client money because they cost you money. 
   - Interestingly, I see developers doing this to themselves. They worry about billing for a fixed amount, finding a quick or off-the-shelf solution, and consequently feeling guilty that they "over charged", even though they delivered exactly what the client wanted for the price they agreed upon. It's not unethical to make a large profit margin.

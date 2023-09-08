@@ -3,7 +3,7 @@
 * Writing is, without dispute, the best facilitator for thinking, reading, learning, understanding and generating ideas we have. - [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y)
 * To learn more
 * To promote a product
-* To promote yourself. [Story of how an artice & talk directly led to client wor.](https://glennstovall.com/case-study-1-talk-1-article-2-new-clients/)
+* To promote yourself. [Story of how an article & talk directly led to client work.](https://glennstovall.com/case-study-1-talk-1-article-2-new-clients/)
 * To display your [[expertise]]. 
 * To generate new [[expertise]].
 * To help others. 

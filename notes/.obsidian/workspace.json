@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code review.md",
+                "file": "zeigarnik effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code review.md",
+                "file": "zeigarnik effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code review.md",
+                "file": "zeigarnik effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code review.md"
+                "file": "zeigarnik effect.md"
               }
             }
           }
@@ -148,17 +148,32 @@
   },
   "active": "f6236e2d4632deee",
   "lastOpenFiles": [
-    "parkinsons law.md",
-    "bike-shedding.md",
-    "Untitled.canvas",
-    "2023-09-08.md",
-    "401k valuation.md",
-    "build your own dropbox fallacy.md",
-    "asset allocation.md",
-    "article ideas.md",
-    "antifragile.md",
-    "action produces information.md",
-    "accessibility.md",
-    "above the code.md"
+    "your first software project.md",
+    "writing rules.md",
+    "writing book recommendations.md",
+    "writing.md",
+    "workshops.md",
+    "working identities.md",
+    "why write.md",
+    "web3.md",
+    "variance.md",
+    "uncertainty mindset.md",
+    "TypeScript with React.md",
+    "typescript.md",
+    "twitter hacks.md",
+    "too much comfort produces weakness.md",
+    "token economy.md",
+    "thought exercises.md",
+    "TODO.md",
+    "the red tape paradox.md",
+    "the great internet game.md",
+    "the amateur and the professional.md",
+    "tempo.md",
+    "tech specs.md",
+    "storytelling.md",
+    "talking points.md",
+    "squads.md",
+    "species of interesting ideas.md",
+    "Untitled.canvas"
   ]
 }

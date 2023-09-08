@@ -22,13 +22,13 @@ What are some common security holes that could exist in your application, and wh
 
 ### Insecure communications
 
-- always uses secure protocols such as HTTPS. avoid unsecure protocols like HTTP and FTP
+- always uses secure protocols such as HTTPS. avoid non-secure protocols like HTTP and FTP
 - limit access to internal data, for example using a VPN.
 
 ### Improper Error Handling
 
 - Don't leak sensitive information in error messages.
-- This includes logging data to error handlers. Don't accidently send the user's password to bugsnag.
+- This includes logging data to error handlers. Don't accidentally send the user's password to Bugsnag.
 
 ### Cross-Site Scripting (XSS)
 
