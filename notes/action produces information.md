@@ -1,4 +1,4 @@
-# Action Produces Information
+
 
 - Sometimes the only way you can reduce uncertainty is to move forward. The work you do informs the next work you do. 
 - You learn more from shipping a failure than you do working in isolation trying to prevent said failure.

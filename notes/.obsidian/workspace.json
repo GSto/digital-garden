@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zeigarnik effect.md",
+                "file": "effectual reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2938fbb86a716ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "action produces information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f80f1b19943e08c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deck writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4467503f5f4acab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "burnout.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zeigarnik effect.md",
+                "file": "burnout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zeigarnik effect.md",
+                "file": "burnout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zeigarnik effect.md"
+                "file": "burnout.md"
               }
             }
           }
@@ -146,12 +183,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6236e2d4632deee",
+  "active": "4467503f5f4acab6",
   "lastOpenFiles": [
-    "your first software project.md",
+    "deck writing.md",
+    "burnout.md",
+    "action produces information.md",
+    "effectual reasoning vs. causal reasoning.md",
+    "effectual reasoning.md",
+    "decision making models.md",
     "writing rules.md",
-    "writing book recommendations.md",
     "writing.md",
+    "Zeigarnik effect.md",
+    "your first software project.md",
+    "writing book recommendations.md",
     "workshops.md",
     "working identities.md",
     "why write.md",
@@ -167,13 +211,6 @@
     "TODO.md",
     "the red tape paradox.md",
     "the great internet game.md",
-    "the amateur and the professional.md",
-    "tempo.md",
-    "tech specs.md",
-    "storytelling.md",
-    "talking points.md",
-    "squads.md",
-    "species of interesting ideas.md",
     "Untitled.canvas"
   ]
 }

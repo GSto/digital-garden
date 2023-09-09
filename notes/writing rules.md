@@ -4,7 +4,7 @@ A set of guidelines to help you improve your writing.
 
 ## Amazon's Writing Rules
 
-[\*\*Writing Tips From Amazon:](https://twitter.com/destraynor/status/1258372157706510336?s=21)
+[\Writing Tips From Amazon:](https://twitter.com/destraynor/status/1258372157706510336?s=21)
 
 - Use less than 30 words per sentence.
 - Replace adjectives with data

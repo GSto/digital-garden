@@ -195,7 +195,7 @@ The more user friendly your application, the more complicated the code base.
 ## Zeigarnik Effect
 
 > "People remember unfinished or interrupted tasks better than completed tasks."
-> [[zeigarnik Effect]]
+> [[Zeigarnik effect]]
 
 ## Zone of Indifference Problem
 
