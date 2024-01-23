@@ -118,6 +118,16 @@ module.exports = {
       ],
     },
     {
+      title: "Disorder",
+      notes: [
+        { note: "antifragile" },
+        { note: "luck" },
+        { note: "risk", children: [{ note: "Risk of ruin" }] },
+        { note: "uncertainty mindset" },
+        { note: "variance" },
+      ],
+    },
+    {
       title: "Finance",
       notes: [
         { note: "housing prices" },
@@ -127,21 +137,6 @@ module.exports = {
         },
         { note: "real estate investing" },
         { note: "low-risk options trading" },
-      ],
-    },
-    {
-      title: "Crypto",
-      notes: [
-        { note: "Web3" },
-        { note: "DeFi", children: [{ note: "impermanent Loss" }] },
-        {
-          note: "cryptocurrency",
-          children: [
-            { note: "Ethereum" },
-            { note: "Solidity" },
-            { note: "Solana" },
-          ],
-        },
       ],
     },
     {
@@ -205,16 +200,6 @@ module.exports = {
         { note: "playing for stakes" },
         { note: "tempo" },
         { note: "too much comfort produces weakness" },
-      ],
-    },
-    {
-      title: "Disorder",
-      notes: [
-        { note: "antifragile" },
-        { note: "luck" },
-        { note: "risk", children: [{ note: "Risk of ruin" }] },
-        { note: "uncertainty mindset" },
-        { note: "variance" },
       ],
     },
     {
