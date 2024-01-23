@@ -55,3 +55,6 @@ __stub, needs expansion__
 ## Single Responsibility
 
 Each unit of code (for the purposes of this writing, a unit of code is a function, component, class, or block). it should do one thing and do it well. If a function is doing to many things, then you should decompose it into smaller units. units decomposed this way will he easier to test, easier to reuse(more modular) and easier to reason about (chunking)
+
+## Bottom-up over top-down systems 
+Don't try to build The One True Solution to fit every use case. You're only signing up to fix a more expensive, more complex problem. Instead, build solutions that solve a particular problem, and then refactor them to handle more generic cases as needed.
