@@ -193,6 +193,7 @@ const thinking = {
       ],
     },
     { note: "species of interesting ideas" },
+    { note: "Figma as a strategic thinking tool"}
   ],
 }
 
