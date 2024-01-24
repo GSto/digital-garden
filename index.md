@@ -4,9 +4,9 @@ layout: default
 
 # Digital Garden
 
-My place to collect notes, quotes, links, and other resources. Part of practicing [[prolific creation]] and a way to [[learn in public]].
+My place to nourish notes, quotes, links, and other resources. Part of practicing [[prolific creation]] and a way to [[learn in public]].
 
-This site is a constant work in progress. Pages may be incomplete, contain errors, or be stupid.
+It is a constant work in progress. Pages may be incomplete, incorrect, or just plain silly.
 
 <div class="indexGrid">
 <div class="indexColumn">

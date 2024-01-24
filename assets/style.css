@@ -1,7 +1,10 @@
 :root {
   --color-cream: #F6F5F1; 
   --color-black: #353534;
-  --color-blue: #00A4BA;
+  --color-accent: #6A8E7F;
+  --color-quote: #DCE5E1;
+  --color-quote-border: #95B1A5;
+  --color-link-alt: #960462;
 }
 html {
   font-size: 22px;
@@ -14,7 +17,7 @@ html {
 
 a,
 a:visited {
-  color: var(--color-blue);
+  color: var(--color-accent);
   text-decoration: none;
   display: inline-block;
   position: relative;
@@ -29,7 +32,7 @@ a:after {
   height: 1px;
   bottom: 0;
   left: 0;
-  background-color: var(--color-blue);
+  background-color: var(--color-accent);
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
 }
@@ -37,6 +40,10 @@ a:after {
 a:hover:after {
   transform: scaleX(1);
   transform-origin: bottom left;
+}
+
+article.note blockquote a:after  { 
+  background-color: var(--color-link-alt);
 }
 
 body {
@@ -52,7 +59,7 @@ body > header {
 
 body > header {
   text-align: left;
-  background-color: var(--color-blue);
+  background-color: var(--color-accent);
   min-height: 12px;
 }
 
@@ -184,12 +191,17 @@ article.note li::marker,
 
 article.note blockquote {
   margin-left: 0;
-  background-color: #F2F4FF;
-  border-color: #BBC5FD;
+  background-color: var(--color-quote);
+  border-color: var(--color-quote-border);
+
   max-width: 60ch;
   padding-top: 4px;
   padding-bottom: 12px;
   margin-bottom: 2rem;
+}
+
+article.note blockquote a { 
+  color: var(--color-link-alt)
 }
 
 article.note blockquote p {
