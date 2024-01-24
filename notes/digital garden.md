@@ -15,12 +15,14 @@ Since notes can be more "raw" than articles or larger forms of work, I also find
 ## Resources
 
 * [Tom Critchlow - Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
-* [Ness Labs - Getting Started With TiddlyWiki: A beginner's Tutorial](https://nesslabs.com/tiddlywiki-beginner-tutorial)
 * [Tom Critchlow - Thread of Digital Garden Ideas](https://twitter.com/tomcritchlow/status/1083823277712248832)
+* [Maggie Appleton - A brief history and ethos of the digital garden](https://maggieappleton.com/garden-history)
+* [Ness Labs - Getting Started With TiddlyWiki: A beginner's Tutorial](https://nesslabs.com/tiddlywiki-beginner-tutorial)
 
 ## Examples
 
 * [mentalnodes.com](https://mentalnodes.com) - Inspiration for this digital garden.
+* [Maggie Appleton - The Garden](https://maggieappleton.com/garden)
 * [Tom Critchlow Wikifolder](https://tomcritchlow.com/wiki/)
 * [XXIIVV wiki](https://wiki.xxiivv.com/) - Visually stunning
 * [Yak Collective Roam](https://roamresearch.com/#/app/ArtOfGig/page/s6nvla0u4) - community run, public Roam database.

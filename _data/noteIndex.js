@@ -92,7 +92,6 @@ module.exports = {
       description: "the work before, after, above, and below the code editor.",
       notes: [
         { note: "build your own dropbox fallacy" },
-        { note: "build vs buy" },
         { note: "code review" },
         {
           note: "Consulting",

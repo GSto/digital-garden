@@ -182,6 +182,9 @@ ol li {
 }
 
 /* note pages */
+article {
+  max-width: 60ch;
+}
 
 article.note h1 {
   line-height: 1.1;

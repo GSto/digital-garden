@@ -131,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "effectual reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "effectual reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "effectual reasoning.md"
+              }
             }
           },
           {
@@ -177,7 +181,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
