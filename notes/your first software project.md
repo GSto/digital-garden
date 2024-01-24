@@ -2,18 +2,18 @@
 
 A series of notes for non-technical founders and stakeholders who are working on a software project for the first time.
 
-I've worked in software for over a decade, and I have a good sense of what increases and decreases a project's chance of success. The aim of these notes is to increase clarity and encourage collaboration on both sides of the table. 
+I've worked in software for over a decade, and I have a good sense of what increases and decreases a project's chance of success. These notes aim to increase clarity and encourage collaboration on both sides of the table. 
 
 If you haven't worked in software, you may be used to projects that have a fixed definition of success, requirements, timeline and budget. Your software projects will have none of those, which is a good thing. Why is this? Read on.
 
 
 ## Writing software is creative, not mechanical
-Some people think that writing software is like hiring a construction workers to follow a blueprint. Instead, its more akin to being both builder and architect, and alternating between the two. You do some initial blueprinting ([[shaping]]), then build some. Get feedback, and repeat. 
+Some people think that writing software is like hiring construction workers to follow a blueprint. Instead, it's more akin to being both builder and architect and alternating between the two. You do some initial blueprinting ([[shaping]]), then build some. Get feedback, and repeat. 
 
-To be fair, some software developers like to focus exclusively on the building aspect, and ignore other factors because writing code is discrete, legible, and within their domain. These are the developers that will do exactly as they are told with no regards to wether or not it increases the project's chance of success. Be wary of hiring these kinds of developers unless you are an experienced technical manager who knows how to corral them. 
+To be fair, some software developers like to focus exclusively on the building aspect & ignore other factors because writing code is discrete, legible, and within their domain. These are the developers who will do exactly as they are told with no regard to whether or not it increases the project's chance of success. Be wary of hiring these kinds of developers unless you are an experienced technical manager who knows how to corral them. 
 
 ## There are no guarantees; only increasing and decreasing chances of success. 
-What 'success' means is project-dependent. But in most cases, there is no way to 100% guarantee the success of a project. Software engineering is a game of betting and taking calculated risks. You can only do things that increase and decrease a projects chance of success.
+What 'success' means is project-dependent. But in most cases, there is no way to 100% guarantee the success of a project. Software engineering is a game of betting and taking calculated risks. You can only do things that increase and decrease a project's chance of success.
 
 Working on software requires an [[uncertainty mindset]].
 
@@ -24,14 +24,13 @@ Coming up with creative solutions to problems is something that requires trial a
 
 It's counterintuitive, but an environment that allows for failure **increases** a project's chance of success.
 
-Experimenting requires a hypothesis. Everyone has assumptions at the start of a project. Experimenting is a way to prove or disprove those assumptions. There is a different between experimenting and throwing things at the wall and seeing what sticks.
+Experimenting requires a hypothesis. Everyone has assumptions at the start of a project. Experimenting is a way to prove or disprove those assumptions. There is a difference between experimenting and throwing things at the wall and seeing what sticks.
+Another bristle of the uncertainty is that it is less efficient. That's a cost for this process. If the process could be made more predictable and efficient, it would be made into reusable code or software, and you wouldn't have to build them. While you may end up re-doing work and throwing work away, the process in the long term gets you to a successful project faster.
 
-Another bristling of the uncertainty is that it is less efficient. That's a cost of this process. If the process could be made more predictible and efficient, it would be made into resuable code or software, and you wouldn't have to build them. While you make end up re-doing work and throwing work away, the process in the long term gets you to a successful project faster.
-
-## Third party solutions come with constraints
+## Third-party solutions come with constraints
 If a problem has been solved and is not unique, then it is likely smart to leverage someone else's existing solutions. For example, running a server to send email is complex and expensive, and would probably cost you at least $100,000/year to run, if not more. Contrast with a product like [Sendgrid](https://sendgrid.com/pricing/), which starts at free and will let you send up to 100,000 emails for $15/month. 
 
-However, whenever you use a third party service, they will come with their own constraints. It's up to __them__, not me, how we can leverage, extend, and modify their behavior. Since 3rd parties are orders of magnitude cheaper, it's often correct to accept and work within these constraints instead of fighting them.
+However, whenever you use a third-party service, they will come with constraints. It's up to __them__, not me, how we can leverage, extend, and modify their behavior. Since 3rd parties are orders of magnitude cheaper, it's often correct to accept and work within these constraints instead of fighting them.
 
 ## Share The Problem
 Since building a software project The biggest mistake I see first time software project owners make is refusing to share the problem with their engineering staff. Most developers are creative, and figuring out how to solve the problem. If you hand a developer a "project requirements document" you are wasting their potential to help you find the __best__ technical solution to your problem.
