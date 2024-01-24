@@ -45,7 +45,7 @@ This process allows software to move faster, and adjust to new conditions and in
 
 However, be wary that working in an 'agile' fashion is often used to excuse bad behavior: 
 - Agile development does not excuse you from doing any upfront research or planning. Agile should be use to make adjustments in __how__ work is getting first and foremost, less so in defining goals and __what__ is getting done. You cannot aim for success if the definition of success is a moving target. 
-- Just because you can make a change doesn't mean you should. Left unchecked iteration can lead to bike shedding (see Parkinson's Law of Triviality in [[eponymous laws]]:)
+- Just because you can make a change doesn't mean you should. Left unchecked iteration can lead to bike shedding (see Parkinson's Law of Triviality in [[adages]]:)
 
 > "people within an organization commonly or typically give disproportionate weight to trivial issues."
 

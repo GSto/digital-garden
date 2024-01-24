@@ -117,7 +117,7 @@ const finance = {
       children: [{ note: "401k valuation" }, { note: "asset allocation" }],
     },
     { note: "real estate investing" },
-    { note: "low-risk options trading" },
+    { note: "options trading" },
   ],
 }
 
@@ -170,9 +170,10 @@ const collections = {
     { note: "evergreen memes" },
     { note: "other writing" },
     {
-      note: "eponymous laws",
+      note: "adages",
       children: [{ note: "galls law" }, { note: "zeigarnik effect" }],
     },
+    { note: "links for junior devs"},
     { note: "design resources" },
     { text: "broken links", url: "/meta/missing" },
     { text: "colophon", url: "/meta/colophon" },
