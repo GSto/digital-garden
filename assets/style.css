@@ -259,6 +259,11 @@ article.note blockquote p:last-child {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
+.indexGrid a {
+  text-transform: lowercase;
+}
+
 .indexGrid ul {
   margin: 0;
   padding: 0;

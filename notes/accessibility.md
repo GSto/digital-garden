@@ -4,11 +4,11 @@
 
 ### Images
 
-- Images should have alt text, unless they don't convey information. In that case, they should have a 'role='presentation' attribute.
+- Images should have alt text unless they don't convey information. In that case, they should have a 'role='presentation' attribute.
 
 ### Text
 
-- text should have enough contrast to be readable. Contrast should be at least 4.5:1
+- Text should have enough contrast to be readable. Contrast should be at least 4.5:1
 - Text should be readable when the screen is zoomed in to 200%
 - Blocks of text are no more than 80 characters wide.
 - Lines should have at least a 1.5 line height.
@@ -20,7 +20,7 @@
 
 ### Media
 
-- a text transcript is provided to non-live audio-only files.
+- Provide a text transcript for non-live audio-only files.
 - Synchronized captions are provided for non-live video.
 - Controls are provided to stop, pause, mute, or adjust audio volume.
 
@@ -30,7 +30,7 @@
 
 ### Color
 
-- color is not used as the sole method of conveying content or distinguishing visual elements.
+- Color is not used as the sole method of conveying content or distinguishing visual elements.
 
 ## Guidelines
 
@@ -47,7 +47,6 @@
   - https://www.w3.org/TR/wai-aria-practices-1.1/
   - https://www.w3.org/TR/WCAG20/
 - Checklist for POUR: https://webaim.org/standards/wcag/checklist
--
 - Free course on [[accessibility]], looks like it would be worth taking for sure: https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/
 - [[accessibility]] resources: [Twitter Link](https://twitter.com/TAbrodi/status/1398328201231884288)
   - https://frontendmasters.com/courses/web-accessibility/
