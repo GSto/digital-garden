@@ -183,6 +183,7 @@ const collections = {
 const thinking = {
   title: "Thinking",
   notes: [
+    { note: "research"},
     { note: "cognitive biases" },
     { note: "decision making models" },
     {
@@ -204,6 +205,7 @@ const concepts = {
     { note: "discipline"},
     { note: "expertise" },
     { note: "freemium leisure" },
+    { note: "intellectual activism"},
     { note: "Lindy" },
     { note: "legibility" },
     { note: "leverage" },
