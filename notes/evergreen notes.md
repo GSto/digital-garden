@@ -1,6 +1,6 @@
 # Evergreen Notes
 
-Write notes that last forever. These notes are different from transient notes, i.e. notes you make take about a project or for a short scheduling period. Andy Matuschak has some great [public notes about note taking](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
+Write notes that last forever. These notes are different from transient notes, i.e. notes you make take about a project or for a short scheduling period. Andy Matuschak has some great [public notes about note-taking](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
 
 Treat them like a code base. Notes need occasional refactoring and maintenance.
 
@@ -8,7 +8,7 @@ Notes evolve. Just because a note is evergreen does not mean it needs to ever be
 
 On links, **Notes should be linked densely and in context**. Favor adding links instead of not. Favor including links in the context of notes instead of loosely tying notes together with 'tags'. 
 
-You can link to notes that don't exist yet. This can both give you ideas for notes to work on later, and also help you find serendipitous connections, which is one of the main values of taking these kinds of notes. 
+You can link to notes that don't exist yet. This can both give you ideas for notes to work on later, and also help you find serendipitous connections, which is one of the main values of taking these kinds of notes. See the [broken links](/meta/missing) list for broken links.
 
 Organize notes by topic over source. However, I tend to keep notes of particular books and articles, as it makes capturing information easier as I'm reading them. 
 
@@ -25,15 +25,27 @@ Evergreen notes are a great way to fall into making [[deck chair moves]] if you 
 Offloading some of the work into a data store we can trust helps you combat the [[Zeigarnik effect]]: the stress caused by holding unclosed loops in our short-term memory. 
 
 ## Increasing the value of an evergreen note
-- **Include a further reading or appendix section** This gives the reader additional resources to research the work further
+
+- **Ask interesting questions** - Add notes to questions, as prompts for your future self to investigate
 - **[[progressive summarization]]**
-- **deep linking.** Add links throughout the note: to other notes, other works, and external resources. 
-- **add media** - images, YouTube videos, Twitter threads, code samples, etc. all add to the richness of the note.
-- **proofreading** - make sure you've removed all grammatical errors and typos. 
+- **Deep linking.** Add links throughout the note: to other notes, other works, and external resources. 
+- **Add media** - images, YouTube videos, Twitter threads, code samples, etc. all add to the richness of the note.
+- **Proofreading** - make sure you've removed all grammatical errors and typos. 
+- **Formatting** Many notes imported from Roam are all bullet points. You can make them easier to read by converting them into paragraphs and adding section headings to increase readability.
 - **more [[research]]** - Ask more questions, explore, and come back with answers.
 
 ## Expanding on a note 
-These techniques can be used for expanding a note or developing a note to an essay or other writing project. 
+These techniques can be used for expanding a note or developing a note into an essay or other writing project. 
+
+### Converting an idea to a generator 
+At Ribbonfarm, they called this idea a 'daemon' or a 'generator. Examples included:
+
+- A "thing" begging to be named
+- A counterexample or contradiction
+- A simple banal question or 2x2
+- weirdness or narrative leak
+
+Can you take your idea and convert it into one of these? Could also be a source of new notes. 
 
 ### Sections you can add 
 - Resources / Further reading

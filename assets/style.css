@@ -152,6 +152,10 @@ p {
   margin-top: 2rem;
 }
 
+ol {
+  list-style-type: decimal !important;
+}
+
 ol,
 ul {
   padding-left: 0;
