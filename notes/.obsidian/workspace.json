@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deliberate practice.md",
+                "file": "evergreen notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "8c5413da816193f5",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deliberate practice.md",
+                "file": "evergreen notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deliberate practice.md",
+                "file": "evergreen notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deliberate practice.md"
+                "file": "evergreen notes.md"
               }
             }
           },
@@ -208,8 +208,8 @@
   },
   "active": "6ed8976e45391a44",
   "lastOpenFiles": [
-    "accessibility.md",
     "deliberate practice.md",
+    "accessibility.md",
     "product design principles.md",
     "software principles.md",
     "product design.md",
