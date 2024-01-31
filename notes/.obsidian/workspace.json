@@ -49,18 +49,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product design principles.md",
+                "file": "accessibility.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1cdb67863728d51e",
+            "id": "6ed8976e45391a44",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "deliberate practice.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -93,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "principles",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effectual reasoning.md",
+                "file": "deliberate practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effectual reasoning.md",
+                "file": "deliberate practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effectual reasoning.md"
+                "file": "deliberate practice.md"
               }
             }
           },
@@ -203,11 +206,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cdb67863728d51e",
+  "active": "6ed8976e45391a44",
   "lastOpenFiles": [
+    "accessibility.md",
+    "deliberate practice.md",
+    "product design principles.md",
     "software principles.md",
     "product design.md",
-    "product design principles.md",
     "progressive summarization.md",
     "burnout.md",
     "deck writing.md",
@@ -229,8 +234,6 @@
     "TypeScript with React.md",
     "typescript.md",
     "twitter hacks.md",
-    "too much comfort produces weakness.md",
-    "token economy.md",
     "Untitled.canvas"
   ]
 }

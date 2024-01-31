@@ -194,7 +194,8 @@ const thinking = {
       ],
     },
     { note: "species of interesting ideas" },
-    { note: "Figma as a strategic thinking tool"}
+    { note: "Figma as a strategic thinking tool"},
+    { note: "intellectual activism"},
   ],
 }
 
@@ -203,9 +204,10 @@ const concepts = {
   notes: [
     { note: "bullshit" },
     { note: "discipline"},
-    { note: "expertise" },
+    { note: "expertise", children: [
+      { note: "deliberate practice"},
+    ] },
     { note: "freemium leisure" },
-    { note: "intellectual activism"},
     { note: "Lindy" },
     { note: "legibility" },
     { note: "leverage" },
