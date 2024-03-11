@@ -102,6 +102,11 @@ The cobra effect occurs when incentives designed to solve a problem end up rewar
 
 > The cost of development of a new software product is the only ~25% of the total cost of ownership management sees and budgets for.
 
+## Law of the minimum 
+
+> At any given time, the input that is most important to a system is the one that is most limiting. Justus von Liebig came up with his famous “**law of the minimum**.” It doesn’t matter how much nitrogen is available to the grain, he said, if what’s short is phosphorus. It does no good to pour on more phosphorus, if the problem is low potassium. 
+Meadows, Donella, (2008). Thinking in Systems. Chelsea Green Publishing [Loc 1742](kindle://book?action=open&asin=B005VSRFEA&location=1742)
+
 ## LeBlanc's Law
 
 > Later = never
