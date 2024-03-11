@@ -214,7 +214,8 @@ const concepts = {
     { note: "playing for stakes" },
     { note: "tempo" },
     { note: "too much comfort produces weakness" },
-  ],
+    { note: "choosing cultivates contentment"},
+    ],
 }
 
 const other = {
