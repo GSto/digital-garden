@@ -27,6 +27,7 @@ const designing = {
     { note: 'product design principles'},
     { note: "game design" },
     { note: "product design" },
+    { note: "using data effectively"}
   ],
 }
 
