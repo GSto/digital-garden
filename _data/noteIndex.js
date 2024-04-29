@@ -148,6 +148,9 @@ const writing = {
       note: "digital writing",
       children: [{ note: "learn in public" }],
     },
+    { 
+      note: "writing as social practice"
+    },
     { note: "documentation" },
     {
       note: "evergreen notes",
