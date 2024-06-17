@@ -36,6 +36,12 @@ _Patrick MacKenzie_
 
 Prefer to work on things you can show. Prefer to work where people can see you. Prefer to work on things you can own. Spend some time building either human, social, or reputation capital.
 
+### [Management Time: Who's got the monkey?](https://hbr.org/1999/11/management-time-whos-got-the-monkey)
+
+_William Oncken, Jr. and Donald L. Wass_
+
+Ultimately, the employers have more control over the manager's time than vice versa, because they can pass on more monkeys, which will become his responsibility. Make sure your subordinates have the initiative to take on problems themselves, instead of passing everything up the chain. Also make sure they have everything they need to take action.
+
 ## Creativity
 
 ### [Making the clackity noise](https://www.kungfugrippe.com/post/169873399/clackity-noise)
@@ -109,6 +115,12 @@ If you think there is any possibility have autism but were never diagnosed, give
 _Jason Lengstorf_
 
 Our caveman brains are hard-wired to focus on the negative. Happiness is a choice, a learnable skill, and takes work. Here Jason spells out tactics we can use to appreciate the good things in life.
+
+### [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
+
+_Adam Mastroianni_
+
+It's tough to get out of "feeling stuck" becuase it's hard to define what "stuck" means. Adam names, categorizes, and break down various bogs, and how to take action against them.
 
 ## Money
 
