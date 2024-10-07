@@ -1,9 +1,9 @@
-const softwareEngineering =     {
+const softwareEngineering = {
   title: "Software engineering",
   description: "the work before, after, above, and below the code editor.",
   notes: [
     { note: "build your own dropbox fallacy" },
-    { note: "code review" },
+    { note: "effective code review practices" },
     {
       note: "Consulting",
       children: [
@@ -19,17 +19,17 @@ const softwareEngineering =     {
     { note: "the red tape paradox" },
     { note: "your first software project" },
   ],
-}
+};
 
 const designing = {
   title: "Designing",
   notes: [
-    { note: 'product design principles'},
+    { note: "product design principles" },
     { note: "game design" },
     { note: "product design" },
-    { note: "using data effectively"}
+    { note: "using data effectively" },
   ],
-}
+};
 
 const communicating = {
   title: "Communicating",
@@ -42,7 +42,7 @@ const communicating = {
     { note: "humor" },
     { note: "storytelling" },
   ],
-}
+};
 
 const building = {
   title: "Building",
@@ -63,40 +63,30 @@ const building = {
       ],
     },
   ],
-}
+};
 
-const coding =     {
+const coding = {
   title: "Coding",
-  description:
-    "Code. writing it. testing it. deploying it. maintaining it.",
+  description: "Code. writing it. testing it. deploying it. maintaining it.",
   notes: [
     { note: "accessibility" },
     { note: "complexity" },
     { note: "CSS", children: [{ note: "CSS animation" }] },
-    { note: "heroku snippets" },
     {
       note: "JavaScript",
-      children: [
-        { note: "ReactJS" },
-        { note: "TypeScript" },
-        { note: "TypeScript with React" },
-      ],
+      children: [{ note: "ReactJS" }, { note: "TypeScript" }],
     },
-    { note: "Ruby interview study guide" },
     { note: "security" },
     { note: "Shopify theme development" },
     { note: "software principles" },
-    { note: "tech specs"}
+    { note: "tech specs" },
   ],
-}
+};
 
 const ai = {
   title: "AI",
-  notes: [
-    { note: "prompt engineering"},
-    { note: "midjourney prompts"}
-  ],
-}
+  notes: [{ note: "prompt engineering" }, { note: "midjourney prompts" }],
+};
 
 const disorder = {
   title: "Disorder",
@@ -107,7 +97,7 @@ const disorder = {
     { note: "uncertainty mindset" },
     { note: "variance" },
   ],
-}
+};
 
 const finance = {
   title: "Finance",
@@ -120,7 +110,7 @@ const finance = {
     { note: "real estate investing" },
     { note: "options trading" },
   ],
-}
+};
 
 const career = {
   title: "Career",
@@ -138,7 +128,7 @@ const career = {
     },
     { note: "working identities" },
   ],
-}
+};
 
 const writing = {
   title: "Writing",
@@ -148,8 +138,8 @@ const writing = {
       note: "digital writing",
       children: [{ note: "learn in public" }],
     },
-    { 
-      note: "writing as social practice"
+    {
+      note: "writing as social practice",
     },
     { note: "documentation" },
     {
@@ -161,11 +151,11 @@ const writing = {
     { note: "writing" },
     { note: "writing book recommendations" },
     { note: "writing rules" },
-    { note: "indexing as a practice"},
-    { note: "Linking in information architecture"},
+    { note: "indexing as a practice" },
+    { note: "Linking in information architecture" },
     { note: "capture vs retrieval" },
   ],
-}
+};
 
 const collections = {
   title: "Collections",
@@ -177,17 +167,17 @@ const collections = {
       note: "adages",
       children: [{ note: "galls law" }, { note: "zeigarnik effect" }],
     },
-    { note: "links for junior devs"},
+    { note: "links for junior devs" },
     { note: "design resources" },
     { text: "broken links", url: "/meta/missing" },
     { text: "colophon", url: "/meta/colophon" },
   ],
-}
+};
 
 const thinking = {
   title: "Thinking",
   notes: [
-    { note: "research"},
+    { note: "research" },
     { note: "cognitive biases" },
     { note: "decision making models" },
     {
@@ -198,19 +188,17 @@ const thinking = {
       ],
     },
     { note: "species of interesting ideas" },
-    { note: "Figma as a strategic thinking tool"},
-    { note: "intellectual activism"},
+    { note: "Figma as a strategic thinking tool" },
+    { note: "intellectual activism" },
   ],
-}
+};
 
 const concepts = {
   title: "Concepts",
   notes: [
     { note: "bullshit" },
-    { note: "discipline"},
-    { note: "expertise", children: [
-      { note: "deliberate practice"},
-    ] },
+    { note: "discipline" },
+    { note: "expertise", children: [{ note: "deliberate practice" }] },
     { note: "freemium leisure" },
     { note: "Lindy" },
     { note: "legibility" },
@@ -218,9 +206,9 @@ const concepts = {
     { note: "playing for stakes" },
     { note: "tempo" },
     { note: "too much comfort produces weakness" },
-    { note: "choosing cultivates contentment"},
-    ],
-}
+    { note: "choosing cultivates contentment" },
+  ],
+};
 
 const other = {
   title: "Other",
@@ -229,29 +217,12 @@ const other = {
     { note: "inputs vs outputs vs outcomes" },
     { note: "squads" },
   ],
-}
+};
 
 // TODO: refactor this page to use a masonly layout with grid
 module.exports = {
   test: "foo",
-  leftColumn: [
-    softwareEngineering,
-    building,
-    finance,
-    concepts,
-  ],
-  centerColumn: [
-    coding,
-    thinking,
-    designing,
-    career,
-    disorder,
-  ],
-  rightColumn: [
-    writing,
-    communicating,
-    collections,
-    ai,
-    other
-  ],
+  leftColumn: [softwareEngineering, building, finance, concepts],
+  centerColumn: [coding, thinking, designing, career, disorder],
+  rightColumn: [writing, communicating, collections, ai, other],
 };
