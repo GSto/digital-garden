@@ -51,7 +51,7 @@ const building = {
       note: "prolific creation",
       children: [
         { note: "cult of done manifesto" },
-        { note: "quality of pots vs quantity of pots" },
+        // { note: "quality of pots vs. quantity of pots" }, // TODO: add this back, link is broken can't figure out why
         { note: "action produces information" },
       ],
     },
@@ -96,19 +96,6 @@ const disorder = {
     { note: "risk", children: [{ note: "Risk of ruin" }] },
     { note: "uncertainty mindset" },
     { note: "variance" },
-  ],
-};
-
-const finance = {
-  title: "Finance",
-  notes: [
-    { note: "housing prices" },
-    {
-      note: "personal finance",
-      children: [{ note: "401k valuation" }, { note: "asset allocation" }],
-    },
-    { note: "real estate investing" },
-    { note: "options trading" },
   ],
 };
 
@@ -165,7 +152,6 @@ const collections = {
     { note: "other writing" },
     {
       note: "adages",
-      children: [{ note: "galls law" }, { note: "zeigarnik effect" }],
     },
     { note: "links for junior devs" },
     { note: "design resources" },
@@ -207,12 +193,6 @@ const concepts = {
     { note: "tempo" },
     { note: "too much comfort produces weakness" },
     { note: "choosing cultivates contentment" },
-  ],
-};
-
-const other = {
-  title: "Other",
-  notes: [
     { note: "the great internet game" },
     { note: "inputs vs outputs vs outcomes" },
     { note: "squads" },
@@ -222,7 +202,7 @@ const other = {
 // TODO: refactor this page to use a masonly layout with grid
 module.exports = {
   test: "foo",
-  leftColumn: [softwareEngineering, building, finance, concepts],
-  centerColumn: [coding, thinking, designing, career, disorder],
-  rightColumn: [writing, communicating, collections, ai, other],
+  leftColumn: [softwareEngineering, building, concepts],
+  centerColumn: [coding, thinking, designing, career],
+  rightColumn: [writing, communicating, collections, disorder],
 };

@@ -11,27 +11,6 @@
   --font-header: var(--font-body);
 }
 
-@font-face {
-  font-family: "bluu";
-  src: url("webfonts/bluunext-bold-webfont.woff2") format("woff2"),
-    url("webfonts/bluunext-bold-webfont.woff") format("woff"),
-    url("webfonts/bluunext-bold.ttf") format("truetype"),
-    url("webfonts/bluunext-bold-webfont.svg#bluu_nextbold") format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "bluu";
-  src: url("webfonts/bluunext-bolditalic-webfont.woff2") format("woff2"),
-    url("webfonts/bluunext-bolditalic-webfont.woff") format("woff"),
-    url("webfonts/bluunext-bolditalic.ttf") format("truetype"),
-    url("webfonts/bluunext-bolditalic-webfont.svg#bluu_nextbold_italic")
-      format("svg");
-  font-weight: normal;
-  font-style: italic;
-}
-
 html {
   font-size: 22px;
   background-color: var(--color-cream);
