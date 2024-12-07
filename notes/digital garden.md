@@ -29,6 +29,8 @@ Since notes can be more "raw" than articles or larger forms of work, I also find
 * [Directory of Digital Gardens](https://github.com/maggieappleton/digital-gardeners#digital-garden-directory)
 * [Visakanv's Open Roam Database](https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI)
 * [Andy's Matuschak's Working Notes](https://notes.andymatuschak.org/) - Great resources in here about taking notes and digital gardening.
+* [DRMacIver's Notebook](https://notebook.drmaciver.com/) - Inspired me to convert this site to [TufteCSS](https://edwardtufte.github.io/tufte-css/)
+* [Sarah Constantin Public Roam](https://roamresearch.com/#/app/srcpublic/page/dUOCm_0cT) - found referenced in [Ribbonfarm is retiring](https://www.ribbonfarm.com/2024/10/10/ribbonfarm-is-retiring/)
 
 ## Tools
 
