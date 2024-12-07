@@ -1,6 +1,5 @@
   <div class="indexCell">
   <h2>{{ topic.title}}</h2>
-  <ul>
   {% for note in topic.notes %}
   {%if note.note %}
   - [[{{note.note}}]]
@@ -13,5 +12,4 @@
     - [[{{subnote.note}}]]
   {% endfor %}
   {% endfor %}
-  </ul>
   </div>
