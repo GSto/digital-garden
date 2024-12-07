@@ -21,6 +21,20 @@ module.exports = function (eleventyConfig) {
       });
     });
 
+    // Tufte.css customizations
+
+    // wrap blockquotes in an epigraph div
+    md.renderer.rules.blockquote_open = function(tokens, idx, options, env, self) {
+      return '<div class="epigraph"><blockquote>';
+    };
+  
+    md.renderer.rules.blockquote_close = function(tokens, idx, options, env, self) {
+      return '</blockquote></div>';
+    };
+  
+
+    eleventyConfig.setLibrary("md", md);
+
   eleventyConfig.addFilter("markdownify", (string) => {
     return md.render(string);
   });
