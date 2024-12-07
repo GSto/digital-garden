@@ -56,4 +56,4 @@ The plan is to use a combination of custom markdown parsing and shortcodes to im
 * [Tufte.css on Github](https://github.com/edwardtufte/tufte-css)
 * [Customer Markdown components in 11ty](https://www.aleksandrhovhannisyan.com/blog/custom-markdown-components-in-11ty/)
 * [11ty template shortcodes](https://www.11ty.dev/docs/shortcodes/)
-* [Edward Tufte Books](https://www.edwardtufte.com/tufte/books_be) >[for design inspiration, if you ever want to go beyond the original Tufte CSS. I dig the read headers.]
+* [Edward Tufte Books](https://www.edwardtufte.com/tufte/books_be) 
