@@ -32,15 +32,9 @@
   flex-direction: column;
 }
 
-.indexGrid .indexCell {
-  padding-bottom: 36px;
-}
 
 .indexGrid ul li p {
   margin: 0;
 }
 
-.indexGrid ul li ul {
-  padding-left: 24px;
-}
 
