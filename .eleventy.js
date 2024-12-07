@@ -1,5 +1,6 @@
 const {sectionWrapperPlugin} = require('./lib/markdownSectionWrapper.js');
 const {sidenotePlugin} = require('./lib/markdownSidenote.js');
+const {subtitlePlugin} = require('./lib/markdownSubtitle.js');
 
 module.exports = function (eleventyConfig) {
   const markdownIt = require("markdown-it");
@@ -13,6 +14,7 @@ module.exports = function (eleventyConfig) {
     .use(require("markdown-it-attrs"))
     .use(sectionWrapperPlugin)
     .use(sidenotePlugin)
+    .use(subtitlePlugin)
     .use(function (md) {
       // Recognize Mediawiki links ([[text]])
       md.linkify.add("[[", {
