@@ -24,4 +24,4 @@ layout: default
 </div>
 </div>
 
-For updates, View the commit log on [Github](https://github.com/GSto/digital-garden).
+For updates, View the commit log on [Github](https://github.com/GSto/digital-garden). Read more about the [[tufte integration]] here.
