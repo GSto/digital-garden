@@ -22,9 +22,6 @@
   text-transform: lowercase;
 }
 
-.indexGrid ul {
-  padding: 0;
-}
 
 .indexGrid h2 {
   text-transform: capitalize;
@@ -37,10 +34,6 @@
 
 .indexGrid .indexCell {
   padding-bottom: 36px;
-}
-
-.indexGrid ul li {
-  list-style-type: none;
 }
 
 .indexGrid ul li p {
