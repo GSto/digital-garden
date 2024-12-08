@@ -1,5 +1,26 @@
-/* frontpage grid */
+/* https://www.edwardtufte.com/ inspired styles */ 
+:root {
+  --tufte-red: #b1282b;
+  --tufte-footer-brown: #4c4c4c;
+}
 
+.red  {
+  color: var(--tufte-red);
+}
+
+header a { 
+  text-decoration: none;
+}
+
+.title {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 1.8rem;
+}
+
+
+
+/* frontpage grid */
 .indexGrid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -36,5 +57,6 @@
 .indexGrid ul li p {
   margin: 0;
 }
+
 
 
