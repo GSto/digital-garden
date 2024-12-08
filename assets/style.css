@@ -1,7 +1,9 @@
-/* https://www.edwardtufte.com/ inspired styles */ 
+/* https://www.edwardtufte.com/ inspired styles, white and black taken from tufte.css */ 
 :root {
+  --tufte-white: #fffff8;
+  --tufte-black: #111;
   --tufte-red: #b1282b;
-  --tufte-footer-brown: #4c4c4c;
+  --tufte-brown: #4c4c4c;
 }
 
 .red  {
@@ -17,7 +19,6 @@ header a {
   letter-spacing: 0.2em;
   font-size: 1.8rem;
 }
-
 
 
 /* frontpage grid */

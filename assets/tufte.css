@@ -56,6 +56,10 @@ body {
     counter-reset: sidenote-counter;
 }
 
+footer {
+  color: var(--tufte-brown);
+}
+
 /* Adds dark mode */
 @media (prefers-color-scheme: dark) {
     body {

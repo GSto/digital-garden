@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Glenn Stovall's Notebook
-
 <div class="indexGrid">
 <div class="indexColumn">
 {% for topic in noteIndex.leftColumn %}
@@ -24,4 +22,4 @@ layout: default
 </div>
 </div>
 
-For updates, View the commit log on [Github](https://github.com/GSto/digital-garden). Read more about the [[tufte integration]] here.
+
