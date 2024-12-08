@@ -1,6 +1,6 @@
 # Intellectual Activism 
 
-> "Undertaking activities that are not in themselves scholarship or science. These activities do not create new knowledge, but make existing knowledge more accessible, understandable, useful, or enjoyable to others. They create the conditions for fresh discoveries or stimulate others to discover." - Ronald Gross, Independent Scholars Handbook
+> "Undertaking activities that are not in themselves scholarship or science. These activities do not create new knowledge, but make existing knowledge more accessible, understandable, useful, or enjoyable to others. They create the conditions for fresh discoveries or stimulate others to discover." <footer>Ronald Gross, _"Independent Scholars Handbook"_</footer>
 
 Examples of Intellectual Activism
 

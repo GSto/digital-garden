@@ -28,9 +28,9 @@ Margin notes are similar to sidenotes, but they don't have  number atached to th
 ```
 
 ### Epigraph Quotes
-By default, blockquotes will be rendered as an epitaph
+By default, blockquotes will be rendered as an epitaph. You can add a citation by wrapping it in a `<footer>` tag
 
-> when you squeeze an orange, orange juice comes out. whenever you get squeezed, whatever comes out is what's inside of you - Wayne W Dyer
+> when you squeeze an orange, orange juice comes out. whenever you get squeezed, whatever comes out is what's inside of you <footer>Wayne W Dyer</footer>
 
 ### Page subtitles
 

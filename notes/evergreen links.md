@@ -2,9 +2,8 @@
 
 ## Work
 
-### [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+### Vankatesh Rao, [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 
-_Vankatesh Rao_
 
 The beginning of a set of essays that fundamentally shaped how I think about work and business, told through the lens of _The Office_. It is the perfect entry point to learn about the [[McLeod Hierarchy]]: Businesses are made up of laborers (the losers)(Stanley, Pam), middle management (the clueless)(Dwight, Andy) and owners (the sociopaths)(David Wallace). Understanding the motivations and interactions between these types helps you understand why organizations function the way they function.
 
