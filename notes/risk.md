@@ -12,5 +12,5 @@ One distinct type of risk is **risk of ruin**, the chance that it could end what
 
 One form of risk that can paralyzing is [[opportunity cost]]. When you say yes to something, what are you missing out on? 
 
-## Articles
+## Appendix
 [What Every Entrepreneur Needs to Understand About Risk](https://www.glennstovall.com/what-every-entrepreneur-needs-to-understand-about-risk/)
