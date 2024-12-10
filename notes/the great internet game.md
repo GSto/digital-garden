@@ -16,7 +16,7 @@ https://twitter.com/NikMilanovic/status/1390720487328821250
 1. 2012, began freelancing. worked with clients remotely. Websites, social media became part of my "[[personal brand]]".
 1. 2015, began working on creating an [[info product]], and building an email list. 
 1. 2019, full time remote work
-1. 2020, begin living extremely online because of [[covid 19]].
+1. 2020, begin living extremely online because of covid 19.
 1. 2021, working remote, in many discords, trying again with [[cryptocurrency]]. 
 
 ## Further Reading

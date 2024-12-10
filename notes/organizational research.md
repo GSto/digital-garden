@@ -21,7 +21,7 @@ It’s important to understand your organizations priorities. The more important
 
 Tailor your design process to existing processes. If you work in a group that values collaboration and consensus, follow that route over one that has an autocratic leader.
 
-Getting [[buy-in]] — Asking someone for input before you get started helps reduce objections later.
+Getting buy-in — Asking someone for input before you get started helps reduce objections later.
 
 ## Interviewing
 
