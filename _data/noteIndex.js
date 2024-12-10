@@ -13,13 +13,13 @@ const softwareEngineering = {
   ],
 };
 
-const designing = {
-  title: "Designing",
+const product = {
+  title: "Product",
   notes: [
-    { note: "product design principles" },
     { note: "game design" },
-    { note: "product design" },
-    { note: "using data effectively" },
+    { note: "product design principles" },
+    { note: "research" },
+    { note: "using data effectively" },    
   ],
 };
 
@@ -63,7 +63,8 @@ const coding = {
   notes: [
     { note: "accessibility" },
     { note: "complexity" },
-    { note: "CSS", children: [{ note: "CSS animation" }] },
+    { note: "CSS" },
+    { note: "CSS animation" },
     { note: "security" },
     { note: "software principles" },
     { note: "Typescript"},
@@ -109,19 +110,14 @@ const writing = {
   title: "Writing",
   notes: [
     { note: "digital garden" },
-    {
-      note: "digital writing",
-      children: [{ note: "learn in public" }],
-    },
+    { note: "digital writing"},
     {
       note: "writing as social practice",
     },
     { note: "documentation" },
-    {
-      note: "evergreen notes",
-      children: [{ note: "progressive summarization" }],
-    },
-    { note: "knowledge base" },
+    { note: "evergreen notes"},
+    { note: "learn in public"},
+    { note: "progressive summarization" },
     { note: "why write" },
     { note: "writing" },
     { note: "writing book recommendations" },
@@ -149,7 +145,6 @@ const collections = {
 const thinking = {
   title: "Thinking",
   notes: [
-    { note: "research" },
     { note: "cognitive biases" },
     { note: "decision making models" },
     {
@@ -197,7 +192,7 @@ const meta = {
 // TODO: refactor this page to use a masonly layout with grid
 module.exports = {
   test: "foo",
-  leftColumn: [softwareEngineering, building, concepts, disorder],
-  centerColumn: [coding, thinking, designing, career],
+  leftColumn: [softwareEngineering,product, concepts, disorder],
+  centerColumn: [coding, thinking, building, career],
   rightColumn: [writing, communicating, collections, meta],
 };
