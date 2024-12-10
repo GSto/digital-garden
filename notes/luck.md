@@ -15,9 +15,9 @@ As the saying goes, you can't make lightning strike, but you can wait for a stor
 
 ## Luck and Success
 
-> "you're going to participate in what I call the Ovarian Lottery. And that is the most important thing that's ever going to happen to you in your life. It's going to determine way more than what school you go to, how hard you work, all kinds of things." - Warren Buffet
+> "you're going to participate in what I call the Ovarian Lottery. And that is the most important thing that's ever going to happen to you in your life. It's going to determine way more than what school you go to, how hard you work, all kinds of things." <footer>Warren Buffet</footer>
 
-> "Mild success can be explainable by skills and labor. Wild success is attributable to variance." - Nassim Taleb,Fooled by Randomness
+> "Mild success can be explainable by skills and labor. Wild success is attributable to variance." <footer>Nassim Taleb, _Fooled by Randomness_</footer>
 
 
 When it comes to success, Luck matters more in an absolute sense and hard work matters more in a relative sense.
@@ -25,6 +25,6 @@ When it comes to success, Luck matters more in an absolute sense and hard work m
 
 When looking at other's successes and failures, it's impossible to tell what is luck, what is skill, and what the ratio of the two is.
 
-## Other Reading
+## Appendix
 
 [Absolute Success is Luck, Relative success is skill - James Clear](https://jamesclear.com/luck-vs-hard-work)

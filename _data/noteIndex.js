@@ -4,14 +4,6 @@ const softwareEngineering = {
   notes: [
     { note: "build your own dropbox fallacy" },
     { note: "effective code review practices" },
-    {
-      note: "Consulting",
-      children: [
-        { note: "coaching questions" },
-        { note: "developer to consultant" },
-        { note: "workshops" },
-      ],
-    },
     { note: "criticisms of hourly billing" },
     { note: "post senior dev fork" },
     { note: "positioning" },
@@ -21,13 +13,13 @@ const softwareEngineering = {
   ],
 };
 
-const designing = {
-  title: "Designing",
+const product = {
+  title: "Product",
   notes: [
-    { note: "product design principles" },
     { note: "game design" },
-    { note: "product design" },
-    { note: "using data effectively" },
+    { note: "product design principles" },
+    { note: "research" },
+    { note: "using data effectively" },    
   ],
 };
 
@@ -71,14 +63,11 @@ const coding = {
   notes: [
     { note: "accessibility" },
     { note: "complexity" },
-    { note: "CSS", children: [{ note: "CSS animation" }] },
-    {
-      note: "JavaScript",
-      children: [{ note: "ReactJS" }, { note: "TypeScript" }],
-    },
+    { note: "CSS" },
+    { note: "CSS animation" },
     { note: "security" },
-    { note: "Shopify theme development" },
     { note: "software principles" },
+    { note: "Typescript"},
     { note: "tech specs" },
   ],
 };
@@ -93,7 +82,7 @@ const disorder = {
   notes: [
     { note: "antifragile" },
     { note: "luck" },
-    { note: "risk", children: [{ note: "Risk of ruin" }] },
+    { note: "risk" },
     { note: "uncertainty mindset" },
     { note: "variance" },
   ],
@@ -105,7 +94,6 @@ const career = {
     { note: "above the code" },
     { note: "career strategy" },
     { note: "indie mindset" },
-    { note: "personal branding" },
     {
       note: "organizational literacy",
       children: [
@@ -121,19 +109,14 @@ const writing = {
   title: "Writing",
   notes: [
     { note: "digital garden" },
-    {
-      note: "digital writing",
-      children: [{ note: "learn in public" }],
-    },
+    { note: "digital writing"},
     {
       note: "writing as social practice",
     },
     { note: "documentation" },
-    {
-      note: "evergreen notes",
-      children: [{ note: "progressive summarization" }],
-    },
-    { note: "knowledge base" },
+    { note: "evergreen notes"},
+    { note: "learn in public"},
+    { note: "progressive summarization" },
     { note: "why write" },
     { note: "writing" },
     { note: "writing book recommendations" },
@@ -155,15 +138,12 @@ const collections = {
     },
     { note: "links for junior devs" },
     { note: "design resources" },
-    { text: "broken links", url: "/meta/missing" },
-    { text: "colophon", url: "/meta/colophon" },
   ],
 };
 
 const thinking = {
   title: "Thinking",
   notes: [
-    { note: "research" },
     { note: "cognitive biases" },
     { note: "decision making models" },
     {
@@ -199,10 +179,19 @@ const concepts = {
   ],
 };
 
+const meta = { 
+  title: "Meta",
+  notes: [
+    { note: "tufte integration" },
+    { text: "broken links", url: "/meta/missing" },
+    { text: "colophon", url: "/meta/colophon" },
+  ]
+}
+
 // TODO: refactor this page to use a masonly layout with grid
 module.exports = {
   test: "foo",
-  leftColumn: [softwareEngineering, building, concepts],
-  centerColumn: [coding, thinking, designing, career],
-  rightColumn: [writing, communicating, collections, disorder],
+  leftColumn: [softwareEngineering,product, concepts, disorder],
+  centerColumn: [coding, thinking, building, career],
+  rightColumn: [writing, communicating, collections, meta],
 };

@@ -1,6 +1,6 @@
 # Risk of Ruin
 
-> "You can be risk loving and yet completely averse to ruin." - Nassim Taleb
+> "You can be risk loving and yet completely averse to ruin." <footer>Nassim Taleb</footer>
 
 Risk brings reward, but the risk of ruin should be avoided. Don't play with money you can't lose. 
 

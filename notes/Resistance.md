@@ -69,8 +69,8 @@ Resistance is...
 - don't take criticism personally. 
 - see also [[The Amateur and the Professional]].
 
-> "To avoid criticism, say nothing, do nothing, be nothing. -- Elbert Hubbard
+> "To avoid criticism, say nothing, do nothing, be nothing. <footer>Elbert Hubbard</footer>
 
-> "The poem in the head is always perfect. Resistance begins when you try to convert it into language." -- Stanley Kunitz
+> "The poem in the head is always perfect. Resistance begins when you try to convert it into language." <footer>Stanley Kunitz</footer>
 
-> "Artists don’t get down to work until the pain of working is exceeded by the pain of not working." — Stephen DeStaebler
+> "Artists don’t get down to work until the pain of working is exceeded by the pain of not working." <footer>Stephen DeStaebler</footer>

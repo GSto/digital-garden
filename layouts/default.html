@@ -4,19 +4,31 @@
     {% include head.html %}
 </head>
 <body>
-    <header class="page-header">
-        <nav>
-          <a href="/">
-            Glenn Stovall's Digital Garden
-        </a>
-        </nav>
-    </header>
-    <main>
-        {{content}}
-    </main>
+  <header>
+    <a href="/">
+    <p class="sans red title">Glenn Stovall's Public Notebook</p>
+    </a>
+  </header>
+  <main>
+    {{content}}
+  </main>
+  <footer>
+ <section>
+  <p>
+
+    <small>Sir, this is a website. Views expressed are my own, not my employer's. Not financial advice.</small>
+    <small>
+      Created with <a href="https://github.com/binyamin/eleventy-garden">Eleventy Garden</a>, and <a href="https://edwardtufte.github.io/tufte-css/">Tufte CSS</a>. Source available on <a href="https://github.com/GSto/digital-garden/">Github.</a>
+     </small>
+  </p>
+   
+   <small>Copyright {{site.author}}</small>
+   
+   
+
     
-    <footer class="page-footer">
-        <small>Copyright {{site.author}}</small>
-    </footer>
+  </section>
+  </footer>
 </body>
+
 </html>

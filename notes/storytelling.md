@@ -101,8 +101,8 @@ See [[humor]].
 - twist (転): then there is a twist that throws into question what you just learned previously
 - resolution (結)": and the ending somehow harmonizes this with the first two parts.
 
-## Quotes on storytelling
+## Quotes
 
-> The most powerful person in the world is the storyteller. The storyteller sets the vision, values and agenda of an entire generation that is to come - Steve Jobs
+> The most powerful person in the world is the storyteller. The storyteller sets the vision, values and agenda of an entire generation that is to come <footer>Steve Jobs</footer>
 
-> Tell me the facts and I’ll learn. Tell me the truth and I’ll believe. But tell me a story and it will live in my heart forever. - Ancient Proverb
+> Tell me the facts and I’ll learn. Tell me the truth and I’ll believe. But tell me a story and it will live in my heart forever. <footer>Ancient Proverb</footer>

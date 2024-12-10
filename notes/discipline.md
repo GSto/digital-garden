@@ -12,7 +12,7 @@ If you want to work independently. If you don't have the systems, practice, and 
 
 > Socrates demonstrated long ago, that the truly free individual is free only to the extent of his own self-mastery. - The War of Art
 
-> **In the short term, distractions can keep us from doing the things we want to do. In the longer term, however, they can accumulate and keep us from living the lives we want to live**, or, even worse, undermine our capacities for reflection and self-regulation, making it harder, in the words of Harry Frankfurt, to “**want what we want to want.**” Thus there are deep ethical implications lurking here for freedom, wellbeing, and even the integrity of the self. [Jenny Odell - How to do Nothing (Kindle link)](kindle://book?action=open&asin=B07FLNFRGK&location=2127) 
+> **In the short term, distractions can keep us from doing the things we want to do. In the longer term, however, they can accumulate and keep us from living the lives we want to live**, or, even worse, undermine our capacities for reflection and self-regulation, making it harder, in the words of Harry Frankfurt, to “**want what we want to want.**” Thus there are deep ethical implications lurking here for freedom, wellbeing, and even the integrity of the self. <footer>Jenny Odell _[How to do Nothing (Kindle link)](kindle://book?action=open&asin=B07FLNFRGK&location=2127)_</footer>
 
 ## How discipline builds self respect
 
@@ -20,7 +20,7 @@ When you don’t have self-respect, you don’t trust your judgment, therefore d
 
 When you don't do what you say to yourself you are going to do, you lose trust in yourself and respect for yourself. you start to dislike the roommate in your head. one solution is to declare "trust bankruptcy", start over, and do small things. rebuild the trust within yourself. Building this trust gives you a [[confidence]], knowing that if you say you are going to do something, you are going to make it happen.
 
-> Self-respect is something that our grandparents, whether or not they had it, knew all about. They had instilled in them, young, a certain discipline, the sense that one lives by doing things one does not particularly want to do, by putting fears and doubts to one side, by weighing immediate comforts against the possibility of larger, even intangible, comforts - [On Self-Respect: Joan Didion’s 1961 Essay from the Pages of Vogue](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)
+> Self-respect is something that our grandparents, whether or not they had it, knew all about. They had instilled in them, young, a certain discipline, the sense that one lives by doing things one does not particularly want to do, by putting fears and doubts to one side, by weighing immediate comforts against the possibility of larger, even intangible, comforts <footer> [On Self-Respect: Joan Didion’s 1961 Essay from the Pages of Vogue](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)</footer>
 
 
 ## Is discipline a muscle or a resource? 
@@ -28,7 +28,7 @@ Psychologist Roy Baumeister believed that using discipline, willpower, and makin
 
 ## Discipline is required for persuasion
 
-> The very first thing I talk about when I’m training new negotiators is the critical importance of self control. If you can’t control your own emotions, how can you expect to influence the emotions of another party? [Never split the difference](kindle://book?action=open&asin=B014DUR7L2&location=2503)
+> The very first thing I talk about when I’m training new negotiators is the critical importance of self control. If you can’t control your own emotions, how can you expect to influence the emotions of another party? <footer>Chris Voss, _[Never split the difference](kindle://book?action=open&asin=B014DUR7L2&location=2503)_</footer>
 
 
 ## What causes lack of discipline? 
@@ -52,9 +52,9 @@ Psychologist Roy Baumeister believed that using discipline, willpower, and makin
 
 ## Quotes 
 
-> **No horse gets anywhere until he is harnessed.** No steam or gas ever drives anything until it is confined. No Niagara is ever turned into light and power until it is tunneled. No life ever grows great until it is focused, dedicated, disciplined. ~ Harry Emerson Fosdick
+> **No horse gets anywhere until he is harnessed.** No steam or gas ever drives anything until it is confined. No Niagara is ever turned into light and power until it is tunneled. No life ever grows great until it is focused, dedicated, disciplined. <footer>Harry Emerson Fosdick</footer>
 
-> “It was said that Stilpo was drunken and Socrates was dull, and that both were given to sensual indulgence. But these natural faults they uprooted and wholly overcame by will, desire, and training (**voluntate, studio, disciplina**) - Cicero
+> “It was said that Stilpo was drunken and Socrates was dull, and that both were given to sensual indulgence. But these natural faults they uprooted and wholly overcame by will, desire, and training (**voluntate, studio, disciplina**)<footer>Cicero</footer>
 
 ## Further reading 
 - [Thread on relearning discipline after brain trauma - Maria Goldberg](https://twitter.com/mar15sa/status/1257503583479595013)

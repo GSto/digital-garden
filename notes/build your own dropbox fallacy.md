@@ -21,9 +21,7 @@ full source quote:
 > I have a few qualms with this app:
 >
 > 1. For a Linux user, you can already build such a system yourself quite trivially by getting an FTP account, mounting it locally with curlftpfs, and then using SVN or CVS on the mounted filesystem. From Windows or Mac, this FTP account could be accessed through built-in software.
-
 > 2. It doesn't actually replace a USB drive. Most people I know e-mail files to themselves or host them somewhere online to be able to perform presentations, but they still carry a USB drive in case there are connectivity problems. This does not solve the connectivity issue.
-
 > 3. It does not seem very "viral" or income-generating. I know this is premature at this point, but without charging users for the service, is it reasonable to expect to make money off of this?
 
 This rhymes with, but is different than [[not invented here syndrome]]. Not invented here syndrome is about having a bias towards the build side of [[build vs buy]]. This fallacy is about undervaluing simplicity and customer experience.

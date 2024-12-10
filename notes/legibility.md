@@ -1,6 +1,5 @@
 # Legibility
-
-Understanding of a complex, opaque system. 
+#: Understanding of a complex, opaque system
 
 Increased legibility does not mean increased predictability or knowledge.
 
@@ -21,7 +20,7 @@ legibility is alluring. we tend to dislike [[complexity]] and prefer simple, eas
 
 But Just because something is not illegible does not mean it is not intelligent or known. You can know something without being able to put it into words
 
-# Legibility and Tech Brain
+## Legibility and Tech Brain
 
 programmers have to enforce [[legibility]] on concepts for a living. its one of the causes of [[tech brain]], which is the primary failure mode of legibility.
 

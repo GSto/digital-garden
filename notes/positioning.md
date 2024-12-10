@@ -4,11 +4,9 @@ Positioning is the practice of narrowing your marketing message. It involes sele
 
 It feels counterintuitive, but positioning to a narrower market tends to increase your opportunities and [[leverage]] in the market. People want to hire a specialist for their problems, not a generalist.
 
-> "Positioning is a practice. You don’t just say you serve one kind of person and then go out and do it forever. You find niches within the niche; you refine your market; you become pickier as you grow. And you serve them in different ways, changing your offerings to adapt to shifts in technology, the world, and your customers & clients. Positioning is the act of bringing intentionality, focus, and clarity to the way you serve others."
->
-> - [Nick Disabato](https://draft.nu/) (email, _New Year, New Position, 1/5/20_)
+> "Positioning is a practice. You don’t just say you serve one kind of person and then go out and do it forever. You find niches within the niche; you refine your market; you become pickier as you grow. And you serve them in different ways, changing your offerings to adapt to shifts in technology, the world, and your customers & clients. Positioning is the act of bringing intentionality, focus, and clarity to the way you serve others." <footer>Nick Disabato, email, *New Year, New Position, 1/5/20*</footer>
 
-### Why positioning?
+## Why positioning?
 
 Positioning allows you to get deeper on a certain topic, and solve more interesting problems.
 

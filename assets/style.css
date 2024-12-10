@@ -1,236 +1,27 @@
+/* https://www.edwardtufte.com/ inspired styles, white and black taken from tufte.css */ 
 :root {
-  --color-cream: #ffffff;
-  --color-black: #353534;
-  --color-accent: #6a8e7f;
-  --color-quote: #dce5e1;
-  --color-quote-border: #95b1a5;
-  --color-link-alt: #960462;
-  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  /*--font-header: 'bluu', sans-serif; */
-  --font-header: var(--font-body);
+  --tufte-white: #fffff8;
+  --tufte-black: #111;
+  --tufte-red: #b1282b;
+  --tufte-brown: #4c4c4c;
 }
 
-html {
-  font-size: 22px;
-  background-color: var(--color-cream);
-  color: var(--color-black);
-  -webkit-text-size-adjust: 100%;
-  font-family: var(--font-body);
+.red  {
+  color: var(--tufte-red);
 }
 
-a,
-a:visited {
-  color: var(--color-accent);
-  text-decoration: none;
-  display: inline-block;
-  position: relative;
-}
-
-/* animated a link, inspo: https://www.30secondsofcode.org/css/s/hover-underline-animation */
-a:after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  transform: scaleX(0);
-  height: 1px;
-  bottom: 0;
-  left: 0;
-  background-color: var(--color-accent);
-  transform-origin: bottom right;
-  transition: transform 0.25s ease-out;
-}
-
-a:hover:after {
-  transform: scaleX(1);
-  transform-origin: bottom left;
-}
-
-article.note blockquote a:after {
-  background-color: var(--color-link-alt);
-}
-
-body {
-  margin: 0;
-}
-
-body > main,
-body > footer,
-body > header {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-body > header {
-  text-align: left;
-  background-color: var(--color-accent);
-  min-height: 12px;
-}
-
-body > header > a,
-body > footer > a {
-  color: var(--color-cream);
+header a { 
   text-decoration: none;
 }
 
-nav {
-  max-width: 93ch;
-  margin-left: auto;
-  margin-right: auto;
-  line-height: 2em;
-  font-size: 18px;
-  color: var(--color-cream);
+.title {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 1.8rem;
 }
 
-body > header,
-body > main,
-body > footer,
-body > nav {
-  color: var(--color-black);
-  font-weight: 300;
-}
-
-h1,
-h2 {
-  font-weight: 600;
-  color: var(--color-black);
-  line-height: 1.1;
-  font-family: var(--font-header);
-}
-
-h2,
-h3 {
-  margin-top: 4rem;
-  margin-bottom: 0.5rem;
-}
-
-h3,
-h4,
-h5,
-h6 {
-  font-weight: 400;
-  line-height: 1.1;
-  font-family: var(--font-header);
-}
-
-strong {
-  color: var(--color-black);
-  font-weight: 600;
-}
-
-nav a {
-  margin-right: 18px;
-  color: var(--color-cream) !important; /* FIXME: unclear why this is needed */
-  text-decoration: none;
-  opacity: 0.8;
-}
-
-nav a:visited {
-  color: var(--color-cream);
-}
-
-nav a:hover {
-  opacity: 1;
-}
-
-p {
-  margin-top: 2rem;
-}
-
-ol {
-  list-style-type: decimal !important;
-}
-
-ol,
-ul {
-  padding-left: 0;
-}
-
-li ul,
-li ol {
-  margin-top: 0.5rem;
-  padding-left: 12px;
-}
-
-li ul > li,
-li ol > li {
-  margin-left: 1rem;
-}
-
-ul li,
-ol li {
-  margin-bottom: 0.5rem;
-}
-
-/* responsive styles */
-@media only screen and (max-width: 1040px) {
-  body > footer,
-  main {
-    max-width: 90%;
-  }
-}
-
-/* note pages */
-article {
-  max-width: 60ch;
-}
-
-article.note h1 {
-  line-height: 1.1;
-  margin-bottom: 1rem;
-}
-
-article.note p {
-  margin-top: 0;
-  margin-bottom: 2rem;
-  max-width: 60ch;
-  line-height: 1.5rem;
-}
-
-article.note li > p {
-  margin-bottom: 0;
-}
-
-article.note ul,
-article.note li {
-  -ms-scroll-snap-points-x: 60ch;
-}
-
-article.note li,
-.backlinks-container li {
-  padding-left: 8px;
-}
-
-article.note li::marker,
-.backlinks-container li::marker {
-  content: "▸";
-}
-
-article.note blockquote {
-  margin-left: 0;
-  background-color: var(--color-quote);
-  border-color: var(--color-quote-border);
-
-  max-width: 60ch;
-  padding-top: 4px;
-  padding-bottom: 12px;
-  margin-bottom: 2rem;
-}
-
-article.note blockquote a {
-  color: var(--color-link-alt);
-}
-
-article.note blockquote p {
-  margin-bottom: 1rem;
-}
-
-article.note blockquote p:last-child {
-  margin-bottom: 0;
-}
 
 /* frontpage grid */
-
 .indexGrid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -253,14 +44,8 @@ article.note blockquote p:last-child {
   text-transform: lowercase;
 }
 
-.indexGrid ul {
-  margin: 0;
-  padding: 0;
-}
 
 .indexGrid h2 {
-  line-height: 2.25rem;
-  margin-bottom: 24px;
   text-transform: capitalize;
 }
 
@@ -269,27 +54,10 @@ article.note blockquote p:last-child {
   flex-direction: column;
 }
 
-.indexGrid .indexCell {
-  box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
-  padding-bottom: 36px;
-}
-
-.indexGrid ul li {
-  list-style-type: none;
-  margin-bottom: 12px;
-}
 
 .indexGrid ul li p {
   margin: 0;
 }
 
-.indexGrid ul li ul {
-  padding-left: 24px;
-  margin-top: 12px;
-}
 
-.indexGrid ul li ul li {
-  color: #e4eaed;
-  list-style-type: "▸";
-  padding-left: 6px;
-}
+
