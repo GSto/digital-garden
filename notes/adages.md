@@ -40,7 +40,7 @@
 
 > ## Cobra Effect
 > 
-> The cobra effect occurs when incentives designed to solve a problem end up rewarding people for making it worse. The term is used to illustrate how incorrect stimulation in economics and politics can cause unintended consequences. It is also known as the perverse incentive. >[[Wikipedia Link](https://en.wikipedia.org/wiki/Cobra_effect)]
+> The cobra effect occurs when incentives designed to solve a problem end up rewarding people for making it worse. The term is used to illustrate how incorrect stimulation in economics and politics can cause unintended consequences. It is also known as the perverse incentive. >[https://en.wikipedia.org/wiki/Cobra_effect]
 
 > ## Conway's Law
 >
@@ -138,11 +138,7 @@
 
 > ## Parkinson' Law of Triviality
 > 
-> "people within an organization commonly or typically give disproportionate weight to trivial issues."
-
-<!-- ^[Parkinson provides the example of a fictional committee whose job was to approve the plans for a nuclear power plant spending the majority of its time on discussions about relatively minor but easy-to-grasp issues, such as what materials to use for the staff bike shed, while neglecting the proposed design of the plant itself, which is far more important and a far more difficult and complex task. AKA bicycle-shed effect, bike-shed effect, and [[bike-shedding]]]
-
-^[[Wikipeida Link](https://en.wikipedia.org/wiki/Law_of_triviality)] -->
+> "people within an organization commonly or typically give disproportionate weight to trivial issues." ^[Parkinson provides the example of a fictional committee whose job was to approve the plans for a nuclear power plant spending the majority of its time on discussions about relatively minor but easy-to-grasp issues, such as what materials to use for the staff bike shed, while neglecting the proposed design of the plant itself, which is far more important and a far more difficult and complex task. AKA bike-shedding. https://en.wikipedia.org/wiki/Law_of_triviality]
 
 > ## Peter Principle
 >
