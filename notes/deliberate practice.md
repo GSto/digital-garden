@@ -18,7 +18,7 @@ Deliberate practice is doing drills of specific, granular skills. Holistic simul
 * Deliberate practice drills can't teach the holistic skill of putting everything together. You still need to simulate the whole activity. 
 * Drills can't teach 'sensibilities.' Those can only be learned through a large volume of real world experience. What are sensibilities? It's how your body reacts before your mind knows what its doing. ([[tacit knowledge]])
 * Deliberate drills cannot prepare you for [[randomness]], unlike more holistic simulations. 
-* [[play]]. Consider the difference between running scales on the guitar and playing your favorite songs. What's the point of building [[expertise]] if you can't have fun with it? 
+* Play. Consider the difference between running scales on the guitar and playing your favorite songs. What's the point of building [[expertise]] if you can't have fun with it? 
 
 
 ## Examples of breaking down a skill into deliberate practice 

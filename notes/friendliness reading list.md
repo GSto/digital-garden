@@ -11,4 +11,4 @@ One of my goals for 2021-2022 is to actively study and cultivate [[friendliness]
 1. [Running On Empty](https://www.amazon.com/Running-Empty-Overcome-Childhood-Emotional-ebook/dp/B009VJ4B4C/) & [Running on Empty No More - Jonice Webb](https://www.amazon.com/gp/product/B076W2MGTR) - books on overcoming childhood emotional neglect, which may lead to habits and patterns of thoughts that can interfere in relationships.
 1. [I'm Ok You're Ok - Thomas A Harris](https://www.amazon.com/Im-OK-Youre-OK-Thomas-Harris-ebook/dp/B0054KY9QW/) - how our inner understanding impacts our relationships with others.
 
-**Tags** [[friendliness]], [[book recommendations]]
+**Tags** [[friendliness]]

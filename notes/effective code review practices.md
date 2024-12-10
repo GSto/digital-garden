@@ -43,7 +43,7 @@ Oftentimes, these judgmental questions are just veiled demands. Instead, provide
 
 - Code review is a skill worth cultivating. Its mentioned frequently in job postings.
 - Take a goal-oriented approach to commenting and reviewing code. The goal is to ensure that the code is free of bugs, meets requirements, and is high quality. Help the author achieve those goals. A productive code review leads to an improved output that would not have happened other wise.
-- In addition to code quality improvements, code reviews have a [[knock on effect]] of distributing knowledge throughout the team.
+- In addition to code quality improvements, code reviews have a knock on effect of distributing knowledge throughout the team.
 - Comments often regarded as not useful include praise, suggestions for alternate input or error messages, or out-of-scope discussions about new design or features.
 - Remember there is no perfect code, only better code.
 - Code reviews are negative by default. the implication is "tell me what's wrong before we send this to production." Praise and positive comments can be used to soften the review somewhat.

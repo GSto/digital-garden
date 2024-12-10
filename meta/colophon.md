@@ -4,7 +4,7 @@ layout: note
 
 # Colophon ({{ externalLinks.length}})
 
-A collection of links that are present in the garden
+A collection of links from this notebook
 
 {% for link in externalLinks %}
 
