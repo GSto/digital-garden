@@ -12,9 +12,10 @@
 
 
 ## Examples of "Lindy" Things
-    - **Coffee** - Been around for 400-500 years. Effects of coffee are largely known.
-    - **Long walks**
-    - **Stength Training**
+
+  - **Coffee** - Been around for 400-500 years. Effects of coffee are largely known.
+  - **Long walks**
+  - **Stength Training**
 
 ## Examples of "Not Lindy" Things
   - **Mouthwash** - less than 100 years old. Kills all bacteria and can disrupt the complex microbiome of your mouth. One study suggests this may cause [Diabetes](https://www.sciencedirect.com/science/article/abs/pii/S1089860317301532?via%3Dihub)
