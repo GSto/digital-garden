@@ -1,8 +1,7 @@
 # Working Identities
+#: Changing careers means changing yourself.
 
 ![](/assets/images/future_paths.jpeg)
-
-Changing careers means changing yourself.
 
 Your identity is not fixed, and it does not reside internally. Instead, you have multiple possible future selves. The only way to discover these selves is by performing experiments that involve interaction with other people. 
 
