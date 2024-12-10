@@ -82,7 +82,7 @@ const disorder = {
   notes: [
     { note: "antifragile" },
     { note: "luck" },
-    { note: "risk", children: [{ note: "Risk of ruin" }] },
+    { note: "risk" },
     { note: "uncertainty mindset" },
     { note: "variance" },
   ],
@@ -94,7 +94,6 @@ const career = {
     { note: "above the code" },
     { note: "career strategy" },
     { note: "indie mindset" },
-    { note: "personal branding" },
     {
       note: "organizational literacy",
       children: [
