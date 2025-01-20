@@ -2,7 +2,7 @@ const softwareEngineering = {
   title: "Software engineering",
   description: "the work before, after, above, and below the code editor.",
   notes: [
-    { note: "build your own dropbox fallacy" },
+    { note: "developers undervalue ease-of-use" },
     { note: "effective code review practices" },
     { note: "criticisms of hourly billing" },
     { note: "post senior dev fork" },
