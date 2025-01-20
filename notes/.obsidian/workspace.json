@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "criticisms of hourly billing.md",
+                "file": "the stakeholder's guide to working with developers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "criticisms of hourly billing"
+              "title": "the stakeholder's guide to working with developers"
             }
           }
         ]
@@ -178,6 +178,12 @@
   },
   "active": "878f36935dae91c8",
   "lastOpenFiles": [
+    "the red tape paradox.md",
+    "The stakeholder's guide to working with developers.md",
+    "the stakeholder's guide to working with developers.md",
+    "positioning.md",
+    "post senior dev fork.md",
+    "criticisms of hourly billing.md",
     "effective code review practices.md",
     "developers undervalue ease-of-use.md",
     "evergreen notes.md",
@@ -196,14 +202,8 @@
     "writing rules.md",
     "writing.md",
     "Zeigarnik effect.md",
-    "your first software project.md",
     "writing book recommendations.md",
     "workshops.md",
-    "working identities.md",
-    "why write.md",
-    "web3.md",
-    "variance.md",
-    "uncertainty mindset.md",
     "Untitled.canvas"
   ]
 }

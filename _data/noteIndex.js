@@ -8,8 +8,7 @@ const softwareEngineering = {
     { note: "post senior dev fork" },
     { note: "positioning" },
     { note: "shaping" },
-    { note: "the red tape paradox" },
-    { note: "your first software project" },
+    { note: "The stakeholder's guide to working with developers"},
   ],
 };
 
