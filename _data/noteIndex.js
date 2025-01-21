@@ -2,14 +2,14 @@ const softwareEngineering = {
   title: "Software engineering",
   description: "the work before, after, above, and below the code editor.",
   notes: [
-    { note: "build your own dropbox fallacy" },
+    { note: "engineering management reading"},
+    { note: "developers undervalue ease-of-use" },
     { note: "effective code review practices" },
     { note: "criticisms of hourly billing" },
     { note: "post senior dev fork" },
     { note: "positioning" },
     { note: "shaping" },
-    { note: "the red tape paradox" },
-    { note: "your first software project" },
+    { note: "the stakeholder's guide to working with developers"},
   ],
 };
 
@@ -67,7 +67,6 @@ const coding = {
     { note: "CSS animation" },
     { note: "security" },
     { note: "software principles" },
-    { note: "Typescript"},
     { note: "tech specs" },
   ],
 };
@@ -160,21 +159,24 @@ const thinking = {
 };
 
 const concepts = {
-  title: "Concepts",
+  title: "Other",
   notes: [
     { note: "bullshit" },
+    { note: "choosing cultivates contentment" },
+    { note: "deliberate practice" },
     { note: "discipline" },
-    { note: "expertise", children: [{ note: "deliberate practice" }] },
+    { note: "etherium"},
+    { note: "expertise" },
     { note: "freemium leisure" },
+    { note: "inputs vs outputs vs outcomes" },
     { note: "Lindy" },
     { note: "legibility" },
     { note: "leverage" },
     { note: "playing for stakes" },
     { note: "tempo" },
+    { note: "token economy"},
+    { note: "the great internet game"},
     { note: "too much comfort produces weakness" },
-    { note: "choosing cultivates contentment" },
-    { note: "the great internet game" },
-    { note: "inputs vs outputs vs outcomes" },
     { note: "squads" },
   ],
 };
@@ -182,9 +184,9 @@ const concepts = {
 const meta = { 
   title: "Meta",
   notes: [
-    { note: "tufte integration" },
     { text: "broken links", url: "/meta/missing" },
     { text: "colophon", url: "/meta/colophon" },
+    { note: "tufte integration" },
   ]
 }
 

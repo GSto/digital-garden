@@ -1,4 +1,4 @@
-# Your First Software Project
+# The stakeholder's guide to working with developers
 
 A series of notes for non-technical founders and stakeholders who are working on a software project for the first time.
 

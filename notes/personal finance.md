@@ -20,7 +20,7 @@ More on [[401k valuation]] here, and why you should invest in them aggressively.
 
 - There is zero correlation between the cost of something and how much happiness it brings you. The idea that saving and investing is boring is something they tell the poors to keep them that way.
 - True wealth is physical and mental health. - Mr. Money Mustache
-- “Money is a story, once you have enough for beans and rice, and taking care of your family… money is a story.  It is better to tell yourself a story about money that you can happily live with.” -- [[Seth Godin]] ([Source](http://fourhourworkweek.com/2016/02/10/seth-godin/))
+- “Money is a story, once you have enough for beans and rice, and taking care of your family… money is a story.  It is better to tell yourself a story about money that you can happily live with.” -- [Seth Godin](http://fourhourworkweek.com/2016/02/10/seth-godin/)
 - "the american dream is to make a lot of money with computers and then to never touch computers ever again"  -[@palm_beach_m on Twitter](https://twitter.com/palm_beach_m/status/1273733927748976640)
 
 ## Monthly Budgeting

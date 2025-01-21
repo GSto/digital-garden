@@ -4,71 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "64981c336b9dd177",
+        "id": "12f51a54b3049ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "f6236e2d4632deee",
+            "id": "878f36935dae91c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effectual reasoning.md",
+                "file": "evergreen links.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2938fbb86a716ddc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "action produces information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f80f1b19943e08c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deck writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4467503f5f4acab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "accessibility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ed8976e45391a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "evergreen notes.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "evergreen links"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -103,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -111,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -134,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "evergreen notes.md",
+                "file": "coaching questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for coaching questions"
             }
           },
           {
@@ -151,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "evergreen notes.md",
+                "file": "coaching questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from coaching questions"
             }
           },
           {
@@ -165,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -174,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "evergreen notes.md"
-              }
+                "file": "coaching questions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of coaching questions"
             }
           },
           {
@@ -187,14 +154,17 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +176,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ed8976e45391a44",
+  "active": "878f36935dae91c8",
   "lastOpenFiles": [
+    "engineering management reading.md",
+    "the stakeholder's guide to working with developers.md",
+    "engineering management reading",
+    "the red tape paradox.md",
+    "The stakeholder's guide to working with developers.md",
+    "positioning.md",
+    "post senior dev fork.md",
+    "criticisms of hourly billing.md",
+    "effective code review practices.md",
+    "developers undervalue ease-of-use.md",
+    "evergreen notes.md",
     "deliberate practice.md",
     "accessibility.md",
     "product design principles.md",
@@ -223,17 +204,7 @@
     "writing rules.md",
     "writing.md",
     "Zeigarnik effect.md",
-    "your first software project.md",
     "writing book recommendations.md",
-    "workshops.md",
-    "working identities.md",
-    "why write.md",
-    "web3.md",
-    "variance.md",
-    "uncertainty mindset.md",
-    "TypeScript with React.md",
-    "typescript.md",
-    "twitter hacks.md",
     "Untitled.canvas"
   ]
 }

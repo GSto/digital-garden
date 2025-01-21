@@ -19,6 +19,3 @@ About developing a style as an author. Useful for understanding the rhythm that 
 Reference book, not for reading. Helpful for answering questions about styling of modern words you may not find in a dictionary. Also includes guidance for writing about certain topics, for example, "how to turn earnings reports into a story." When I managed a content team this was frequently used to settle debates.
 
 Also, the best inspiration is reading writing that you aspire to be like, whoever or whatever that is. 
-
-#### Tags
-[[writing]] [[book recommendations]]

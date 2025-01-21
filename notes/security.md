@@ -34,7 +34,7 @@ What are some common security holes that could exist in your application, and wh
 
 - sanitize all user input, including what comes from the URL query string
 - have a content security policy (CSP) that bans inline [[JavaScript]]
-- avoid passing data to HTML directly, like using [dangerouslySetInnerHTML](https://blog.logrocket.com/using-dangerouslysetinnerhtml-in-a-react-application/) in [[ReactJS]] or using `document.innerHTML`.
+- avoid passing data to HTML directly, like using [dangerouslySetInnerHTML](https://blog.logrocket.com/using-dangerouslysetinnerhtml-in-a-react-application/) in ReactJS or using `document.innerHTML`.
 
 ### Cross-Site Request Forgery (CSRF / XSRF)
 

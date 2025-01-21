@@ -1,4 +1,4 @@
-# Build Your Own Dropbox Fallacy
+# Developers undervalue ease-of-use
 
 When Dropbox launched on Hackernews, one of the top comments was something to the effect of
 
@@ -24,6 +24,4 @@ full source quote:
 > 2. It doesn't actually replace a USB drive. Most people I know e-mail files to themselves or host them somewhere online to be able to perform presentations, but they still carry a USB drive in case there are connectivity problems. This does not solve the connectivity issue.
 > 3. It does not seem very "viral" or income-generating. I know this is premature at this point, but without charging users for the service, is it reasonable to expect to make money off of this?
 
-This rhymes with, but is different than [[not invented here syndrome]]. Not invented here syndrome is about having a bias towards the build side of [[build vs buy]]. This fallacy is about undervaluing simplicity and customer experience.
 
-note to self: is there a better term for this kind of thinking?
