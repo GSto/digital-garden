@@ -2,13 +2,14 @@ const softwareEngineering = {
   title: "Software engineering",
   description: "the work before, after, above, and below the code editor.",
   notes: [
+    { note: "engineering management reading"},
     { note: "developers undervalue ease-of-use" },
     { note: "effective code review practices" },
     { note: "criticisms of hourly billing" },
     { note: "post senior dev fork" },
     { note: "positioning" },
     { note: "shaping" },
-    { note: "The stakeholder's guide to working with developers"},
+    { note: "the stakeholder's guide to working with developers"},
   ],
 };
 

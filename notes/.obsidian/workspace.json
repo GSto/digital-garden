@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the stakeholder's guide to working with developers.md",
+                "file": "evergreen links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the stakeholder's guide to working with developers"
+              "title": "evergreen links"
             }
           }
         ]
@@ -178,9 +178,11 @@
   },
   "active": "878f36935dae91c8",
   "lastOpenFiles": [
+    "engineering management reading.md",
+    "the stakeholder's guide to working with developers.md",
+    "engineering management reading",
     "the red tape paradox.md",
     "The stakeholder's guide to working with developers.md",
-    "the stakeholder's guide to working with developers.md",
     "positioning.md",
     "post senior dev fork.md",
     "criticisms of hourly billing.md",
@@ -203,7 +205,6 @@
     "writing.md",
     "Zeigarnik effect.md",
     "writing book recommendations.md",
-    "workshops.md",
     "Untitled.canvas"
   ]
 }

@@ -121,10 +121,4 @@ John Jeremiah Sullivan is my favorite essayist, and this is his best piece. A pa
 
 The story of how taking our rolodex online turned into a sea of recruiter spam and workfluencer content. Also includes several pieces of inspiration
 
-### @made_in_cosmos, ["Adulting isn't hard"](https://twitter.com/made_in_cosmos/status/1441107026822586372?s=20)
-
-We shouldn't treat real life like public school. No punishment for experiments. No reward for getting things exactly right. No grades. There is no success criteria. No teachers. No one is going to fix your problem. No one is going to tell you exactly what to do. Learn whatever you want.
-
-> adulting isn’t hard, you’re just trying to apply educational system’s criteria of success that any task must be completed on the first try in a way that meets some arbitrary perfection standards to the real world that’s kinda the opposite of school
-
 
