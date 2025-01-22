@@ -13,7 +13,6 @@ My pipeline of engineering management related reading.
 
 * Various, *Crucial Conversations: Tools for Talking When Stakes are High*
 * Various, *HBR's 10 Must Reads for New Managers*
-* Angela Duckworth, *Grit: The Power of Passion and Perseverance*
 
 ## Frequent recommendations
 * Gary Keller, *The ONE Thing: The Surprisingly Simple Truth About Extraordinary Results*
@@ -28,8 +27,9 @@ My pipeline of engineering management related reading.
 and Ship Work that Matters* (available [free online](https://basecamp.com/shapeup))
 
 ## Finished 
-* Cal Newport, *Deep Work: Rules for Focused Success in a Distracted World*
+* Angela Duckworth, *Grit: The Power of Passion and Perseverance*
 * Patrick M. Lencioni, *The Five Dysfunctions of a Team: A Leadership Fable*
+* Cal Newport, *Deep Work: Rules for Focused Success in a Distracted World*
 * Donella H. Meadows, Diana Wright, *Thinking in Systems*
 * John Gall, *The Systems Bible* (FKA Systemantics)
 * Chet Richards, *Certain to Win: The Strategy of John Boyd, Applied to Business*
@@ -39,7 +39,7 @@ and Ship Work that Matters* (available [free online](https://basecamp.com/shapeu
 * Étienne Garbugli, *Solving Product: Reveal Gaps, Ignite Growth, and Accelerate Any Tech Product with Customer Research*
 * Richard Rumelt, *Good Strategy Bad Strategy: The Difference and Why It Matters*
 * Jocko Willink & Leif Babin, *Extreme Ownership: How U.S. Navy SEALs Lead and Win*
-* Marshall B. Rosenberg, *Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication*
+* Marshall B. Rosenberg, *Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships*
 * Robert B. Cialdini , *Influence: The Psychology of Persuasion*
 * Cal Newport *So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love*
 * David Allen, *Getting Things Done: The Art of Stress-Free Productivity*
@@ -56,7 +56,8 @@ and Ship Work that Matters* (available [free online](https://basecamp.com/shapeu
 * Steve Magness, *Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness*
 * Atul Gawande, *The Checklist Manifesto: How to Get Things Right*
 
-## Antilibrary 
+## Want to Read
+
 * Peter Block, *Flawless Consulting: A Guide to Getting Your Expertise Used*
 * Gary A. Klein, *Sources of Power: How People Make Decisions*
 * Peter Drucker, *The Essential Drucker: The Best of Sixty Years of Peter Drucker's Essential Writings on Management*
@@ -73,6 +74,7 @@ and Ship Work that Matters* (available [free online](https://basecamp.com/shapeu
 * Hamilton Helmer, *7 Powers: The Foundations of Business Strategy*
 * Liz Wiseman, *Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact*
 * Liz Wiseman, *Multipliers, Revised and Updated: How the Best Leaders Make Everyone Smarter*
+* Joshua Seiden, *Outcomes Over Output: Why customer behavior is the key metric for business success*
 
 
 ## Articles & Online Resources
