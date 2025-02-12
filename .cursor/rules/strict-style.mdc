@@ -1,0 +1,67 @@
+<rule>
+name: strict_style
+description: Only flags explicitly defined style violations without modifying content or meaning
+priority: high
+
+filters:
+  - type: file_extension
+    pattern: "\\.md$"
+  - type: path
+    pattern: "^notes/"
+
+rules:
+  - name: title_case
+    pattern: "^# [A-Z]"
+    message: "Note titles should be lowercase unless containing proper nouns"
+    severity: warning
+
+  - name: section_case
+    pattern: "^## [A-Z]"
+    message: "Section headers should be lowercase unless containing proper nouns"
+    severity: warning
+
+  - name: further_reading
+    pattern: "^## (Links|Appendix)"
+    message: "Use 'Further reading' for link sections at the bottom"
+    severity: warning
+
+  - name: bullet_lists
+    pattern: "^\\s*- "
+    message: "Consider using numbered lists for better referencing"
+    severity: suggestion
+
+  - name: fluff_words
+    patterns:
+      - "\\bjust\\b"
+      - "\\bthat\\b"
+      - "\\bvery\\b"
+      - "\\breally\\b"
+      - "\\bliterally\\b"
+      - "\\bactually\\b"
+      - "\\bcertainly\\b"
+      - "\\bprobably\\b"
+      - "\\bbasically\\b"
+    message: "Found fluff word that could be removed"
+    severity: suggestion
+
+examples:
+  - description: "Title case"
+    input: "# The Main Title"
+    output: "# the main title"
+
+  - description: "Section case"
+    input: "## The Section"
+    output: "## the section"
+
+  - description: "Further reading"
+    input: "## Links"
+    output: "## Further reading"
+
+  - description: "Bullet lists"
+    input: "- First item"
+    output: "1. First item"
+
+metadata:
+  version: 1.0
+  author: "Claude"
+</rule> 
