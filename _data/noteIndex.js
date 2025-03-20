@@ -123,6 +123,7 @@ const writing = {
     { note: "indexing as a practice" },
     { note: "Linking in information architecture" },
     { note: "capture vs retrieval" },
+    { note: "Write of Passage reconstruction"},
   ],
 };
 
