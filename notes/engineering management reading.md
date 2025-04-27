@@ -8,11 +8,13 @@ My pipeline of engineering management related reading.
 * Sarah Drasner, *Engineering Management for the Rest of Us* 
 * Will Larson, *An Elegant Puzzle: Systems of Engineering Management*
 * Julie Zhuo, *The Making of a Manager: What to Do When Everyone Looks to You*
+* Various, *HBR's 10 Must Reads for New Managers*
 
 ## Currently reading 
+* Oliver Burkemann, *Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts* 
+* Scott Burkin, *Confessions of a Public Speaker*
+* Roy Peter Clark, *Writing Tools: 55 essential strategies for every writer* 
 
-* Various, *Crucial Conversations: Tools for Talking When Stakes are High*
-* Various, *HBR's 10 Must Reads for New Managers*
 
 ## Frequent recommendations
 * Gary Keller, *The ONE Thing: The Surprisingly Simple Truth About Extraordinary Results*
@@ -27,6 +29,8 @@ My pipeline of engineering management related reading.
 and Ship Work that Matters* (available [free online](https://basecamp.com/shapeup))
 
 ## Finished 
+* Peter Block, *Flawless Consulting: A Guide to Getting Your Expertise Used*
+* Various, *Crucial Conversations: Tools for Talking When Stakes are High*
 * Angela Duckworth, *Grit: The Power of Passion and Perseverance*
 * Patrick M. Lencioni, *The Five Dysfunctions of a Team: A Leadership Fable*
 * Cal Newport, *Deep Work: Rules for Focused Success in a Distracted World*
@@ -51,19 +55,22 @@ and Ship Work that Matters* (available [free online](https://basecamp.com/shapeu
 * Greg Mckeown, *Essentialism: The Disciplined Pursuit of Less*
 * Alan Weiss, *Value-Based Fees: How to Charge What You're Worth and Get What You Charge*
 
+
 ## Abandoned
 * Robert Greene, *The 48 Laws of Power*
 * Steve Magness, *Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness*
 * Atul Gawande, *The Checklist Manifesto: How to Get Things Right*
+* Clayton M. Christensen, Karen Dillion, *Competing Against Luck: The Story of Innovation and Customer Choice*
 
 ## Want to Read
-
-* Peter Block, *Flawless Consulting: A Guide to Getting Your Expertise Used*
-* Gary A. Klein, *Sources of Power: How People Make Decisions*
-* Peter Drucker, *The Essential Drucker: The Best of Sixty Years of Peter Drucker's Essential Writings on Management*
+* Marty Cagan: Inspired, How to Create Tech Products that People Love
 * Eric Nehrlich, *You Have A Choice: Beyond Hard Work To Meaningful Impact*
+* Gary A. Klein, *Sources of Power: How People Make Decisions*
 * Stephen Bungay, *The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results*
+* Scott Berkun, Bryan Zug *Why Design is Hard*
 * Abby Covert, *Stuck? Diagrams Help*
+* Avinash K. Dixit, Barry J. Nalebuff, Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life
+* Peter Drucker, *The Essential Drucker: The Best of Sixty Years of Peter Drucker's Essential Writings on Management*
 * Andrew S. Grove, *High Output Management*
 * Eliyahu M. Goldratts, *Goal: A Graphic Business Novel*
 * Peter Drucker, *The Effective Executive: The Definitive Guide to Getting the Right Things Done*
