@@ -12,12 +12,12 @@ This is a digital garden built using Eleventy (11ty), a static site generator. T
 ## Project Structure
 ```
 .
-├── _data/           # Data files for Eleventy
-├── _scripts/        # Custom build and utility scripts
-├── _site/          # Generated static site (output)
-├── assets/         # Static assets (images, CSS, etc.)
-├── includes/       # Reusable template components
-├── layouts/        # Page layout templates
+├── _data/         # Data files for Eleventy
+├── _scripts/      # Custom build and utility scripts
+├── _site/         # Generated static site (output)
+├── assets/        # Static assets (images, CSS, etc.)
+├── includes/      # Reusable template components
+├── layouts/       # Page layout templates
 ├── lib/           # Custom JavaScript modules
 ├── library/       # External library files
 ├── meta/          # Metadata and configuration
@@ -51,16 +51,6 @@ This is a digital garden built using Eleventy (11ty), a static site generator. T
 - `markdownSidenote`: Adds support for sidenotes
 - `markdownSubtitle`: Handles subtitle formatting
 
-### 5. Asset Management
-- Static assets in `assets/` directory
-- Library files in `library/` directory
-- Automatic copying of assets during build
-
-## Development Workflow
-1. Create new notes in the `notes/` directory using Markdown
-2. Use wiki-style links to connect related notes
-3. Run development server with `yarn start`
-4. Build for production with `yarn compile`
 
 ## Dependencies
 - @11ty/eleventy: Static site generator
