@@ -1,3 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
 <rule>
 name: strict_style
 description: Only flags explicitly defined style violations without modifying content or meaning
@@ -25,10 +30,6 @@ rules:
     message: "Use 'Further reading' for link sections at the bottom"
     severity: warning
 
-  - name: bullet_lists
-    pattern: "^\\s*- "
-    message: "Consider using numbered lists for better referencing"
-    severity: suggestion
 
   - name: fluff_words
     patterns:
@@ -47,19 +48,15 @@ rules:
 examples:
   - description: "Title case"
     input: "# The Main Title"
-    output: "# the main title"
+    output: "# The main title"
 
   - description: "Section case"
     input: "## The Section"
-    output: "## the section"
+    output: "## The section"
 
   - description: "Further reading"
     input: "## Links"
     output: "## Further reading"
-
-  - description: "Bullet lists"
-    input: "- First item"
-    output: "1. First item"
 
 metadata:
   version: 1.0
