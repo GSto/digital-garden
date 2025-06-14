@@ -99,5 +99,13 @@ nav.sans a.active {
   font-weight: 600;
 }
 
+.home-headshot {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 320px;
+  margin-bottom: 1.5rem;
+}
+
 
 
