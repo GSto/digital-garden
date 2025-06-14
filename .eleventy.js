@@ -52,7 +52,9 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob(["notes/**/*.md"]);
   });
 
-
+  eleventyConfig.addCollection("pages", function (collection) {
+    return collection.getFilteredByGlob(["pages/**/*.md"]);
+  });
 
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("library");

@@ -1,0 +1,35 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Open Pull Request Rule
+
+## Description
+When the user asks to open a pull request, automatically use the GitHub CLI (`gh pr create`) to open a pull request that follows best practices.
+
+## Trigger
+- When the user requests to open a pull request (e.g., "open a pull request", "create a PR", etc.)
+
+## Actions
+1. Ensure all changes are committed using the conventional commit format.
+2. Use the GitHub CLI to open a pull request:
+   - `gh pr create --fill --web`
+   - Use the latest commit message(s) as the PR title and description.
+   - Open the PR in the user's browser for review and completion.
+3. Follow best practices for PRs:
+   - Clear, descriptive title (from commit message)
+   - Detailed description (from commit body or summary of changes)
+   - Reference related issues if applicable
+   - Assign reviewers if specified by the user
+   - Set appropriate labels if specified by the user
+
+## Example Command
+```
+gh pr create --fill --web
+```
+
+## Notes
+- The rule assumes the user is authenticated with the GitHub CLI and has push access to the repository.
+- The PR will be created from the current branch to the default branch unless otherwise specified by the user.
+- The PR will be opened in the browser for any final edits or reviewer assignments.
