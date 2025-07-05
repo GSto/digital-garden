@@ -3,3 +3,49 @@ description:
 globs:
 alwaysApply: false
 ---
+# Auto Commit Rule
+
+## Description
+This rule automatically commits changes made by Cursor IDE after each edit operation. It follows the conventional commit format and includes detailed explanations of the changes.
+
+## Trigger
+- After any file changes made by Cursor IDE
+- When files are modified through Cursor's edit operations
+
+## Actions
+1. Stage all modified files
+2. Create a commit message following conventional commit format
+3. Commit the changes with a detailed explanation
+
+## Commit Message Format
+```
+<type>(<scope>): <subject>
+
+<body>
+
+<footer>
+```
+
+Where:
+- type: feat, fix, docs, style, refactor, test, chore
+- scope: optional scope of the change
+- subject: short description in present tense
+- body: detailed explanation of changes
+- footer: optional breaking changes or issue references
+
+## Implementation
+```bash
+# Stage all changes
+git add .
+
+# Get the last Cursor prompt/instruction
+LAST_PROMPT=$(cat .cursor/last_prompt.txt)
+
+# Create commit message
+git commit -m "feat(cursor): $LAST_PROMPT" -m "Changes made by Cursor IDE based on prompt: $LAST_PROMPT"
+```
+
+## Notes
+- The commit message will be automatically generated based on the Cursor prompt that triggered the changes
+- The conventional commit format helps maintain a clean and standardized git history
+- The detailed explanation in the commit body helps track the reasoning behind changes
