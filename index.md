@@ -7,7 +7,7 @@ title: Home
   <img src="/assets/images/headshot.jpg" alt="Glenn Stovall headshot" class="home-headshot" />
 </p>
 
-# Hi, I'm Glenn Stovall
+## Hi, I'm Glenn Stovall
 I’m an engineer recently turned engineering manager. I’ve been writing & building online for nearly 15 years.
 
 I believe there’s no greater joy in life than putting all of yourself into building products that help others. To that end, I’ve been working on a [book on product thinking for engineers](https://www.statetransition.co/p/why-im-writing-a-book-for-engineers).
@@ -24,7 +24,4 @@ In 2022 I started a blog exploring the navigating changing states of the world. 
 
 Get the latest here:
 
-
-
-
-<iframe src="https://www.statetransition.co/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.statetransition.co/embed" width="480" height="320" style="border:0px solid #fffff8; background:#fffff8;" frameborder="0" scrolling="no"></iframe>
