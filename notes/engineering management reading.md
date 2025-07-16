@@ -10,44 +10,42 @@ My pipeline of engineering management related reading.
 * Julie Zhuo, *The Making of a Manager: What to Do When Everyone Looks to You*
 * Various, *HBR's 10 Must Reads for New Managers*
 
-## Currently reading 
-* Oliver Burkemann, *Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts* 
-* Scott Burkin, *Confessions of a Public Speaker*
-* Roy Peter Clark, *Writing Tools: 55 essential strategies for every writer* 
 
 
 ## Frequent recommendations
 * Gary Keller, *The ONE Thing: The Surprisingly Simple Truth About Extraordinary Results*
 * Micheal Bungay Stanier, *The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever*
+* Various, *Crucial Conversations: Tools for Talking When Stakes are High*
 * Abby Covert, *How to Make Sense of Any Mess: Information Architecture for Everybody* (available [free online](https://www.howtomakesenseofanymess.com/))
 * Charles van Doren & Mortimer J. Adler, *How to Read a Book*
 * Sönke Ahrens, *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking*
-* Oliver Burkeman, *Four Thousand Weeks: Time Management for Mortals*
+* Oliver Burkeman, *Meditation for Mortals*
 * Thomas H. Davenport & Jinho Kim, *Keeping Up with the Quants: Your Guide to Understanding and Using Analytics*
 * Vaughn Tan, *The Uncertainty Mindset: Innovation Insights from the Frontiers of Food*
-* Ryan Singer, *Shape Up: Stop Running in Circles
-and Ship Work that Matters* (available [free online](https://basecamp.com/shapeup))
+
 
 ## Finished 
 * Peter Block, *Flawless Consulting: A Guide to Getting Your Expertise Used*
-* Various, *Crucial Conversations: Tools for Talking When Stakes are High*
+* Oliver Burkeman, *Four Thousand Weeks: Time Management for Mortals*
 * Angela Duckworth, *Grit: The Power of Passion and Perseverance*
 * Patrick M. Lencioni, *The Five Dysfunctions of a Team: A Leadership Fable*
+* John Gall, *The Systems Bible* (FKA Systemantics)
 * Cal Newport, *Deep Work: Rules for Focused Success in a Distracted World*
 * Donella H. Meadows, Diana Wright, *Thinking in Systems*
-* John Gall, *The Systems Bible* (FKA Systemantics)
-* Chet Richards, *Certain to Win: The Strategy of John Boyd, Applied to Business*
 * Carol S. Dweck, *Mindset: The New Psychology of Success*
+* Chet Richards, *Certain to Win: The Strategy of John Boyd, Applied to Business*
+* Cal Newport *So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love*
 * Chris Voss & Tahl Raz, *Never Split the Difference: Negotiating As If Your Life Depended On It* 
+* Jocko Willink & Leif Babin, *Extreme Ownership: How U.S. Navy SEALs Lead and Win*
 * Jeff Lawson, *Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century*
 * Étienne Garbugli, *Solving Product: Reveal Gaps, Ignite Growth, and Accelerate Any Tech Product with Customer Research*
 * Richard Rumelt, *Good Strategy Bad Strategy: The Difference and Why It Matters*
-* Jocko Willink & Leif Babin, *Extreme Ownership: How U.S. Navy SEALs Lead and Win*
-* Marshall B. Rosenberg, *Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships*
 * Robert B. Cialdini , *Influence: The Psychology of Persuasion*
-* Cal Newport *So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love*
+* Marshall B. Rosenberg, *Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships*
 * David Allen, *Getting Things Done: The Art of Stress-Free Productivity*
-* Seth Godin, *The Dip: A Little Book That Teaches You When to Quit (and When to Stick)*
+* Ryan Singer, *Shape Up: Stop Running in Circles
+and Ship Work that Matters* (available [free online](https://basecamp.com/shapeup))
+
 
 ## Tangential but useful
 * Joew Coulombe, *Becoming Trader Joe: How I Did Business My Way and Still Beat the Big Guys* 
@@ -61,13 +59,14 @@ and Ship Work that Matters* (available [free online](https://basecamp.com/shapeu
 * Steve Magness, *Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness*
 * Atul Gawande, *The Checklist Manifesto: How to Get Things Right*
 * Clayton M. Christensen, Karen Dillion, *Competing Against Luck: The Story of Innovation and Customer Choice*
+* Seth Godin, *The Dip: A Little Book That Teaches You When to Quit (and When to Stick)*
 
-## Want to Read
+## Antilibrary (Want to Read)
+* Stephen Bungay, *The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results*
+* Scott Berkun, Bryan Zug *Why Design is Hard*
 * Marty Cagan: Inspired, How to Create Tech Products that People Love
 * Eric Nehrlich, *You Have A Choice: Beyond Hard Work To Meaningful Impact*
 * Gary A. Klein, *Sources of Power: How People Make Decisions*
-* Stephen Bungay, *The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results*
-* Scott Berkun, Bryan Zug *Why Design is Hard*
 * Abby Covert, *Stuck? Diagrams Help*
 * Avinash K. Dixit, Barry J. Nalebuff, Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life
 * Peter Drucker, *The Essential Drucker: The Best of Sixty Years of Peter Drucker's Essential Writings on Management*
