@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Evergreen Links
 
 ## Work
@@ -120,5 +124,3 @@ John Jeremiah Sullivan is my favorite essayist, and this is his best piece. A pa
 
 
 The story of how taking our rolodex online turned into a sea of recruiter spam and workfluencer content. Also includes several pieces of inspiration
-
-

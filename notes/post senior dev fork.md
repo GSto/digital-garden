@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Post Senior Dev Fork
 Where do developers go after becoming a senior? 
 

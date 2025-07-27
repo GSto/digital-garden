@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Indie Mindset
 
 An indie mindset is thinking of yourself as an island, regardless of wether or not you currently work for a company. Instead of viewing yourself as part of a company, you view yourself as an "other." A person with an indie mindset never has a full-time job in their mind, instead they have periods where they have one [[whale client]].

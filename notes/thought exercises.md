@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Thought Exercises
 
 Stuck on a problem? These are activities to help get un stuck or spur more creative thought. 
@@ -72,5 +76,3 @@ Evangelized by Tim Ferriss in this article [Fearsetting](https://tim.blog/2017/0
 - What adjectives would you use to describe yourself? 
 - How do others perceive you? 
 - What activities do you enjoy the most?
-
-

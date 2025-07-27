@@ -4,7 +4,7 @@ const softwareEngineering = {
   notes: [
     { note: "engineering management reading"},
     { note: "developers undervalue ease-of-use" },
-    { note: "effective code review practices" },
+    { note: "effective code review practices"},
     { note: "criticisms of hourly billing" },
     { note: "post senior dev fork" },
     { note: "positioning" },

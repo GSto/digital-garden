@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # EffectiveCode Review Practices
 
 ## Resources

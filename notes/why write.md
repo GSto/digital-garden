@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Why Write?
 
 * Writing is, without dispute, the best facilitator for thinking, reading, learning, understanding and generating ideas we have. - [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y)

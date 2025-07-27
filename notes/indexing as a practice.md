@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Indexing as a practice
 
 Indexing is a useful practice for large piles of information. Manually indexing invites us to look for patterns, cull old information, and help us reflect on what's most important.

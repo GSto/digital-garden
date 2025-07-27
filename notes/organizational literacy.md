@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Organizational Literacy
 
 The art and skill of understanding how organizations function and grow. Better organizational literacy makes it easier to understand why you and others are doing what they are doing in an organization.

@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Evergreen Notes
 
 Write notes that last forever. These notes are different from transient notes, i.e. notes you make take about a project or for a short scheduling period. Andy Matuschak has some great [public notes about note-taking](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
@@ -64,4 +68,3 @@ Have an idea or a sentence and are unsure where to go next? Try to think of any 
 
 ### Look for interesting ideas 
 Take the topic and run it through all 24 [[species of interesting ideas]]. Does anything come up? 
-

@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 Coined by [Swyx](https://www.swyx.io/learn-in-public/), the idea that you should learn in public by creating content and sharing what you learn. When you do this, you teach yourself better, as well as helping others. 
 
 Working out in the open helps you connect with like-minded people. Imagine it as working with the garage doors up. 

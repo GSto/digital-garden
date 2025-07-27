@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Antifragility
 
 - Antifragility is defined as anything that loves randomness or uncertainty. Systems and people that gain from disorder are considered antifragile. 

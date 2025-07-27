@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Tech Specs
 Typically the points I try to hit are:
 

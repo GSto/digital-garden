@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Inputs vs. Outputs vs. Outcomes
 
 Inputs are what goes into a project. outputs are what comes out. outcomes are the result of outputs. people tend to over-index on inputs and sometimes outputs, what they should be doing is focusing on outcomes

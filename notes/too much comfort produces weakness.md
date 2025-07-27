@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Too Much Comfort Produces Weakness
 
 ![](/assets/images/wall-e-humans.jpg)

@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # links i share frequently with junior developers 
 
 1. [You are not your job title](https://briancasel.com/you-are-not-your-job-title/) - A lesson that just because you are a frontend engineer, that doesn't mean you can't write or design or do product research. Your goal at the end of the day is to deliver value, not write code. 

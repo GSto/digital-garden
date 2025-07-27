@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Playing for Stakes
 
 Work doesn't count if you aren't putting anything at risk. Advice is meaningless from people who don't have skin in the game. (skin in the game might be a better name for this note). 

@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 Cognitive Biases are an examples of [[heuristics]] based on bad [[mental models]].
 
 ## Certainty Effect
@@ -30,6 +34,3 @@ Cognitive Biases are an examples of [[heuristics]] based on bad [[mental models]
 
 > "We trust people more when we view them as being similar or familiar."
 - **Source:** Never Split The Difference
-
-
-
