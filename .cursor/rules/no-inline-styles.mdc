@@ -1,0 +1,40 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# No Inline Styles Rule
+
+## Description
+Never use inline styles in HTML or markdown files. Always define CSS in a class within a stylesheet and apply the class to the element.
+
+## Trigger
+- When generating or editing HTML or markdown files that require styling.
+
+## Actions
+1. Do not use the `style` attribute directly on any HTML element.
+2. Define all CSS rules in a stylesheet (e.g., `assets/style.css`).
+3. Create a descriptive class name for the styling.
+4. Apply the class to the relevant HTML or markdown element.
+5. If updating existing code, refactor any inline styles into a CSS class and update the element to use the class.
+
+## Example
+**Bad:**
+```html
+<img src="headshot.jpg" style="max-width:320px; margin-bottom:1.5rem;" />
+```
+
+**Good:**
+```html
+<img src="headshot.jpg" class="home-headshot" />
+```
+```css
+.home-headshot {
+  max-width: 320px;
+  margin-bottom: 1.5rem;
+}
+```
+
+## Notes
+- This rule applies to all HTML and markdown files in the project.
+- Helps maintain separation of concerns, improves maintainability, and enables easier style updates.

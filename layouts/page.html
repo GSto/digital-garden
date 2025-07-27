@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<nav class="sans">
+  <ul>
+    <li><a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
+    <li><a href="/newsletter" class="{% if page.url contains '/newsletter' %}active{% endif %}">Newsletter</a></li>
+    <li><a href="/notes" class="{% if page.url contains '/notes' %}active{% endif %}">Notes</a></li>
+  </ul>
+</nav>
+<article>
+  {{content}}
+</article> 
