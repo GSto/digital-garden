@@ -11,7 +11,6 @@ My pipeline of engineering management related reading.
 * Various, *HBR's 10 Must Reads for New Managers*
 
 
-
 ## Frequent recommendations
 * Gary Keller, *The ONE Thing: The Surprisingly Simple Truth About Extraordinary Results*
 * Micheal Bungay Stanier, *The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever*
