@@ -14,7 +14,9 @@ I believe there’s no greater joy in life than putting all of yourself into bui
 
 I believe one way to do this is to embody a spirit of play in everything you do. [Play is serious business](https://www.statetransition.co/p/play-is-serious-business).
 
-Lately I’ve been curious about how AI can be leveraged for writing to enhance human creativity instead of drowning it in slop. (Protip: don’t ask it to be creative for you.)
+Lately I’ve been curious about how AI can be leveraged for writing to enhance human creativity instead of drowning it in slop. 
+
+I've also been curious about the ideas of agency, how we can [stop overthinking and get things done](https://www.statetransition.co/p/my-leeroy-jenkins-year), figure out what we want, and get out of our own way. 
 
 In 2022 I started a blog exploring the navigating changing states of the world. Here are some my best posts:
 
