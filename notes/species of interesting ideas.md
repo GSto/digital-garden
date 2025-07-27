@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Species of Interesting Ideas
 
 From Murray Davis's [That's Interesting](https://proseminarcrossnationalstudies.files.wordpress.com/2009/11/thatsinteresting_1971.pdf)
@@ -46,4 +50,3 @@ You have to take your audience into account. You have to understand the assumpti
     - What seem to be dependent in a casual relation are actually independent. 
 
 **Tags** [[writing]]
-

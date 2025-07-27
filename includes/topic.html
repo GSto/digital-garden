@@ -2,14 +2,20 @@
   <h2>{{ topic.title}}</h2>
   {% for note in topic.notes %}
   {%if note.note %}
+  {% assign noteData = collections.notes | where: "fileSlug", note.note | first %}
+  {% unless noteData.data.disabled %}
   - [[{{note.note}}]]
+  {% endunless %}
   {%endif%}
   {%if note.text %}
   - [{{note.text}}]({{note.url}})
   {%endif%}
 
   {% for subnote in note.children %}
+    {% assign subnoteData = collections.notes | where: "fileSlug", subnote.note | first %}
+    {% unless subnoteData.data.disabled %}
     - [[{{subnote.note}}]]
+    {% endunless %}
   {% endfor %}
   {% endfor %}
   </div>

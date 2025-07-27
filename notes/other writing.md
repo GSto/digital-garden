@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Other Writing
 Some examples of writing I've done for other sites: 
 

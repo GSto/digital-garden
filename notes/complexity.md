@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Complexity
 
 ## Measuring complexity
@@ -22,4 +26,3 @@
   - lack of cohesion of methods
 
 _(Chidamber, S.R.; Kemerer, C.F. IEEE Transactions on Software Engineering Volume 20, Issue 6, Jun 1994 Page(s):476 - 493)_
-

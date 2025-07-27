@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Action produces Information
 #: acting towards a new way of thing > thinking towards a new way of acting
 
@@ -20,4 +24,3 @@ as Richard Pascale observes in [Surfing the Edge of Chaos](https://www.amazon.co
 > " It doesn’t even matter what you do as long as you do something, because that’s my other favourite quote, is “action produces information.” So at a certain point, you got to stop pontificating about this stuff and just try something, anything. You’re going to be embarrassed by the V1 until you go out there and you create. That’s part of the product development process, is just dramatically scaling back kind of the ambition and the feature set and everything to rapidly iterate and prototype these things, but go do anything. The first thing you try is almost guaranteed not to work. So don’t give up, just go try the next thing, and the next thing, and the next thing. That’s the only way that new products and companies ever get created in the world. You got to put a lot of shots on goal to get one to eventually work." 
 >
 > <footer>Scott Armstrong, CEO, Coinbase</footer>
-

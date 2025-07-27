@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Adages
 
 > ## 7-38-55 Rule

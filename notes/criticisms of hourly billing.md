@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Criticisms of Hourly Billing
 
 Not all hours are created equal. Some hours you are more productive than others. Do you bill half-time for hours when you aren't at your best? Do you bill extra when you are in the zone? 

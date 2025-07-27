@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # The Great Internet Game
 A mental model that views the internet as one big game. Probably some mix between an MMO and a Metroidvania.
 
@@ -21,4 +25,3 @@ https://twitter.com/NikMilanovic/status/1390720487328821250
 
 ## Further Reading
 - [The Great Online Game](https://www.notboring.co/p/the-great-online-game)
-

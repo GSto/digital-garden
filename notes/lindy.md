@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 ## Links
   - [The Lindy Newsletter](https://paulskallas.substack.com/) by Paul Skallas
   - Specifically this letter: [Basic Concepts - Lindy](https://paulskallas.substack.com/p/basic-concepts-pt2)

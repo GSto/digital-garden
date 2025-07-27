@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Leverage
 
 ### The Six Types of Leverage

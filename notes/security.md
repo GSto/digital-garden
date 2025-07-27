@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Security
 
 What are some common security holes that could exist in your application, and what can you do to prevent them?

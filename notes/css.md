@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # CSS
 
 various things I pick up along the way.

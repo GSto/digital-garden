@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # The Amateur and The Professional 
 Based on _[Turning Pro](https://www.amazon.com/dp/B0087TUM54/)_ by [Steven Pressfield](https://stevenpressfield.com/)
 

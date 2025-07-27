@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Storytelling
 
 ## What is a Story?

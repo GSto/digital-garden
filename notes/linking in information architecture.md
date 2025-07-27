@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Linking in information architecture 
 
 Linking is the best way to integrate information. 
