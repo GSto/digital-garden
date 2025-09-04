@@ -8,15 +8,19 @@ title: Home
 </p>
 
 ## Hi, I'm Glenn Stovall
-I’m an engineer recently turned engineering manager. I’ve been writing & building online for nearly 15 years.
+I’m a software engineer turned engineering manager. I’ve been writing & building online for 15 years.
 
 I believe there’s no greater joy in life than putting all of yourself into building products that help others. To that end, I’ve been working on a [book on product thinking for engineers](https://www.statetransition.co/p/why-im-writing-a-book-for-engineers).
 
-I believe one way to do this is to embody a spirit of play in everything you do. [Play is serious business](https://www.statetransition.co/p/play-is-serious-business).
+I think you should embody a spirit of play in everything you do. [Play is serious business](https://www.statetransition.co/p/play-is-serious-business).
 
-Lately I’ve been curious about how AI can be leveraged for writing to enhance human creativity instead of drowning it in slop. 
+I practice East Coast kindness over West Coast niceness.
 
-I've also been curious about the ideas of agency, how we can [stop overthinking and get things done](https://www.statetransition.co/p/my-leeroy-jenkins-year), figure out what we want, and get out of our own way. 
+I act knowing there is no need to rush and no time to waste.
+
+Lately, I’m exploring how we can leverage LLMs in writing and coding, getting the best of the advantages without the slop. 
+
+I love to help people [stop overthinking](https://www.statetransition.co/p/my-leeroy-jenkins-year), figure out what we want, and get out of our own way. 
 
 In 2022 I started a blog exploring the navigating changing states of the world. Here are some my best posts:
 
