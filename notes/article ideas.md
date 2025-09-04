@@ -1,3 +1,7 @@
+---
+disabled: true
+---
+
 # Article Ideas
 
 A collection of articles that I may write one day.
