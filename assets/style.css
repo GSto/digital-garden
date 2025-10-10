@@ -117,3 +117,14 @@ article {
   background: white;
 }
 
+/* Dark mode navigation */
+@media (prefers-color-scheme: dark) {
+  nav.sans a {
+    color: #ddd;
+  }
+
+  nav.sans {
+    border-bottom: 1px solid #333;
+  }
+}
+
