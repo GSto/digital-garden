@@ -1,3 +1,13 @@
+const topOfMind = {
+  title: "Top of mind",
+  notes: [
+    { note: "foster passions with rigor" },
+    { note: "information diet" },
+    { note: "trade on day one" },
+    { note: "all plain text everything" },
+  ],
+};
+
 const softwareEngineering = {
   title: "Software engineering",
   description: "the work before, after, above, and below the code editor.",
@@ -194,7 +204,7 @@ const meta = {
 // TODO: refactor this page to use a masonly layout with grid
 module.exports = {
   test: "foo",
-  leftColumn: [softwareEngineering,product, concepts, disorder],
+  leftColumn: [topOfMind, softwareEngineering, product, concepts, disorder],
   centerColumn: [coding, thinking, building, career],
   rightColumn: [writing, communicating, collections, meta],
 };
