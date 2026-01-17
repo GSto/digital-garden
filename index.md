@@ -14,8 +14,6 @@ I believe there’s no greater joy in life than putting all of yourself into bui
 
 I think you should embody a spirit of play in everything you do. [Play is serious business](https://www.statetransition.co/p/play-is-serious-business).
 
-I practice East Coast kindness over West Coast niceness.
-
 I act knowing there is no need to rush and no time to waste.
 
 Lately, I’m exploring how we can leverage LLMs in writing and coding, getting the best of the advantages without the slop. 
