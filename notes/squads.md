@@ -38,6 +38,7 @@ Also from Other Internet, see [[Learning Gardens]], a practice they used for gro
 ## Squad Archetypes
   - Room mates
   - Hype houses
+  - Coworking clubs
   - Mastermind groups
   - DAOs
   - Open source projects
