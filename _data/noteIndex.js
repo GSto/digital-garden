@@ -1,6 +1,8 @@
 const topOfMind = {
   title: "Top of mind",
   notes: [
+    { note: "squads" },
+    { note: "learning gardens"},
     { note: "foster passions with rigor" },
     { note: "information diet" },
     { note: "trade on day one" },
@@ -188,7 +190,7 @@ const concepts = {
     { note: "token economy"},
     { note: "the great internet game"},
     { note: "too much comfort produces weakness" },
-    { note: "squads" },
+
   ],
 };
 
