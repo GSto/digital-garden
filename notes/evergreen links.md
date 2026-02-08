@@ -37,6 +37,11 @@ Prefer to work on things you can show. Prefer to work where people can see you. 
 
 Ultimately, the employers have more control over the manager's time than vice versa, because they can pass on more monkeys, which will become his responsibility. Make sure your subordinates have the initiative to take on problems themselves, instead of passing everything up the chain. Also make sure they have everything they need to take action.
 
+
+### Brian Casel, [You Are Not Your Job Title](https://briancasel.com/you-are-not-your-job-title)
+
+Developers can write. Designers can code. Don't limit yourself to only doing what is part of your role or identity.
+
 ## Creativity
 
 ### Merlin Mann, [Making the clackity noise](https://www.kungfugrippe.com/post/169873399/clackity-noise)
