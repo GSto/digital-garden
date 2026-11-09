@@ -2,8 +2,8 @@
 
 ## 1. Baseline and scaffold
 
-- [ ] 1.1 Build the current `main` into `<scratchpad>/tufte-baseline/_site` and screenshot the `storytelling`, `McLeod Hierarchy` and `evergreen memes` notes in light mode. Verify that the folder holds 142 written pages and the 3 PNGs exist.
-- [ ] 1.2 Create `lib/tufte-markdown/` with:
+- [x] 1.1 Build the current `main` into `<scratchpad>/tufte-baseline/_site` and screenshot the `storytelling`, `McLeod Hierarchy` and `evergreen memes` notes in light mode. Verify that the folder holds 142 written pages and the 3 PNGs exist.
+- [x] 1.2 Create `lib/tufte-markdown/` with:
   - `package.json`: private; test script `node --test test/`; dependencies `markdown-it-footnote` and `markdown-it-attrs`; peer dependency `markdown-it`.
   - `index.js`: registers footnote and attrs.
   - An empty `README.md`.
@@ -13,11 +13,11 @@
 
 ## 2. Sections and subtitles move
 
-- [ ] 2.1 Move `markdownSectionWrapper.js` and `markdownSubtitle.js` into the module as `sections.js` and `subtitle.js`, unchanged. Register them from `index.js`, add tests for h2 sectioning and `#:` subtitles, and document both in the README. Verify that `npm test` passes.
+- [x] 2.1 Move `markdownSectionWrapper.js` and `markdownSubtitle.js` into the module as `sections.js` and `subtitle.js`, unchanged. Register them from `index.js`, add tests for h2 sectioning and `#:` subtitles, and document both in the README. Verify that `npm test` passes.
 
 ## 3. Sidenotes and margin notes
 
-- [ ] 3.1 Implement `sidenotes.js` (the core rule after `footnote_tail`, `tufte_note` rendering and per-render ids). Add tests for every scenario in the `sidenotes` spec except the small-screen one:
+- [x] 3.1 Implement `sidenotes.js` (the core rule after `footnote_tail`, `tufte_note` rendering and per-render ids). Add tests for every scenario in the `sidenotes` spec except the small-screen one:
   - footnote to sidenote, with no footnote block
   - reading-order DOM order
   - inline `^[ ]` containing a link
@@ -26,7 +26,7 @@
   - two renders give identical output
 
   Verify that `npm test` passes.
-- [ ] 3.2 Document sidenote and margin note syntax in the module README, with one example each. Verify that every example in the README renders through the plugin as its documented output, using a test that reads the README code blocks.
+- [x] 3.2 Document sidenote and margin note syntax in the module README, with one example each. Verify that every example in the README renders through the plugin as its documented output, using a test that reads the README code blocks.
 
 ## 4. Epigraphs
 

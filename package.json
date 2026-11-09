@@ -5,7 +5,8 @@
   "scripts": {
     "start": "eleventy --serve",
     "compile": "eleventy",
-    "random": "node _scripts/random.js"
+    "random": "node _scripts/random.js",
+    "test": "npm test --prefix lib/tufte-markdown"
   },
   "repository": {
     "type": "git",
