@@ -67,8 +67,8 @@
   - Full-width and margin figures sit where the spec says.
   - The quilt is a grid with captions that reflows at 375px.
   - The page doesn't scroll horizontally.
-- [ ] 7.4 Compare the 3 image-heavy notes against the 1.1 baseline screenshots. Verify that the image sizes and positions match, or that any difference is listed in the PR.
-- [ ] 7.5 Commit, push the `tufte-markdown` branch and open a PR against `main`. Verify that `gh pr view` shows it open and the Netlify deploy preview succeeds.
+- [x] 7.4 Compare the 3 image-heavy notes against the 1.1 baseline screenshots. Verify that the image sizes and positions match, or that any difference is listed in the PR.
+- [x] 7.5 Commit, push the `tufte-markdown` branch and open a PR against `main`. Verify that `gh pr view` shows it open and the Netlify deploy preview succeeds.
 
 ## Workflow follow-up
 

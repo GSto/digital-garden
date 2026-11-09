@@ -81,7 +81,7 @@ An image alone in its paragraph becomes a figure. Its title (the quoted text aft
 <figure><img src="/p.png" alt="Pyramid"><figcaption>The McLeod hierarchy</figcaption></figure>
 ```
 
-Add `{.fullwidth}` to span the text and the margin, with the caption below:
+Add `{.fullwidth}` to span the text and the margin, with the caption below. The image is stretched to the full width, so use a source image at least 1000px wide:
 
 ```markdown
 ![Chart](/chart.png "Exports by year"){.fullwidth}
