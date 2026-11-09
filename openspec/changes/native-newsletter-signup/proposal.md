@@ -2,23 +2,23 @@
 
 ## Why
 
-The State Transition signup is a Substack iframe served from another origin, so it keeps Substack's fonts, colours, and button, and it stays light when the site is in dark mode. Site CSS cannot reach inside a cross-origin frame, so matching the site means replacing the iframe with a form the site owns.
+The State Transition signup is a Substack iframe served from another origin, so it keeps Substack's fonts, colours, and button, and it stays light when the site is in dark mode. Site CSS cannot reach inside a cross-origin frame, so matching the site means replacing the iframe with markup the site owns.
+
+A native email form was tested first and rejected: a direct post to Substack's undocumented signup endpoint returned a redirect, but the test address never reached the subscriber list. A form built on it could tell readers they had subscribed when they had not.
 
 ## What Changes
 
-- Replace all three State Transition iframes (`index.md`, `newsletter.md`, `includes/substack.html`) with one native HTML email signup form, rendered from a single shared include.
-- Style the form with the site's fonts and colours, in light and dark mode, using classes in `assets/style.css`.
-- Submit the form to the State Transition publication's existing signup endpoint, `https://www.statetransition.co/api/v1/free`. Subscribers stay on the same list.
-- Show Substack's terms notice next to the form, and a direct link to the Substack subscribe page as a fallback.
+- Replace all three State Transition iframes (`index.md`, `newsletter.md`, `includes/substack.html`) with one site-styled subscribe link, rendered from a single shared include.
+- Style the link with the site's fonts and colours, in light and dark mode, using classes in `assets/style.css`.
+- Send readers to the Substack subscribe page, `https://www.statetransition.co/subscribe`, where they enter their email. Subscribers stay on the same list.
 - Remove the two inline iframe styles and the unused `.substack-iframe` class.
-- Remove the "Get the latest here:" line from `index.md`, because the form's own label replaces it.
-- **Gate:** the endpoint is undocumented and the embed page carries captcha configuration. A real test signup, approved by Glenn, must succeed before any page changes.
+- Remove the "Get the latest here:" line from `index.md`, because the include's own label replaces it.
 
 ## Capabilities
 
 ### New Capabilities
 
-- `newsletter-signup`: how readers subscribe to State Transition from the site, including where the form appears, how it submits, how it looks in each colour scheme, and what it discloses.
+- `newsletter-signup`: how readers reach the State Transition subscribe page from the site, including where the link appears, where it goes, and how it looks in each colour scheme.
 
 ### Modified Capabilities
 
@@ -28,6 +28,6 @@ None. `openspec/specs/` has no existing capabilities.
 
 - **Templates and content:** `includes/substack.html`, `index.md`, `newsletter.md`. `layouts/note.html` keeps its existing include.
 - **Styles:** `assets/style.css`.
-- **External dependency:** a direct post to an undocumented Substack endpoint replaces the supported embed. Substack can change or challenge it without notice, and the fallback link is the mitigation.
-- **Behaviour:** Substack's own embed scripts and its confirmation UI no longer load on these pages. Readers see Substack's post-submit response instead.
+- **External dependency:** Substack's embed is replaced by a link to its public subscribe page. The site no longer loads Substack's embed scripts on these pages.
+- **Behaviour:** readers take one extra step, because they enter their email on Substack rather than on the page they are reading. Signup conversion may drop as a result.
 - **Dependencies:** none added. The site stays static, with no new JavaScript.

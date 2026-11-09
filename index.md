@@ -26,6 +26,4 @@ In 2022 I started a blog exploring the navigating changing states of the world. 
 - [How to Improve your product intuition](https://www.statetransition.co/p/how-to-improve-your-product-intuition) - A sample chapter from *System is As System Does*. Learn how to build stronger product instincts through heuristics, pattern matching, and practice.
 - [The Uncertainty Tailspin](https://www.statetransition.co/p/the-uncertainty-tailspin) - Uncertainty triggers a threat response, but if we learn to manage it, we can use it to discover new opportunities.
 
-Get the latest here:
-
-<iframe src="https://www.statetransition.co/embed" width="480" height="320" style="border:0px solid #fffff8; background:#fffff8;" frameborder="0" scrolling="no"></iframe>
+{% include substack.html %}
