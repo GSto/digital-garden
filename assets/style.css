@@ -6,6 +6,10 @@
   --tufte-brown: #4c4c4c;
 }
 
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+
 .red  {
   color: var(--tufte-red);
 }
