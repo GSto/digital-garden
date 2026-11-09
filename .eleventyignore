@@ -5,3 +5,5 @@ _drafts/
 CLAUDE.md
 specs/
 openspec/
+.claude/
+.cursor/
