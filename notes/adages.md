@@ -44,7 +44,9 @@ disabled: true
 
 > ## Cobra Effect
 > 
-> The cobra effect occurs when incentives designed to solve a problem end up rewarding people for making it worse. The term is used to illustrate how incorrect stimulation in economics and politics can cause unintended consequences. It is also known as the perverse incentive. >[https://en.wikipedia.org/wiki/Cobra_effect]
+> The cobra effect occurs when incentives designed to solve a problem end up rewarding people for making it worse. The term is used to illustrate how incorrect stimulation in economics and politics can cause unintended consequences. It is also known as the perverse incentive.[^margin-cobra]
+
+[^margin-cobra]: https://en.wikipedia.org/wiki/Cobra_effect
 
 > ## Conway's Law
 >
