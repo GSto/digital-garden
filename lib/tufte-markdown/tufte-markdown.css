@@ -1,0 +1,36 @@
+figure.quilt {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  gap: 1.5rem;
+  align-items: start;
+  max-width: 55%;
+}
+
+figure.quilt.fullwidth {
+  max-width: 90%;
+}
+
+figure.quilt > figure {
+  max-width: 100%;
+  margin: 0;
+}
+
+figure.quilt img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+figure.quilt figcaption {
+  float: none;
+  max-width: none;
+  margin: 0.5rem 0 0;
+}
+
+@media (max-width: 760px) {
+  figure.quilt,
+  figure.quilt.fullwidth {
+    max-width: 100%;
+    grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  }
+}

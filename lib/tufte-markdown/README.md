@@ -103,6 +103,26 @@ Add `{.margin}` to put the figure in the margin beside the next paragraph. On na
 
 Without a title, a figure has no caption. Any other classes in the braces stay on the `<img>`.
 
+## Image quilts
+
+A fenced block named `quilt` lays its images out as a grid, each captioned with its own title. Write one image per line; other lines are ignored, and a quilt with no images renders nothing. Use `quilt fullwidth` to span the margin too. On narrow screens the grid drops to fewer columns.
+
+````markdown
+```quilt
+![A](/a.png "Before")
+![B](/b.png "After")
+```
+````
+
+```html
+<figure class="quilt">
+<figure><img src="/a.png" alt="A"><figcaption>Before</figcaption></figure>
+<figure><img src="/b.png" alt="B"><figcaption>After</figcaption></figure>
+</figure>
+```
+
+Tufte CSS has no quilt styles, so this module ships `tufte-markdown.css`. Load it after `tufte.css`.
+
 ## Sections
 
 Each `##` heading starts a `<section>` that runs until the next `##` heading. Tufte CSS uses sections to size the text column and place notes in the margin. Content before the first `##` heading is not wrapped.

@@ -35,7 +35,7 @@
 ## 5. Figures and quilts
 
 - [x] 5.1 Implement `figures.js` (regular, `{.fullwidth}` and `{.margin}` figures, title as caption, inline images untouched). Add tests for every `figures` scenario that doesn't need a browser, and document the syntax in the README. Verify that `npm test` passes.
-- [ ] 5.2 Implement `quilts.js` and `tufte-markdown.css`: grid, full-width variant, caption reset, and a narrow-screen rule. Add tests for a three-image quilt, `quilt fullwidth`, stray text, an empty quilt and a non-quilt fence. Document the syntax in the README. Verify that `npm test` passes.
+- [x] 5.2 Implement `quilts.js` and `tufte-markdown.css`: grid, full-width variant, caption reset, and a narrow-screen rule. Add tests for a three-image quilt, `quilt fullwidth`, stray text, an empty quilt and a non-quilt fence. Document the syntax in the README. Verify that `npm test` passes.
 
 ## 6. Site wiring and content
 
