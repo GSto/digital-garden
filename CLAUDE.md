@@ -29,7 +29,7 @@ npm run random      # Run random note script
 
 ### Key Systems
 
-**Wiki-style Linking** (.eleventy.js:19-28)
+**Wiki-style Linking** (.eleventy.js:13-23)
 - Double-bracket syntax `[[note-name]]` or `[[note-name|display text]]` creates internal links
 - Links automatically point to `/notes/{slug}/`
 - Handled by custom markdown-it plugin
@@ -47,11 +47,17 @@ npm run random      # Run random note script
 - Notes can have nested children for hierarchical organization
 - To add/remove notes from homepage or reorganize topics, edit this file
 
-**Custom Markdown Plugins** (lib/)
-- `markdownSectionWrapper.js` - Wraps sections for styling
-- `markdownSidenote.js` - Converts syntax to Tufte-style sidenotes
-- `markdownSubtitle.js` - Handles subtitle formatting
-- `markdown-it-footnote` - Footnote support (Tufte-style)
+**Tufte Markdown** (lib/tufte-markdown/)
+- A self-contained markdown-it plugin, registered with one `.use()` in `.eleventy.js`. It is kept free of Eleventy and site imports so it can be extracted as an npm package.
+- Syntax reference: `lib/tufte-markdown/README.md`
+  - Sidenotes use footnote syntax `[^1]` or `^[inline]`, and labels starting with `margin` make margin notes.
+  - A blockquote's last line starting with `--`, `—` or `- ` becomes its epigraph citation.
+  - A solitary image becomes a figure, with its title as the caption. Use `{.fullwidth}` or `{.margin}` for those variants, and a ```` ```quilt ```` fence for image quilts.
+  - It also provides h2 sections and `#:` subtitles.
+- The plugin registers markdown-it-footnote and markdown-it-attrs itself.
+- Run `npm test` for its tests; the README examples are tested too.
+- Quilt styles are in `lib/tufte-markdown/tufte-markdown.css`, which is copied to `/assets/tufte-markdown.css`.
+- `lib/` is in `.eleventyignore` so the module README is not built as a page.
 
 ## Styling Guidelines
 
@@ -60,7 +66,7 @@ npm run random      # Run random note script
 **Dark Mode:** Both `tufte.css` and `style.css` have `@media (prefers-color-scheme: dark)` blocks. When adding styles that involve colors, ensure dark mode is addressed.
 
 **Tufte CSS Customizations:**
-- Blockquotes automatically wrapped in `<div class="epigraph">` (.eleventy.js:34-40)
+- Blockquotes automatically wrapped in `<div class="epigraph">` (lib/tufte-markdown/epigraphs.js)
 - Uses specialized classes: `.sidenote`, `.marginnote`, `.fullwidth`, `.newthought`
 
 ## Note Style Guide

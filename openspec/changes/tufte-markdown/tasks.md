@@ -46,7 +46,7 @@
   - Update the "Future development" list.
 
   Show Glenn the full diff before committing, because this is his note. Verify that the note builds and every example renders.
-- [ ] 6.4 Update CLAUDE.md's "Custom Markdown Plugins" section to point at `lib/tufte-markdown/` and its README. Verify that every path it names exists.
+- [x] 6.4 Update CLAUDE.md's "Custom Markdown Plugins" section to point at `lib/tufte-markdown/` and its README. Verify that every path it names exists.
 
 ## 7. Integration checks
 
