@@ -30,11 +30,11 @@
 
 ## 4. Epigraphs
 
-- [ ] 4.1 Implement `epigraphs.js` (the epigraph wrapper and citation extraction for the three dash forms). Add tests for every `epigraphs` spec scenario: `--`, `—`, `- ` as a list, Markdown in a citation, a quoted two-item list, `<footer>` HTML, and a dash-only quote. Document the syntax in the README. Verify that `npm test` passes.
+- [x] 4.1 Implement `epigraphs.js` (the epigraph wrapper and citation extraction for the three dash forms). Add tests for every `epigraphs` spec scenario: `--`, `—`, `- ` as a list, Markdown in a citation, a quoted two-item list, `<footer>` HTML, and a dash-only quote. Document the syntax in the README. Verify that `npm test` passes.
 
 ## 5. Figures and quilts
 
-- [ ] 5.1 Implement `figures.js` (regular, `{.fullwidth}` and `{.margin}` figures, title as caption, inline images untouched). Add tests for every `figures` scenario that doesn't need a browser, and document the syntax in the README. Verify that `npm test` passes.
+- [x] 5.1 Implement `figures.js` (regular, `{.fullwidth}` and `{.margin}` figures, title as caption, inline images untouched). Add tests for every `figures` scenario that doesn't need a browser, and document the syntax in the README. Verify that `npm test` passes.
 - [ ] 5.2 Implement `quilts.js` and `tufte-markdown.css`: grid, full-width variant, caption reset, and a narrow-screen rule. Add tests for a three-image quilt, `quilt fullwidth`, stray text, an empty quilt and a non-quilt fence. Document the syntax in the README. Verify that `npm test` passes.
 
 ## 6. Site wiring and content

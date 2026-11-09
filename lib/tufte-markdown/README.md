@@ -52,6 +52,57 @@ Tools shape thinking.[^margin-tools]
 
 On narrow screens, notes are hidden behind their number or a ⊕ symbol; tapping it shows the note.
 
+## Epigraphs
+
+Every blockquote renders as a Tufte epigraph. To credit the quote, end it with a line starting with `--`, `—` or `- `; that line becomes the citation, with Markdown rendered.
+
+```markdown
+> When you squeeze an orange, orange juice comes out.
+> -- Wayne W. Dyer
+```
+
+```html
+<div class="epigraph"><blockquote><p>When you squeeze an orange, orange juice comes out.</p>
+<footer>Wayne W. Dyer</footer>
+</blockquote></div>
+```
+
+Only the last line counts. A quoted list of two or more `- ` items stays a list, and a quote that is nothing but a dash line keeps its text. A hand-written `<footer>` element also works as a citation.
+
+## Figures
+
+An image alone in its paragraph becomes a figure. Its title (the quoted text after the URL) becomes the caption, and its alt text stays on the image. Images that share a paragraph with text, sit inside a link, or sit in a list item stay inline.
+
+```markdown
+![Pyramid](/p.png "The McLeod hierarchy")
+```
+
+```html
+<figure><img src="/p.png" alt="Pyramid"><figcaption>The McLeod hierarchy</figcaption></figure>
+```
+
+Add `{.fullwidth}` to span the text and the margin, with the caption below:
+
+```markdown
+![Chart](/chart.png "Exports by year"){.fullwidth}
+```
+
+```html
+<figure class="fullwidth"><img src="/chart.png" alt="Chart"><figcaption>Exports by year</figcaption></figure>
+```
+
+Add `{.margin}` to put the figure in the margin beside the next paragraph. On narrow screens it is hidden behind a ⊕ toggle.
+
+```markdown
+![Spark](/spark.png "A sparkline"){.margin}
+```
+
+```html
+<p><label for="mf-1" class="margin-toggle">&#8853;</label><input type="checkbox" id="mf-1" class="margin-toggle"/><span class="marginnote"><img src="/spark.png" alt="Spark"><br>A sparkline</span></p>
+```
+
+Without a title, a figure has no caption. Any other classes in the braces stay on the `<img>`.
+
 ## Sections
 
 Each `##` heading starts a `<section>` that runs until the next `##` heading. Tufte CSS uses sections to size the text column and place notes in the margin. Content before the first `##` heading is not wrapped.
