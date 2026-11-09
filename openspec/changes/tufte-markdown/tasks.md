@@ -41,7 +41,7 @@
 
 - [x] 6.1 In `.eleventy.js`, replace the footnote, attrs, sidenote, section and subtitle `.use()` calls and the blockquote overrides with `.use(require("./lib/tufte-markdown"))`. Passthrough-copy the CSS to `/assets/tufte-markdown.css`, link it in `includes/head.html` between `tufte.css` and `style.css`, and delete the three old `lib/markdown*.js` files. Verify with `npm run compile`, which must write 142 pages with no errors, and `grep -rn "markdownSidenote\|markdownSectionWrapper\|markdownSubtitle" .eleventy.js lib`, which must return nothing.
 - [x] 6.2 Convert the `>[ ]` margin note in `notes/adages.md:47` to `[^margin-cobra]` with a definition. Verify that `grep -n '>\[' notes/*.md` shows matches only inside code fences in `tufte integration.md`.
-- [ ] 6.3 Rewrite the syntax sections of `notes/tufte integration.md`:
+- [x] 6.3 Rewrite the syntax sections of `notes/tufte integration.md`:
   - Sidenotes, margin notes, epigraph citations, figures, a margin figure and a quilt, using existing `assets/images`.
   - Update the "Future development" list.
 
