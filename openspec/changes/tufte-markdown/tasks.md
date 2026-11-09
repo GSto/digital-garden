@@ -50,7 +50,7 @@
 
 ## 7. Integration checks
 
-- [ ] 7.1 Diff the new `_site` against the baseline from 1.1. Verify that every changed page is explained by one of these:
+- [x] 7.1 Diff the new `_site` against the baseline from 1.1. Verify that every changed page is explained by one of these:
   - figures
   - the adages margin note
   - the `effectual reasoning` citation
@@ -58,8 +58,8 @@
   - the CSS link in the head
 
   Verify too that section and subtitle markup is unchanged on a note with h2s and `#:`.
-- [ ] 7.2 Build twice and verify with `diff -r` that the two `_site` folders are byte-identical.
-- [ ] 7.3 In headless Chrome, at 1280px and 375px wide, in light and dark mode, load `tufte integration`, `adages` and `effectual reasoning`. Verify the following and save screenshots:
+- [x] 7.2 Build twice and verify with `diff -r` that the two `_site` folders are byte-identical.
+- [x] 7.3 In headless Chrome, at 1280px and 375px wide, in light and dark mode, load `tufte integration`, `adages` and `effectual reasoning`. Verify the following and save screenshots:
   - Sidenote numbers count 1, 2, 3 in order.
   - Margin notes have no number.
   - Number and ⊕ toggles reveal notes at 375px.
