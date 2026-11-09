@@ -30,8 +30,8 @@
 ## Risks / Trade-offs
 
 - [Visitors on Android, Linux, or Windows without Office do not have Gill Sans] → they get Calibri or the system sans-serif. The spec covers this by requiring a sans-serif fallback, not Gill Sans itself.
-- [Italic h2 and h3 headings may use a synthesised italic if a system lacks Gill Sans Italic] → this was accepted; macOS ships Gill Sans Italic.
-- [Gill Sans may make the old-style figures in sidenote numbers look different] → it was checked in the screenshots during verification.
+- [Italic h2 and h3 headings may use a synthesised italic if a system lacks Gill Sans Italic] → accepted; macOS ships Gill Sans Italic.
+- [Gill Sans may make the old-style figures in sidenote numbers look different] → check this in the screenshots during verification.
 
 ## Migration Plan
 
