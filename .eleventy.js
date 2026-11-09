@@ -1,6 +1,4 @@
-const {sectionWrapperPlugin} = require('./lib/markdownSectionWrapper.js');
-const {sidenotePlugin} = require('./lib/markdownSidenote.js');
-const {subtitlePlugin} = require('./lib/markdownSubtitle.js');
+const tufteMarkdown = require('./lib/tufte-markdown');
 
 module.exports = function (eleventyConfig) {
   const markdownIt = require("markdown-it");
@@ -10,11 +8,7 @@ module.exports = function (eleventyConfig) {
   };
 
   const md = markdownIt(markdownItOptions)
-    .use(require("markdown-it-footnote"))
-    .use(require("markdown-it-attrs"))
-    .use(sectionWrapperPlugin)
-    .use(sidenotePlugin)
-    .use(subtitlePlugin)
+    .use(tufteMarkdown)
     .use(function (md) {
       // Recognize Mediawiki links ([[text]])
       md.linkify.add("[[", {
@@ -27,18 +21,6 @@ module.exports = function (eleventyConfig) {
         },
       });
     });
-
-    // Tufte.css customizations
-
-    // wrap blockquotes in an epigraph div
-    md.renderer.rules.blockquote_open = function(tokens, idx, options, env, self) {
-      return '<div class="epigraph"><blockquote>';
-    };
-  
-    md.renderer.rules.blockquote_close = function(tokens, idx, options, env, self) {
-      return '</blockquote></div>';
-    };
-  
 
     eleventyConfig.setLibrary("md", md);
 
@@ -57,6 +39,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy({ "lib/tufte-markdown/tufte-markdown.css": "assets/tufte-markdown.css" });
   eleventyConfig.addPassthroughCopy("library");
 
   // backwards compatibility. Eleventy 1.0.0 changed the default from false -> true

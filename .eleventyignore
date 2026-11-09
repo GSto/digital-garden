@@ -7,3 +7,4 @@ specs/
 openspec/
 .claude/
 .cursor/
+lib/
