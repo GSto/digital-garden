@@ -7,7 +7,6 @@ A starter site for building a [mind garden](https://www.mentalnodes.com/a-garden
 ## :house: About
 - Double-bracket links (the ones roam uses)
 - Displays backlinks
-- hovercards for backlinks
 - _searchbar (not yet, see [#11](https://github.com/binyamin/eleventy-garden/issues/11))_
 
 ### Related

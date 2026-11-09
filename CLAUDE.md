@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a personal digital garden built with [Eleventy (11ty)](https://www.11ty.dev/), featuring Roam-style double-bracket links, backlinks, and hover cards. It uses [Tufte CSS](https://edwardtufte.github.io/tufte-css/) for typography and styling, which emphasizes readable typography and sidenotes.
+This is a personal digital garden built with [Eleventy (11ty)](https://www.11ty.dev/), featuring Roam-style double-bracket links and backlinks. It uses [Tufte CSS](https://edwardtufte.github.io/tufte-css/) for typography and styling, which emphasizes readable typography and sidenotes.
 
 ## Development Commands
 
@@ -34,10 +34,11 @@ npm run random      # Run random note script
 - Links automatically point to `/notes/{slug}/`
 - Handled by custom markdown-it plugin
 
-**Backlinks System** (_data/noteIndex.js, includes/backlinks.html)
+**Backlinks System** (notes/notes.11tydata.js, includes/backlinks.html)
 - Tracks bidirectional links between notes
 - Uses `getOutboundLinks()` in lib/notes.js to parse wiki-links from content
-- Backlinks appear at bottom of each note
+- Backlinks appear at bottom of each note that at least one other note links to
+- A `preview` field is computed for each backlink but never displayed; there are no hover cards
 
 **Note Organization and Homepage** (_data/noteIndex.js)
 - **Controls the primary note index page (homepage)**
