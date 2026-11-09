@@ -21,7 +21,7 @@ module.exports = function (eleventyConfig) {
         validate: /^\s?([^\[\]\|\n\r]+)(\|[^\[\]\|\n\r]+)?\s?\]\]/,
         normalize: (match) => {
           const parts = match.raw.slice(2, -2).split("|");
-          parts[0] = parts[0].replace(/.(md|markdown)\s?$/i, "");
+          parts[0] = parts[0].replace(/\.(md|markdown)\s?$/i, "");
           match.text = (parts[1] || parts[0]).trim();
           match.url = `/notes/${parts[0].trim()}/`;
         },
