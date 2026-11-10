@@ -19,13 +19,13 @@ Site constraints: Eleventy 1.0, Liquid with `dynamicPartials: false`, Node 26 (g
 
 **Goals:**
 - One command, few requests: about 11 API calls for the whole archive, plus one call per image.
-- Deterministic output, so a no-op re-sync produces an empty `git diff`.
+- Incremental writes: a re-sync touches only files whose content changed, so a no-op run writes nothing and produces an empty `git diff`.
 - Conversion logic that is unit-testable without the network.
 
 **Non-Goals:**
 - Scheduled or CI-triggered sync. The sync runs by hand.
 - Comments, likes, restacks, podcast or audio content.
-- Per-blogchain or per-type listing pages, RSS for the blog, pagination of `/blog/`.
+- Per-blogchain or per-type listing pages, per-blogchain feeds, pagination of `/blog/`.
 - Hand-editing synced posts. Substack stays the source of truth; any local edit is overwritten on the next sync.
 
 ## Decisions
@@ -83,9 +83,20 @@ Strings are written with `JSON.stringify`, which is valid YAML, so titles with c
 
 Each `substackcdn.com/image/fetch/…/<encoded URL>` decodes to `https://substack-post-media.s3.amazonaws.com/public/images/<uuid>_<w>x<h>.<ext>`. Download that original URL and save it as `<uuid>_<w>x<h>.<ext>`. The name is stable across runs, so a re-sync skips images already on disk and produces no diff. An image URL that does not decode this way falls back to downloading the `src` and naming it by a short SHA-256 of the URL. The post's `cover_image` goes through the same path, so a cover that also appears in the body is stored once.
 
-### 7. Stage, validate, then swap
+### 7. Build, validate, then apply only the diff
 
-Build every Markdown file and download every image into a staging directory under the OS temp dir. Only after every post converts, every section maps, and every image downloads, replace `blog/*.md` and `assets/blog/` with the staged copies (keeping `blog/blog.11tydata.js`). Any error before the swap leaves the repo untouched and exits non-zero. Removal of posts deleted upstream falls out of the swap.
+The run has two phases.
+
+1. **Build.** Fetch all posts, convert each to its Markdown string in memory, and resolve every image to its target path. Images not already on disk download into a staging directory under the OS temp dir. Nothing in the repo is touched in this phase.
+2. **Apply.** Only after every post converts, every section maps, and every image is on disk or staged:
+   - Compare each generated Markdown string byte for byte with `blog/<slug>.md`. Write the file only if it is missing or differs.
+   - Move staged images into `assets/blog/<slug>/`.
+   - Delete `blog/*.md` files (never `blog/blog.11tydata.js`) and `assets/blog/` files that the build did not produce.
+   - Write each file to a temp name in the same directory, then rename it into place, so a crash cannot leave a half-written post.
+
+Each file falls into one of four groups: new, updated, unchanged, or removed. The summary reports those counts.
+
+The sync still fetches and converts every post on each run (about 11 API calls). *Alternative:* skip posts whose Substack `updated_at` has not moved. Rejected: a change to the conversion rules must re-render old posts too, and comparing the output already avoids needless writes at negligible cost.
 
 ### 8. Code location and tests
 
@@ -94,10 +105,21 @@ Sync code lives in `_scripts/substack-sync/`: `fetch.js` (API paging and retries
 ### 9. Templates
 
 1. `layouts/post.html` (layout `page.html`): title, subtitle, a metadata line with date, post type and blogchains, a "Read on State Transition" link, the content, then `{% include substack.html %}`.
-2. `includes/head.html`: when `substackUrl` is set, use it for `<link rel="canonical">`; otherwise keep the current value. Treat `type == "post"` as `og:type` article.
-3. `blog.md`: a `<ul class="post-list">` over `collections.posts`. Each `<li class="post-entry">` is a two-column flex row: a text block (title link, subtitle, date) that grows, and an optional cover thumbnail link with a fixed width and `aspect-ratio` plus `object-fit: cover`, so mixed image sizes line up as on the Substack archive. At narrow widths the thumbnail shrinks rather than wrapping below the text. Entries are separated by a thin rule in the theme's border colour. Plain HTML in the Markdown file, no client JavaScript.
+2. `includes/head.html`: when `substackUrl` is set, use it for `<link rel="canonical">`; otherwise keep the current value. Treat `type == "post"` as `og:type` article. Add `<link rel="alternate" type="application/rss+xml" title="Glenn Stovall: Blog" href="/blog/feed.xml">` on every page.
+3. `blog.md`: a `<ul class="post-list">` over `collections.posts`. Each `<li class="post-entry">` is a two-column flex row: a text block (title link, subtitle, date) that grows, and an optional cover thumbnail link with a fixed width and `aspect-ratio` plus `object-fit: cover`, so mixed image sizes line up as on the Substack archive. At narrow widths the thumbnail shrinks rather than wrapping below the text. Entries are separated by a thin rule in the theme's border colour. Plain HTML in the Markdown file, no client JavaScript. A small "RSS" link to `/blog/feed.xml` sits under the page heading.
 4. `layouts/page.html`: insert `<li><a href="/blog/" …>Blog</a></li>` between Home and Newsletter, active when `page.url contains '/blog'`.
 5. `assets/style.css`: classes for the post metadata line and the index entries, with a dark mode block, and `max-width: 100%` for post images if tufte.css does not already cover it.
+
+### 10. RSS feed with the Eleventy RSS plugin
+
+Add `@11ty/eleventy-plugin-rss` 1.x (the line that supports Eleventy 1.0) as a dev dependency and register it in `.eleventy.js`. A root-level `blog-feed.liquid` with `permalink: /blog/feed.xml` loops over `collections.posts` and writes RSS 2.0:
+
+1. Channel: site title, `site.baseurl + "/blog/"`, `site.desc`, `lastBuildDate` from the newest post's `date`.
+2. Item: `title`, `link` and `guid` set to `site.baseurl + post.url`, `pubDate` via the plugin's `dateToRfc822`, and `description` holding `post.templateContent | htmlToAbsoluteUrls: absolutePostUrl` inside CDATA.
+
+Feed item content is the rendered HTML, so sidenotes show as their inline markup. Feed readers drop the Tufte CSS, and a sidenote then reads as a parenthetical, which is acceptable.
+
+*Alternative:* hand-roll the XML with no plugin. Rejected: RFC 822 dates and absolute URL rewriting are the error-prone parts, and the plugin is Eleventy's own.
 
 ## Risks / Trade-offs
 
@@ -105,7 +127,8 @@ Sync code lives in `_scripts/substack-sync/`: `fetch.js` (API paging and retries
 - [Rate limiting on image downloads] → Images come from S3, not the Substack API, and a re-sync skips images already on disk. Retries with backoff cover the first full sync.
 - [Turndown misses an unfamiliar Substack element] → Unknown elements fall through to Turndown's defaults, which keep their text. The integration tasks include a visual pass over posts that use each embed type.
 - [Repo size grows by the image set] → 111 images at web sizes, a few tens of MB at most. Acceptable for a static site; revisit if it grows past that.
-- [Hand edits to synced posts are lost on re-sync] → Documented in the sync command's README section. Fix content on Substack, then re-sync.
+- [Hand edits to synced posts are lost on re-sync] → A hand-edited file differs from the generated content, so the incremental sync rewrites it. Documented in the sync command's README section. Fix content on Substack, then re-sync.
+- [Full-content feed grows large, roughly 1–2 MB at 78 posts] → Acceptable for feed readers today. If it grows, cap the feed to the newest N posts; that changes only the feed template.
 - [Duplicate content in search] → Canonical points at Substack (Decision 9.2), per Glenn's choice.
 
 ## Migration Plan

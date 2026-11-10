@@ -57,6 +57,32 @@ Each `/blog/` entry SHALL follow the main column of the Substack archive page: t
 - **WHEN** a reader views `/blog/` at 375 pixels wide
 - **THEN** each cover image stays to the right of its text at a smaller size, and the page does not scroll horizontally
 
+### Requirement: RSS feed
+The site SHALL serve a valid RSS 2.0 feed at `/blog/feed.xml` with one item per synced post, newest first. Each item SHALL carry the title, publish date, full post content, and a link to the post's page on glennstovall.com.
+
+#### Scenario: Feed contents
+- **WHEN** a feed reader fetches `/blog/feed.xml`
+- **THEN** it receives one item per synced post, newest first, each with title, publish date, full content, and a `https://www.glennstovall.com/blog/<slug>/` link
+
+#### Scenario: Absolute URLs in content
+- **WHEN** a feed item's content contains a link or image with a site-relative path
+- **THEN** the feed writes it as an absolute `https://www.glennstovall.com` URL
+
+#### Scenario: Valid XML
+- **WHEN** the site is built
+- **THEN** `/blog/feed.xml` parses as well-formed XML with an RSS 2.0 root
+
+### Requirement: Feed discovery
+Every page SHALL advertise the blog feed with an RSS alternate link in its head, and `/blog/` SHALL show a visible link to the feed.
+
+#### Scenario: Autodiscovery
+- **WHEN** a feed reader is given any page URL on the site
+- **THEN** it finds the blog feed through the page's RSS alternate link
+
+#### Scenario: Visible link
+- **WHEN** a reader opens `/blog/`
+- **THEN** the page shows a link to `/blog/feed.xml`
+
 ### Requirement: Header navigation
 The header nav SHALL include a "Blog" item linking to `/blog/`, placed after "Home" and before "Newsletter", and marked active on `/blog/` and every post page.
 

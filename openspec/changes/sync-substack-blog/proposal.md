@@ -17,7 +17,8 @@ Glenn's long-form writing lives only on Substack (State Transition, served at `w
 - Point each blog post's `rel=canonical` at its original Substack URL, so search engines treat Substack as the source.
 - Show the State Transition subscribe link on blog post pages.
 - Add a "Blog" item to the header nav between "Home" and "Newsletter".
-- Add an `npm run sync` command for manual re-runs, and commit the output of one full sync.
+- Add an RSS 2.0 feed of every blog post at `/blog/feed.xml`, with full post content and items linking to the posts on glennstovall.com, discoverable from every page's head and from `/blog/`.
+- Add an `npm run sync` command for manual re-runs, and commit the output of one full sync. Re-runs write only posts and images that are new or changed, leave unchanged files untouched, and delete posts no longer on Substack.
 
 The sync is one-way. It never writes to Substack.
 
@@ -26,7 +27,7 @@ The sync is one-way. It never writes to Substack.
 ### New Capabilities
 
 - `blog-sync`: how the site copies State Transition posts from Substack, including which posts it fetches, the Markdown and metadata it writes, the section and tag mappings, link rewriting, image downloading, and re-run behaviour.
-- `blog-posts`: how synced posts appear on the site, including post URLs, the post page and its metadata, the `/blog/` index, canonical links, and the header nav entry.
+- `blog-posts`: how synced posts appear on the site, including post URLs, the post page and its metadata, the `/blog/` index, canonical links, the RSS feed, and the header nav entry.
 
 ### Modified Capabilities
 
@@ -34,9 +35,9 @@ The sync is one-way. It never writes to Substack.
 
 ## Impact
 
-- **New code:** a sync script under `_scripts/`, a blog directory data file, a post layout, and a `/blog/` index page.
-- **Changed templates:** `layouts/page.html` (nav item), `includes/head.html` (canonical override for blog posts).
+- **New code:** a sync script under `_scripts/`, a blog directory data file, a post layout, a `/blog/` index page, and a feed template.
+- **Changed templates:** `layouts/page.html` (nav item), `includes/head.html` (canonical override for blog posts, feed autodiscovery link).
 - **Styles:** `assets/style.css` for post metadata and the index list, with dark mode.
 - **Content:** about 78 new Markdown files and about 111 images committed to the repo.
-- **Dependencies:** one new dev dependency for HTML-to-Markdown conversion.
+- **Dependencies:** two new dev dependencies, one for HTML-to-Markdown conversion and Eleventy's RSS plugin for the feed.
 - **External dependency:** Substack's public, undocumented JSON API. If it changes, the script breaks, but the committed posts keep building.

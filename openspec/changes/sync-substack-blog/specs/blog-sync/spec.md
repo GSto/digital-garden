@@ -105,19 +105,38 @@ The sync SHALL download every image a post displays, and the post's cover image,
 - **WHEN** an image cannot be downloaded
 - **THEN** the sync stops with an error naming the post and image URL, and changes no files
 
-### Requirement: Repeatable sync
-Re-running the sync SHALL reproduce the same files when nothing on Substack changed, SHALL update posts edited on Substack, and SHALL remove posts and images that are no longer public on Substack.
+### Requirement: Incremental sync
+The sync SHALL write a post's file or image only when it is new or its content differs from the file already in the site, SHALL leave every other synced file untouched, and SHALL remove posts and images no longer public on Substack.
 
 #### Scenario: No changes upstream
 - **WHEN** the sync runs twice with no change on Substack
-- **THEN** the second run leaves the working tree unchanged
+- **THEN** the second run writes no files, every synced file keeps its modification time, and the working tree is unchanged
+
+#### Scenario: One post edited upstream
+- **WHEN** one post is edited on Substack and the sync runs
+- **THEN** only that post's file, and any image it newly uses, is written
+
+#### Scenario: New post upstream
+- **WHEN** a new public post appears on Substack and the sync runs
+- **THEN** the sync adds its file and images and leaves existing posts untouched
 
 #### Scenario: Post removed upstream
 - **WHEN** a previously synced post is no longer public on Substack
 - **THEN** the next sync deletes its Markdown file and its images
 
+#### Scenario: Hand-edited post
+- **WHEN** a synced post file was edited by hand and the sync runs
+- **THEN** the sync replaces it with the content from Substack
+
+### Requirement: Sync summary
+At the end of a run the sync SHALL report how many posts were new, updated, unchanged, removed, and skipped, and how many images were downloaded.
+
+#### Scenario: Summary after a no-op run
+- **WHEN** the sync runs with no change on Substack
+- **THEN** it reports every post as unchanged and zero images downloaded
+
 ### Requirement: Failure safety
-If the sync fails partway, it SHALL leave the previously synced posts and images unchanged and SHALL exit with a non-zero status and a message naming the failure.
+If the sync fails before every post converts and every image downloads, it SHALL write, change, and delete no synced files, and SHALL exit with a non-zero status and a message naming the failure.
 
 #### Scenario: Substack rate limit
 - **WHEN** Substack keeps refusing requests after the sync's retries
