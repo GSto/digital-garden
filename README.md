@@ -16,6 +16,12 @@ A starter site for building a [mind garden](https://www.mentalnodes.com/a-garden
 ## :rocket: Usage
 If you're new here, see the _Getting Started_ page in [the wiki](https://github.com/binyamin/eleventy-garden/wiki). Otherwise, check out the wiki guides (coming soon) or FAQ.
 
+## Blog sync
+
+`npm run sync` copies every public post from the State Transition newsletter on Substack into `blog/<slug>.md`, with images in `assets/blog/<slug>/`. The sync is one-way: it only reads from Substack and never publishes there.
+
+Each run writes only posts and images that are new or changed, leaves unchanged files alone, and deletes posts no longer public on Substack. Substack is the source of truth, so hand edits to `blog/*.md` are overwritten on the next sync; fix the post on Substack, then sync again. If any post or image fails, the sync changes no files and exits non-zero.
+
 ## :heart: Contribute
 Feel free to dive in!
 

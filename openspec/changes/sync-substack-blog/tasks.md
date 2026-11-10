@@ -2,34 +2,34 @@
 
 ## 1. Setup
 
-- [ ] 1.1 Add `turndown` and `@11ty/eleventy-plugin-rss` 1.x as dev dependencies and verify both `require` calls succeed in `node -e`
-- [ ] 1.2 Create `_scripts/substack-sync/` with `fetch.js`, `convert.js`, `links.js`, `images.js`, `index.js` and a `test/` folder, add `_scripts/` to `.eleventyignore`, and verify `npm run compile` builds no page from `_scripts/`
-- [ ] 1.3 Add `"sync": "node _scripts/substack-sync/index.js"` and extend `"test"` to run both the tufte-markdown tests and `node --test "_scripts/substack-sync/test/*.test.js"`; verify `npm test` runs the existing tufte-markdown suite green
+- [x] 1.1 Add `turndown` and `@11ty/eleventy-plugin-rss` 1.x as dev dependencies and verify both `require` calls succeed in `node -e`
+- [x] 1.2 Create `_scripts/substack-sync/` with `fetch.js`, `convert.js`, `links.js`, `images.js`, `index.js` and a `test/` folder, add `_scripts/` to `.eleventyignore`, and verify `npm run compile` builds no page from `_scripts/`
+- [x] 1.3 Add `"sync": "node _scripts/substack-sync/index.js"` and extend `"test"` to run both the tufte-markdown tests and `node --test "_scripts/substack-sync/test/*.test.js"`; verify `npm test` runs the existing tufte-markdown suite green
 
 ## 2. Fetching
 
-- [ ] 2.1 Implement cursor paging of `/api/v1/posts?limit=20` and `/api/v1/archive?sort=new` against `https://www.statetransition.co`, joined on post `id`, with about one second between pages; verify with a unit test that feeds two fake pages through an injected fetch and gets the joined list
-- [ ] 2.2 Add retry with exponential backoff (up to four tries) for 429 and 5xx, then a thrown error naming the URL; verify with unit tests for recover-after-429 and give-up-after-four
-- [ ] 2.3 Filter to `audience: everyone`, reporting skipped paid posts; verify with a unit test
+- [x] 2.1 Implement cursor paging of `/api/v1/posts?limit=20` and `/api/v1/archive?sort=new` against `https://www.statetransition.co`, joined on post `id`, with about one second between pages; verify with a unit test that feeds two fake pages through an injected fetch and gets the joined list
+- [x] 2.2 Add retry with exponential backoff (up to four tries) for 429 and 5xx, then a thrown error naming the URL; verify with unit tests for recover-after-429 and give-up-after-four
+- [x] 2.3 Filter to `audience: everyone`, reporting skipped paid posts; verify with a unit test
 
 ## 3. Conversion
 
-- [ ] 3.1 Save HTML fixtures cut from real posts into `_scripts/substack-sync/test/fixtures/`: one each with footnotes, captioned image, subscription widget and button, YouTube embed, tweet embed, digest-post embed, pull quote, and cross-post link; verify each fixture contains the element it is named for
-- [ ] 3.2 Implement Turndown rules for removed widgets and buttons, captioned images with the caption as title, footnotes as `[^n]` with definitions after the body, YouTube/tweet/digest embeds as links, and pull quotes as block quotes; verify one fixture test per rule, plus a test that the converted footnote fixture renders sidenotes through the site's markdown-it setup
-- [ ] 3.3 Implement section-to-type mapping (At the Edges → `at the edges`, Product Thinking Book → `product thinking`, Root Nodes → `articles`) that throws on unknown or missing sections, and tag-to-blogchain mapping; verify unit tests cover all three sections, an unknown section, and a post with no tags
-- [ ] 3.4 Implement front matter output with fixed key order and `JSON.stringify` strings, omitting `subtitle` and `coverImage` when absent; verify a unit test with a title containing a colon and quotes round-trips through Eleventy's front matter parser
+- [x] 3.1 Save HTML fixtures cut from real posts into `_scripts/substack-sync/test/fixtures/`: one each with footnotes, captioned image, subscription widget and button, YouTube embed, tweet embed, digest-post embed, pull quote, and cross-post link; verify each fixture contains the element it is named for
+- [x] 3.2 Implement Turndown rules for removed widgets and buttons, captioned images with the caption as title, footnotes as `[^n]` with definitions after the body, YouTube/tweet/digest embeds as links, and pull quotes as block quotes; verify one fixture test per rule, plus a test that the converted footnote fixture renders sidenotes through the site's markdown-it setup
+- [x] 3.3 Implement section-to-type mapping (At the Edges → `at the edges`, Product Thinking Book → `product thinking`, Root Nodes → `articles`) that throws on unknown or missing sections, and tag-to-blogchain mapping; verify unit tests cover all three sections, an unknown section, and a post with no tags
+- [x] 3.4 Implement front matter output with fixed key order and `JSON.stringify` strings, omitting `subtitle` and `coverImage` when absent; verify a unit test with a title containing a colon and quotes round-trips through Eleventy's front matter parser
 
 ## 4. Links and images
 
-- [ ] 4.1 Implement link rewriting for `statetransition.co`, `www.statetransition.co` and `statetransition.substack.com` `/p/<slug>` links whose slug is synced, dropping the query string and keeping the fragment; verify unit tests for all three hosts, a query string, an unsynced slug, and `/subscribe`
-- [ ] 4.2 Implement image URL decoding to the S3 original and `<uuid>_<w>x<h>.<ext>` naming, with the SHA-256 fallback; verify unit tests using the real CDN URLs from the fixtures and one non-decodable URL
-- [ ] 4.3 Download body images and the cover image per post into `assets/blog/<slug>/`, skipping files already present, and rewrite references to site paths; verify with a unit test using an injected fetch that a second run makes zero image requests
+- [x] 4.1 Implement link rewriting for `statetransition.co`, `www.statetransition.co` and `statetransition.substack.com` `/p/<slug>` links whose slug is synced, dropping the query string and keeping the fragment; verify unit tests for all three hosts, a query string, an unsynced slug, and `/subscribe`
+- [x] 4.2 Implement image URL decoding to the S3 original and `<uuid>_<w>x<h>.<ext>` naming, with the SHA-256 fallback; verify unit tests using the real CDN URLs from the fixtures and one non-decodable URL
+- [x] 4.3 Download body images and the cover image per post into `assets/blog/<slug>/`, skipping files already present, and rewrite references to site paths; verify with a unit test using an injected fetch that a second run makes zero image requests
 
 ## 5. Orchestration
 
-- [ ] 5.1 Implement the build phase (all Markdown in memory, new images staged under the OS temp dir) and the apply phase (write only missing or differing files via temp-file-and-rename, move staged images, delete stale `blog/*.md` and `assets/blog/` files, never `blog/blog.11tydata.js`); verify unit tests against a temp target dir: an unchanged post keeps its mtime, an edited post is rewritten, a new post is added, a removed post and its images are deleted, and a failing image download leaves the target byte-identical
-- [ ] 5.2 Print a summary (posts new, updated, unchanged, removed, skipped; images downloaded) and exit non-zero on any failure; verify a unit test of the counts and a run against an injected failing fetch
-- [ ] 5.3 Document `npm run sync` in the README, including that it is one-way and that hand edits to `blog/*.md` are overwritten; verify the documented command matches `package.json`
+- [x] 5.1 Implement the build phase (all Markdown in memory, new images staged under the OS temp dir) and the apply phase (write only missing or differing files via temp-file-and-rename, move staged images, delete stale `blog/*.md` and `assets/blog/` files, never `blog/blog.11tydata.js`); verify unit tests against a temp target dir: an unchanged post keeps its mtime, an edited post is rewritten, a new post is added, a removed post and its images are deleted, and a failing image download leaves the target byte-identical
+- [x] 5.2 Print a summary (posts new, updated, unchanged, removed, skipped; images downloaded) and exit non-zero on any failure; verify a unit test of the counts and a run against an injected failing fetch
+- [x] 5.3 Document `npm run sync` in the README, including that it is one-way and that hand edits to `blog/*.md` are overwritten; verify the documented command matches `package.json`
 
 ## 6. Site templates
 
