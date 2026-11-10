@@ -100,7 +100,7 @@ The sync still fetches and converts every post on each run (about 11 API calls).
 
 ### 8. Code location and tests
 
-Sync code lives in `_scripts/substack-sync/`: `fetch.js` (API paging and retries), `convert.js` (Turndown rules), `links.js`, `images.js`, `index.js` (orchestration and swap). `npm run sync` runs `node _scripts/substack-sync/index.js`. Tests use `node --test` against saved HTML fixtures cut from real posts, with no network. Add `_scripts/` to `.eleventyignore` so fixture `.html` files are not built as pages. The root `npm test` runs both the tufte-markdown tests and the sync tests.
+Sync code lives in `_scripts/substack-sync/`: `fetch.js` (API paging and retries), `convert.js` (Turndown rules), `links.js`, `images.js`, `index.js` (orchestration, diff and apply). `npm run sync` runs `node _scripts/substack-sync/index.js`. Tests use `node --test` against saved HTML fixtures cut from real posts, with no network. Add `_scripts/` to `.eleventyignore` so fixture `.html` files are not built as pages. The root `npm test` runs both the tufte-markdown tests and the sync tests.
 
 ### 9. Templates
 
