@@ -14,8 +14,13 @@
 {% endif %}
 
 {% assign metatype = "website" %}
-{% if type == "note" %}
+{% if type == "note" or type == "post" %}
     {% assign metatype = "article" %}
+{% endif %}
+
+{% assign canonical = page.url | prepend: site.baseurl %}
+{% if substackUrl %}
+    {% assign canonical = substackUrl %}
 {% endif %}
 
 <meta charset="UTF-8">
@@ -35,7 +40,8 @@
 <!--<meta property="og:image" content="/assets/avatar.png">-->
 <meta property="og:description" content="{{- metadesc -}}">
 
-<link rel="canonical" href="{{ page.url | prepend: site.baseurl }}">
+<link rel="canonical" href="{{ canonical }}">
+<link rel="alternate" type="application/rss+xml" title="Glenn Stovall: Blog" href="/blog/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@300;400;600&family=Inter:wght@200;400&display=swap" rel="stylesheet">

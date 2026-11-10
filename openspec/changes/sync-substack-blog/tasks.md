@@ -33,15 +33,15 @@
 
 ## 6. Site templates
 
-- [ ] 6.1 Add `blog/blog.11tydata.js` (layout `post.html`, `type: "post"`, permalink `/blog/{{ page.fileSlug }}/`) and a `posts` collection over `blog/*.md` sorted newest first in `.eleventy.js`; verify with two hand-made sample posts that `npm run compile` outputs `_site/blog/<slug>/index.html` and the notes collection count is unchanged
-- [ ] 6.2 Add `layouts/post.html` showing title, subtitle, date, post type, blogchains only when present, a link to the Substack original, the content, and the subscribe include; verify in the built sample post HTML
-- [ ] 6.3 Make `includes/head.html` use `substackUrl` for `rel=canonical` and treat `type == "post"` as `og:type` article; verify the built sample post's canonical is its Substack URL and a built note's canonical is unchanged
-- [ ] 6.4 Add `blog.md` with permalink `/blog/` listing posts as archive-style entries: title link, subtitle, date on the left, cover thumbnail link on the right, no image box when there is no cover; verify in the built HTML with one sample post with a cover and one without
-- [ ] 6.5 Add the "Blog" nav item between Home and Newsletter, active when `page.url contains '/blog'`; verify built nav order reads Home, Blog, Newsletter, Notes, Book and only Blog is active on `/blog/`
-- [ ] 6.6 Add post metadata and post-list styles to `assets/style.css` with dark mode overrides and no inline styles; verify in `npm start` in light and dark mode and at 375px wide, with thumbnails staying right of the text and no horizontal scroll
-- [ ] 6.7 Register the RSS plugin and add `blog-feed.liquid` (permalink `/blog/feed.xml`) with one item per post, newest first, full content via `htmlToAbsoluteUrls`, and links to `https://www.glennstovall.com/blog/<slug>/`; verify `xmllint --noout _site/blog/feed.xml` passes, the item count matches the sample posts, and a sample image `src` is absolute
-- [ ] 6.8 Add the RSS alternate link to `includes/head.html` and a visible feed link on `/blog/`; verify both appear in the built HTML of `/blog/` and a note page
-- [ ] 6.9 Remove the sample posts and verify `npm run compile` still succeeds with an empty `blog/` and an empty but well-formed feed
+- [x] 6.1 Add `blog/blog.11tydata.js` (layout `post.html`, `type: "post"`, permalink `/blog/{{ page.fileSlug }}/`) and a `posts` collection over `blog/*.md` sorted newest first in `.eleventy.js`; verify with two hand-made sample posts that `npm run compile` outputs `_site/blog/<slug>/index.html` and the notes collection count is unchanged
+- [x] 6.2 Add `layouts/post.html` showing title, subtitle, date, post type, blogchains only when present, a link to the Substack original, the content, and the subscribe include; verify in the built sample post HTML
+- [x] 6.3 Make `includes/head.html` use `substackUrl` for `rel=canonical` and treat `type == "post"` as `og:type` article; verify the built sample post's canonical is its Substack URL and a built note's canonical is unchanged
+- [x] 6.4 Add `blog.md` with permalink `/blog/` listing posts as archive-style entries: title link, subtitle, date on the left, cover thumbnail link on the right, no image box when there is no cover; verify in the built HTML with one sample post with a cover and one without
+- [x] 6.5 Add the "Blog" nav item between Home and Newsletter, active when `page.url contains '/blog'`; verify built nav order reads Home, Blog, Newsletter, Notes, Book and only Blog is active on `/blog/`
+- [x] 6.6 Add post metadata and post-list styles to `assets/style.css` with dark mode overrides and no inline styles; verify in `npm start` in light and dark mode and at 375px wide, with thumbnails staying right of the text and no horizontal scroll
+- [x] 6.7 Register the RSS plugin and add `blog-feed.liquid` (permalink `/blog/feed.xml`) with one item per post, newest first, full content via `htmlToAbsoluteUrls`, and links to `https://www.glennstovall.com/blog/<slug>/`; verify `xmllint --noout _site/blog/feed.xml` passes, the item count matches the sample posts, and a sample image `src` is absolute
+- [x] 6.8 Add the RSS alternate link to `includes/head.html` and a visible feed link on `/blog/`; verify both appear in the built HTML of `/blog/` and a note page
+- [x] 6.9 Remove the sample posts and verify `npm run compile` still succeeds with an empty `blog/` and an empty but well-formed feed
 
 ## 7. Full sync and integration
 

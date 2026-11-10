@@ -202,6 +202,7 @@ function renderPost(post, slugs) {
       ["postType", postType(post)],
       ["blogchains", blogchains(post)],
       ["coverImage", cover?.sitePath],
+      ["templateEngineOverride", "md"],
     ]);
     return { slug: post.slug, markdown: `${header}\n\n${markdown}\n`, images };
   } catch (error) {

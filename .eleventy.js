@@ -1,4 +1,5 @@
 const tufteMarkdown = require('./lib/tufte-markdown');
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   const markdownIt = require("markdown-it");
@@ -37,6 +38,22 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("pages", function (collection) {
     return collection.getFilteredByGlob(["pages/**/*.md"]);
   });
+
+  eleventyConfig.addCollection("posts", function (collection) {
+    return collection.getFilteredByGlob(["blog/*.md"]).sort((a, b) => b.date - a.date);
+  });
+
+  eleventyConfig.addFilter("readableDate", (date) =>
+    new Date(date).toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric", timeZone: "UTC" })
+  );
+
+  eleventyConfig.addFilter("isoDate", (date) => new Date(date).toISOString());
+
+  eleventyConfig.addFilter("dateToRfc822", (date) => new Date(date).toUTCString());
+  eleventyConfig.addFilter("getNewestCollectionItemDate", pluginRss.getNewestCollectionItemDate);
+  eleventyConfig.addLiquidFilter("htmlToAbsoluteUrls", (html, base) =>
+    html ? pluginRss.convertHtmlToAbsoluteUrls(html, base, { closingSingleTag: "slash" }) : ""
+  );
 
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy({ "lib/tufte-markdown/tufte-markdown.css": "assets/tufte-markdown.css" });

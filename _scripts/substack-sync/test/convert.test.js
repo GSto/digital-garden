@@ -141,6 +141,7 @@ test("front matter round-trips through the front matter parser", () => {
     postType: "articles",
     blogchains: ["Prompt Protocols"],
     coverImage: "/assets/blog/first-post/abc-123_10x20.png",
+    templateEngineOverride: "md",
   });
   assert.strictEqual(content, "\nHello.\n");
   assert.deepStrictEqual(rendered.images.map((image) => image.file), ["abc-123_10x20.png"]);

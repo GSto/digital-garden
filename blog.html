@@ -1,0 +1,19 @@
+---
+layout: page.html
+title: Blog
+permalink: /blog/
+---
+<h1>Blog</h1>
+<p class="feed-link sans"><a href="/blog/feed.xml">RSS feed</a></p>
+<ul class="post-list">
+{% for post in collections.posts %}
+  <li class="post-entry">
+    <div class="post-entry-text">
+      <a class="post-entry-title" href="{{ post.url }}">{{ post.data.title }}</a>
+      {% if post.data.subtitle %}<p class="post-entry-subtitle">{{ post.data.subtitle }}</p>{% endif %}
+      <time class="post-entry-date sans" datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time>
+    </div>
+    {% if post.data.coverImage %}<a class="post-entry-image" href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.data.coverImage }}" alt="" loading="lazy"></a>{% endif %}
+  </li>
+{% endfor %}
+</ul>

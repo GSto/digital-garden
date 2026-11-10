@@ -75,7 +75,8 @@ nav.sans ul {
   padding: 0;
   margin: 0;
   display: flex;
-  gap: 2rem;
+  flex-wrap: wrap;
+  gap: 0.5rem 2rem;
   align-items: center;
 }
 
@@ -146,6 +147,108 @@ article {
   }
 }
 
+.post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  font-size: 1.1rem;
+  color: var(--tufte-brown);
+}
+
+.post-type,
+.post-blogchain {
+  text-transform: lowercase;
+}
+
+.post-blogchain {
+  border: 1px solid currentColor;
+  padding: 0 0.5rem;
+}
+
+.feed-link {
+  font-size: 1.1rem;
+}
+
+.post-list {
+  width: 55%;
+  padding: 0;
+  list-style: none;
+}
+
+.post-list li.post-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.post-entry-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.post-entry-title {
+  display: block;
+  font-size: 1.6rem;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.post-entry-title:hover {
+  text-decoration: underline;
+}
+
+.post-entry-subtitle {
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: var(--tufte-brown);
+}
+
+.post-entry-date {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--tufte-brown);
+}
+
+.post-entry-image {
+  flex: 0 0 9rem;
+}
+
+.post-entry-image img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
+@media (max-width: 760px) {
+  .post-list {
+    width: 100%;
+  }
+
+  .post-list li.post-entry {
+    gap: 1rem;
+  }
+
+  .post-entry-title {
+    font-size: 1.3rem;
+  }
+
+  .post-entry-subtitle {
+    font-size: 1.05rem;
+  }
+
+  .post-entry-image {
+    flex-basis: 5.5rem;
+  }
+}
+
 /* Dark mode navigation */
 @media (prefers-color-scheme: dark) {
   nav.sans a {
@@ -154,6 +257,16 @@ article {
 
   nav.sans {
     border-bottom: 1px solid #333;
+  }
+
+  .post-meta,
+  .post-entry-subtitle,
+  .post-entry-date {
+    color: #aaa;
+  }
+
+  .post-list li.post-entry {
+    border-bottom-color: #333;
   }
 }
 

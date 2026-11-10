@@ -1,0 +1,15 @@
+---
+layout: page.html
+---
+<h1>{{ title }}</h1>
+{% if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
+<p class="post-meta sans">
+  <time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time>
+  <span class="post-type">{{ postType }}</span>
+  {% for chain in blogchains %}<span class="post-blogchain">{{ chain }}</span>{% endfor %}
+  <a class="post-original" href="{{ substackUrl }}">Read on State Transition</a>
+</p>
+
+{{ content }}
+
+{% include substack.html %}
