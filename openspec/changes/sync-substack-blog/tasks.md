@@ -50,4 +50,4 @@
 - [x] 7.3 Run `npm run sync` a second time and verify it reports 78 unchanged and 0 images downloaded, `git status` shows no changes, and `find blog assets/blog -newer <marker>` lists nothing
 - [x] 7.4 Run `npm run compile` and `npm test` and verify both pass; open `/blog/` and one post per embed type in `npm start` and confirm the figures, sidenotes, and embed links render and every internal link resolves
 - [x] 7.5 Verify the built feed with `xmllint --noout` and an item count of 78, then load `/blog/feed.xml` in a feed reader or validator and confirm one full post renders with its images
-- [ ] 7.6 Commit the code, then commit the synced content in a separate commit
+- [x] 7.6 Commit the code, then commit the synced content in a separate commit
