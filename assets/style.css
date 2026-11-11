@@ -165,6 +165,12 @@ article {
   padding: 0 0.5rem;
 }
 
+.post-body p {
+  margin-top: 2.2rem;
+  margin-bottom: 2.2rem;
+  line-height: 2.2rem;
+}
+
 .feed-link {
   font-size: 1.1rem;
 }
