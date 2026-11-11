@@ -25,5 +25,3 @@ In 2022 I started a blog exploring the navigating changing states of the world. 
 - [Financial independence as philosophical suicide](https://www.statetransition.co/p/financial-independence-as-philosophical) — The FIRE movement’s focus on frugality and early retirement can be a way to avoid asking what really matters to you. I dig into ways you can find fulfillment and exercise agency in your finances and work.
 - [How to Improve your product intuition](https://www.statetransition.co/p/how-to-improve-your-product-intuition) - A sample chapter from *System is As System Does*. Learn how to build stronger product instincts through heuristics, pattern matching, and practice.
 - [The Uncertainty Tailspin](https://www.statetransition.co/p/the-uncertainty-tailspin) - Uncertainty triggers a threat response, but if we learn to manage it, we can use it to discover new opportunities.
-
-{% include substack.html %}

@@ -116,11 +116,7 @@ article {
 
 .signup {
   width: 55%;
-  margin: 2rem 0;
-}
-
-.signup-label {
-  margin: 0 0 0.75rem;
+  margin: 0 0 2rem;
 }
 
 .signup-link {

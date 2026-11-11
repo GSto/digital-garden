@@ -10,6 +10,3 @@ Back in 2022, Everything was in flux. COVID was winding down. Interest rates wer
 That’s when I had the idea to start writing to reflect on these watershed moments and how to nagivate the uncertainty they bring. Hence the name State Transition.
 
 These days, I’m writing about that stuff, along with System is As System Does: a book designed to help software engineers sharpen their product skills and think more holistically.
-
-
-{% include substack.html %}
