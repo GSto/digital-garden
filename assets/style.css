@@ -171,6 +171,31 @@ article {
   line-height: 2.2rem;
 }
 
+.post-body h2 {
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+}
+
+.post-body h3 {
+  margin-top: 3rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.9rem;
+}
+
+.post-body h4 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.post-body h2 + p,
+.post-body h3 + p,
+.post-body h4 + p {
+  margin-top: 0;
+}
+
 .feed-link {
   font-size: 1.1rem;
 }
