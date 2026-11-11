@@ -177,8 +177,6 @@ The more you do this, the stronger you become, and the easier it gets. You will 
 
 ## And now, a moment of Zen
 
-Text within this block will maintain its original spacing when published
-
 <pre>Just beyond yourself
 It’s where you need to be
 Half a step into self-forgetting and the rest restored by what you’ll meet
