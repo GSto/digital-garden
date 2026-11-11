@@ -7,10 +7,10 @@ Lets readers reach the State Transition newsletter's subscribe page from the sit
 ## Requirements
 
 ### Requirement: Subscribe link availability
-The site SHALL show the same labelled subscribe link on the home page, the newsletter page, and every note page, and SHALL NOT embed a third-party signup iframe on any of them.
+The site SHALL show the same labelled subscribe link on the home page, the newsletter page, every note page, and every blog post page, and SHALL NOT embed a third-party signup iframe on any of them.
 
 #### Scenario: Link on each page type
-- **WHEN** a reader opens the home page, the newsletter page, or a note page
+- **WHEN** a reader opens the home page, the newsletter page, a note page, or a blog post page
 - **THEN** the page shows one subscribe link with a label naming State Transition
 
 #### Scenario: No signup iframe remains
