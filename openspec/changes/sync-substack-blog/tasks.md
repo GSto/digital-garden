@@ -45,9 +45,9 @@
 
 ## 7. Full sync and integration
 
-- [ ] 7.1 Run `npm run sync` and verify it reports 78 posts new and 0 skipped, and that `blog/` holds 78 Markdown files
-- [ ] 7.2 Verify `grep -r "substackcdn.com" blog/` finds nothing and `grep -rE "statetransition\.(co|substack\.com)/p/" blog/` finds only links to unsynced posts (expect none)
-- [ ] 7.3 Run `npm run sync` a second time and verify it reports 78 unchanged and 0 images downloaded, `git status` shows no changes, and `find blog assets/blog -newer <marker>` lists nothing
-- [ ] 7.4 Run `npm run compile` and `npm test` and verify both pass; open `/blog/` and one post per embed type in `npm start` and confirm the figures, sidenotes, and embed links render and every internal link resolves
-- [ ] 7.5 Verify the built feed with `xmllint --noout` and an item count of 78, then load `/blog/feed.xml` in a feed reader or validator and confirm one full post renders with its images
+- [x] 7.1 Run `npm run sync` and verify it reports 78 posts new and 0 skipped, and that `blog/` holds 78 Markdown files
+- [x] 7.2 Verify `grep -r "substackcdn.com" blog/` finds nothing and `grep -rE "statetransition\.(co|substack\.com)/p/" blog/` finds only links to unsynced posts (expect none)
+- [x] 7.3 Run `npm run sync` a second time and verify it reports 78 unchanged and 0 images downloaded, `git status` shows no changes, and `find blog assets/blog -newer <marker>` lists nothing
+- [x] 7.4 Run `npm run compile` and `npm test` and verify both pass; open `/blog/` and one post per embed type in `npm start` and confirm the figures, sidenotes, and embed links render and every internal link resolves
+- [x] 7.5 Verify the built feed with `xmllint --noout` and an item count of 78, then load `/blog/feed.xml` in a feed reader or validator and confirm one full post renders with its images
 - [ ] 7.6 Commit the code, then commit the synced content in a separate commit

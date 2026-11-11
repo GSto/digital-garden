@@ -38,6 +38,18 @@ function writeAtomically(target, write) {
   fs.renameSync(temp, target);
 }
 
+async function download(sources, fetchOptions) {
+  const errors = [];
+  for (const source of sources) {
+    try {
+      return await getBuffer(source, fetchOptions);
+    } catch (error) {
+      errors.push(error.message);
+    }
+  }
+  throw new Error(errors.join("; "));
+}
+
 async function build(posts, { root, fetchOptions }) {
   const { kept, skipped } = selectPosts(posts);
   const slugs = new Set(kept.map((post) => post.slug));
@@ -50,13 +62,13 @@ async function build(posts, { root, fetchOptions }) {
       const entry = { relative, staged: null };
       if (!fs.existsSync(path.join(root, relative))) {
         try {
-          const bytes = await getBuffer(image.source, fetchOptions);
+          const bytes = await download(image.sources, fetchOptions);
           entry.staged = path.join(staging, relative);
           fs.mkdirSync(path.dirname(entry.staged), { recursive: true });
           fs.writeFileSync(entry.staged, bytes);
         } catch (error) {
           fs.rmSync(staging, { recursive: true, force: true });
-          throw new Error(`Could not download image for post "${slug}" from ${image.source}: ${error.message}`);
+          throw new Error(`Could not download image for post "${slug}" from ${image.sources[0]}: ${error.message}`);
         }
       }
       images.push(entry);

@@ -16,18 +16,21 @@ function tempRoot() {
   return root;
 }
 
-function upstream(posts, { failImages = false } = {}) {
+function upstream(posts, { failImages = false, failCdn = false } = {}) {
   return fakeFetch((url) => {
     if (url.includes("/api/v1/posts")) return jsonResponse({ posts });
     if (url.includes("/api/v1/archive")) return jsonResponse({ posts: posts.map(({ id, section_name }) => ({ id, section_name })) });
-    if (url.startsWith("https://substack-post-media")) return failImages ? bytesResponse("", 404) : bytesResponse(`bytes of ${url}`);
+    if (url.startsWith("https://substack-post-media")) return failImages ? bytesResponse("", 403) : bytesResponse("original bytes");
+    if (url.startsWith("https://substackcdn.com/image/fetch/")) return failImages || failCdn ? bytesResponse("", 404) : bytesResponse("cdn bytes");
   });
 }
+
+const isImageCall = (url) => url.startsWith("https://substack-post-media") || url.startsWith("https://substackcdn.com");
 
 async function run(root, posts, options) {
   const { fetchImpl, calls } = upstream(posts, options);
   const summary = await sync({ root, fetchOptions: { ...fastOptions, fetchImpl } });
-  return { summary, imageCalls: calls.filter((url) => url.startsWith("https://substack-post-media")) };
+  return { summary, imageCalls: calls.filter(isImageCall) };
 }
 
 function snapshot(root) {
@@ -109,6 +112,20 @@ test("a removed post loses its file and images, and the data file stays", async 
   assert.ok(!fs.existsSync(path.join(root, "blog", "first-post.md")));
   assert.ok(!fs.existsSync(path.join(root, "assets", "blog", "first-post")));
   assert.ok(fs.existsSync(path.join(root, "blog", "blog.11tydata.js")));
+});
+
+test("images are downloaded from the resized CDN copy", async () => {
+  const root = tempRoot();
+  const { imageCalls } = await run(root, [first]);
+  assert.ok(imageCalls.every((url) => url.startsWith("https://substackcdn.com/image/fetch/w_1456,")));
+  assert.strictEqual(fs.readFileSync(path.join(root, "assets", "blog", "first-post", "aaa-111_10x10.png"), "utf8"), "cdn bytes");
+});
+
+test("an image the CDN cannot serve falls back to the S3 original", async () => {
+  const root = tempRoot();
+  const { summary } = await run(root, [first], { failCdn: true });
+  assert.strictEqual(summary.imagesDownloaded, 2);
+  assert.strictEqual(fs.readFileSync(path.join(root, "assets", "blog", "first-post", "aaa-111_10x10.png"), "utf8"), "original bytes");
 });
 
 test("a failed image download leaves every file byte-identical", async () => {
