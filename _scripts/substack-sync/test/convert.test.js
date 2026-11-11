@@ -21,7 +21,7 @@ test("each fixture contains the element it is named for", () => {
     "digest-embed.html": 'class="digest-post-embed"',
     "pullquote.html": 'class="pullquote"',
     "cross-link.html": 'href="https://www.statetransition.co/p/',
-    "preformatted.html": '<pre class="text">',
+    "preformatted.html": 'class="preformatted-block"',
   };
   const files = fs.readdirSync(path.join(__dirname, "fixtures"));
   assert.deepStrictEqual(files.sort(), Object.keys(markers).sort());

@@ -190,6 +190,24 @@ article {
   font-weight: 400;
 }
 
+.post-body,
+.post-title {
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+.post-body pre {
+  white-space: pre-wrap;
+}
+
+.post-body figure {
+  display: flow-root;
+}
+
+.post-body figcaption {
+  margin-top: 0.5rem;
+}
+
 .post-body h2 + p,
 .post-body h3 + p,
 .post-body h4 + p {

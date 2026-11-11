@@ -8,7 +8,7 @@ const SECTION_TYPES = {
   "Root Nodes": "articles",
 };
 
-const REMOVED_CLASSES = ["subscription-widget-wrap", "subscription-widget-wrap-editor", "button-wrapper", "captioned-button-wrap", "image-link-expand"];
+const REMOVED_CLASSES = ["subscription-widget-wrap", "subscription-widget-wrap-editor", "button-wrapper", "captioned-button-wrap", "image-link-expand", "hide-text"];
 const REMOVED_TAGS = ["FORM", "BUTTON", "INPUT", "SVG"];
 
 function hasClass(node, name) {
